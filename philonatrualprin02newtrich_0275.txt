@@ -1,0 +1,171 @@
+- Centro D et radio D Β describatur
+
+ann SECUND.] PRINCIPIA MATHEMATICA.
+
+omnes conspirabunt, atque idem eveniet, si sit
+curvatura in P ad curvaturam in Q in minore
+ratione quam distantiae P S ad distantiam Q R.
+Quare quocumque modo percutiatur chorda mu-
+sica, quam citissime induet formam curvae in
+
+Casu 1. descriptae, atque perget moveri more·
+
+Q. e. d.
+
+ibidem descripto.
+
+Caeterum inflexiones seu distantias admodum
+
+parvas ab axe motus tam in chordis musicis quam Α
+in faminis elasticis ex quibus corpora sonora nihil addendum vel subducendum est, cum arcus
+
+compacta esse fingi potest, viribus acceleratricibus
+iso-
+
+proportionales et proinde oscillationes esse
+chronas experimentis ostendit clariss.
+Gravesandius in Elem. Phys. et Mer-
+sennus in Harmonia Universali lon-
+giorum chordarum vibrationes isochro-
+nas oculis observavit. Si vero chorda
+nimia vi pulsetur, vis acceleratrix in ’
+experimentis crescit in majori ratione
+quam distantiae ab axe motus et oscil-
+lationes breviori tempore absolvuntur.
+301. Corol. 1. Datis axibus A C et
+B D curva musica sic potest describi.
+
+circuli quadrans B N E; ducatur ad
+B D, perpendicularis M N circulo
+occurrens in N, et producatur ad P,
+ut sit M P ad D C, in ratione arcus
+
+263
+
+m n perpendiculum N t; evanescente M m, erit
+(ex natura circuli) N M ι N D == N t: N n,
+
+adx
+
+ 
+
+ 
+
+ 
+
+sive4l{2ax---›xx:a=dx:Nn=oxl2ax XX.
+Est igitur d y= N n >< ,χΙ ἑ, et sumpt‘s
+fluentibus y = B N >< 4! ἑ, cui aequationi
+
+B N, evanescente P M seu y evanescat. Verum
+ubi P M coincidit cum C D, seu ubi fit y = ᾗ L,
+
+ 
+
+B N, ad arcum quadrantalem B N E, dico est B N = B N E, et propterea —1.}L= B N E
+5
+
+punctum P esse in curva musica A B C.
+
+Sit enim P punctum curvae musicae A B C,
+etdicantur Β Dr: a, A C=L, D C= {L,
+B M=x, PM=y,arcus13 P=s‚ PS=
+Μ D = z = a -- x, radius curvaturae in B = r:
+et si fluxio d s sive P p constans sumatur, erit
+(126. Lib. Ι.) radius curvaturae in P, seu P O
+
+= §gad—z- -... d ⁵ d x. Sed (ex dem.) B D
+est ad PyS ut curvatura in B ad curvaturam in
+P, id est, ut radius curvaturae in P ad radium
+
+dsdx.
+
+d d . r.
+Quare raddy=xdxds-—a d x dYS, et
+sumptis fluentibus, addita constante Q d S, fit
+rady--gssxxds—axds-fl-st- Eva-
+nesce‘nte B M seu x, fit d y z: d s, seu B P =
+P M (per Cor. 1. Lem. VII. Lib. I.) et aequa-
+tio in hanc abit r a d s ..-= Q d s, ideoque con-
+stans Q = r a. Quare in quovis curvae puncto
+Peritrady[ra†{xx—ax]dS. Pona-
+turax—{xx= bb, utsitrady= [ra—-
+bb]ds, etrraady2=[ra—-bb]‘’ ds²
+=[ra-,-bb]2dy²÷ [ra—bb]²dx2;
+unde deducitur [2 r a b b— b 4] d y ² =
+[r a—bb] ² dx ²; et quia curva A B C fere
+coincidit cum 'axe A C (per Hyp.) ac ides
+quantitas b b minima est respectu quantitatis r a
+in qua radius curvaturae r maximus cst, si con.
+feratur cum a vel x aequatio in hanc abibit
+
+2rabbdy²1=rraadx2, ex qua eruitur
+rffaffdx τὲ
+
+v2ax—-xx-a‘52ssx4l2ax—xx'
+
+ 
+
+curvaturae in B, seu a ς a — x: —
+
+ 
+
+adx
+
+ 
+
+ 
+
+dy=
+
+ 
+
+>< 5( -Ξ, atque adeo μ ἐ = ᾗ ΙᾷΕ. Quare
+in quolibet cnrvae puncto P, est y ·-..-= Ξέ-ἒψΞῖ-ἓ,
+
+et proinde y: 7¹2 L τε Β N: B N Ε, hoc est,
+P M est ad C D ut arcus B N ad quadrantem
+
+B N E. Q. e. d.
+302. Cor-ol. 2. Quia P S est ad B D seu ad
+
+a, ut radius r ad radium P Ο, erit P O >< P S 1
+= a r. Sit diameter circuli ad circumferentiam
+utladc et ideoaadBNEutl ad-{Q seu
+
+ 
+
+ 
+
+ 
+
+ΒΝΕΞὲᾶο, etcumsit (301) ,ss-³: B{NLE'
+r L r LL L L
+‘ssva-'²502 3=a2cffetr=ao2³
+ειςυὲΡΟΧΡὸεατς-Ξὲἑ,
+PROPOSITIO.
+
+303. Si diameter circuli sit ad circumferentia-m
+ut 1, ad c, et chordae musicae uniformiter crassen
+tangitudo sic L, pondus P, pondus quo tenditur
+G et penduli in cycloide osculantis longitudo D ‚-
+tempus quo chorda illa oscillationem unam perfi-
+cit, erit ad tempus unius oscillationis penduli in
+ratione subduplicatd P L ad c c D G‚· numerus
+verb oscillationum clzordae tempore unias oscilla-
+
+D G
+L Ρ·
+
+Nam vis qua particula P p in loco P, existens
+urgetur dicatur A, ejusdem pondus Β et (per
+
+tionis penduli erit c 4!
+
+ 
+
+Ducatnr in circulo altera ordinata m n priori dem. 299.) erit A ad G, ut P p ad P Ο, et ob
+M N proxima, et ex puncto N demittatur ad uniformem chordae crassitudinem cst P ad B, ut
+
+R4
+

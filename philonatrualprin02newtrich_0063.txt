@@ -1,0 +1,63 @@
+me SECUND] PRINCIPIA MATHEMATICA. 51
+
+gumento, in ascensu corporis, sumendo, ad contrariam partem puncti A,
+aequales areas 'A B m i, im n k, k n o l, &a constabit quod vires absolutae
+A C, i C, k C, l C, διο. sunt continue proportionales. ‚ Ideoque si spatia
+omnia in ascensu et descensu capiantur aequalia3 omnes vires absolutae
+l C, k C, i C, A C, I C, K C, L C, διο. erunt vcontinue proportionales.
+Q. e. d. ’
+
+Corol. 1. Hinc si spatium descriptum exponatur per aream hyperboli-
+cam A Β Ν K3 exponi possunt vis gravitatis, velocitas corporis et re-
+sistentia medii per lineas A C, A P et A K respective 3 (a) et vice
+versa.
+
+- Corol. 2. Et velocitatis maximae, quam corpus in infinitum descendendo
+potest unquam acquirere, (b) exponens est linea A C.
+
+Corol. 3. Igitur si in data aliqua velocitate cognoscatur resistentia me- 1
+dii, invenietur velocitas maxima, sumendo ipsam ad velocitatem illam da-
+tam in subduplicata ratione, quam habet vis gravitatis (⁰) ad medii resis-
+tentiam illam cognitam.
+
+A p >< l C >< l o, hoc est, ob datum rectangu- ,
+
+lum l C >< 1 0, ut A p. Ergo, co'ezuntibus
+punctis k, l, area hyperbolica k n o l = k l ><
+10, est ut A p. Componitur igitur area tota
+hyperbolica 2 A B o l ex particulis k n o l velo-
+citati A p semper proportionalibus, et propterea
+spatio velocitate ista descripto proportionalis
+est. Dividatur jam area illa in partes aequales
+A B mi; im n k, k n ol, &c. et vires absolutae
+A C, i C, k C, l C, &c. erunt in progressione
+geometrica. Q. e. d.
+
+(²) '¹‘ Ec vice υενεᾶ. Simili modo si in ascensu
+corporis, spatium usque ad motus extinctionem
+describendum exponatur per aream hyperbolicam
+A B n k exponi possunt vis gravitatis, ‘velocitas
+
+{rigoris et resistentia medii per lineas A C, A p,
+
+(¹³) ⁹¹⁵ Exponens est linea A C. Fiat enim A P
+= A C, et quia (per constr.) A P2 = A K
+>< Α C, erit etiam A K = A C, ideoque coin-
+cidente ordinata K N, cum asymptoto C H,
+area hyperbolica A Β N K, infinita evadet, et
+spatium „ descendendo descriptum huic propor—
+tionale erit quoque infinitum, gravitas vero, re-
+sistentia et velocitas corporis exponentur per li-
+neam A C, eritque proinde resistentia gravitati
+aequalis, et propterea velocitas A C maxima.
+
+(α) * Ad medii resistentiam illam cognitam.
+Cum enim velocitates sint in subduplicata ra-
+tione resistentiarum (per Hyp.) et resistentia sit
+gravitati aequalis, ubi velocitas maxima est, (per
+Cor. 2.) velocitas maxima erit ad velocitatem da-
+tam in subduplicata ratione gravitatis ad medii
+resistentiam illam cognitam.
+
+Da
+

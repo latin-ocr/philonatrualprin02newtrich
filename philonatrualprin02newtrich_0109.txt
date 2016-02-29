@@ -1,0 +1,123 @@
+„, ress: <-
+
+1* &327 Τ
+
+Lmen SECUND.] PRINCIPIA MATHEMATICA„ 97
+
+tium quodvis R S E D descriptum.
+
+spatium ex data velocitate, et contra.
+
+(¹) Invento autem puncto G, datur
+
+Corol. 3. Unde cum (per Prop. XI.) detur velocitas ex dato tempore,
+et per hanc Propositionem detur spatium ex data velocitate3 dabitur spa-
+
+tium ex dato tempore: et contra.
+
+PROPOSITIO XIII.
+
+THEOREMA X.
+
+Posito quod corjpus αῖ) ung'formz' gravitate deorsum attractum rectci ascendit
+vel descendit; et quod eidem resistitur partim in ratione velocitatis, par-
+tim in ejusdem ratione duplicatci: dico quod, sz' circuli et hyperboloe dia-
+metris paralleloe rectoe per conjugatarum diametrorum terminos ducantur,
+et velocitates sint ut segmenta quaedam parallelorum a dato puncto ducta ,-
+tempora erunt ut arearum sectores, rectis α centro ad segmentorum termi-
+
+nos ductis abscissi: et contra.
+
+Cas. 1.
+
+tum A P velocitati proportionale.
+
+resistentiae pars altera sit ut velocitas, et pars
+
+Ponamus primo quod corpus
+ascendit, centroque D et semi-diametro quo—
+vis D B describatur circuli quadrans B E TF,
+et per semi-diametri D ’Β terminum B agatur
+infinita B A P, semi-diametro D F parallela.
+In ea detur punctu-m A, et capiatur segmen-
+
+Et cum
+
+ 
+
+altera ut velocitatis quadratum 3 sit resistentia D F
+
+(¹) ⁴* Invento autem puncto G, &c- Si enim
+velocitas data, sit ad velocitatem sub initio ut
+G A ad G R, dabitur punctum A, et hinc da-
+bitur ar& A B S R, seu spatium descriptum.
+Et contra dato spatio, slve data area A Β S R,
+dabitur punctum A, et inde velocitas G A. Ex
+his autem patet spatium finitum infinito tem-
+pore describi3 ubi enim punctum D coincidit
+cum puncto G, velocitas om'nis extinguitur, et
+spatium descriptum exponitur per aream finitam
+quam ordinata R S abscindit cum alterfi ordina-
+ta per G ducta; velocitas vero nonnisi infinito
+§rppore potest evanescere (per Cor. 1. Pmp.
+
+138. Schol. Eadem per analysim facile inve-
+niuntur. Dicantur resistentia r, celeritas initialis
+c, spatium descriptum s, tempus t, velocitas re-
+
+sidua v, ponaturque r = 2⁸3- v v, erit (16, 17)
+
+rds=---vdv‚ seu avds÷vvds=-
+
+k Vor„ 11.
+
+ 
+
+ 
+
+b v d v, et hinc d s = — atque adeo
+
+a -Ι- ν’
+s = Q—b >< L. a -†- v; quia vero ubi s=o
+fit v = c, invenitur constans Q= b >< L. a -Ι- c,
+
+etideos=b><L.H-vc-. SitL.h.—.=1‚et
+
+itsXL.h—La†c „⁸- ⁸
+
+b — ” a -ἦ- ν’ ““““ a -ᾖ- v '
+
+unde eruitur v = a ’ΐ- c — a3 quare dato spa-
+h'b‘
+
+tio datur velocitas et contra. Cum autem sit
+
+(15)dt=d—⁵—--P-d-v—-=E>< dv
+
+v av-ff-vv a, a-}-v
+--ἓ-χὰῖν, eritt= Q÷ ΞΧ LE:
+
+—P-XL.Y‚=Q‚†{-><L.assv,etpo·
+
+8
+
+ 
+
+ 
+
+ΘΥ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+σ
+

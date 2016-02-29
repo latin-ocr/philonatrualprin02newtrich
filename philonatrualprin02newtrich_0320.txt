@@ -1,0 +1,120 @@
+308 >PHILOSOPHIAE NATURALIS [Mai-‚Comma
+
+revolvi3 et pone summam temporis revolutionis hujus et revolutionis globi
+esse ad tempus revolutionis globi, ut quadratum semi-diametri vasis ad
+quadratum semi-diametri globi3 et tempora periodica partium fluidi,
+respectu plani hujuS, erunt ut quadrata distantiarum suarum a centro
+globi.
+
+Corol. 10. Proinde si vas vel circa axem eundem cum globo, vel circa
+diversum aliquem data cum velocitate quacumque moveatur, dabituromo-
+
+tus fluidi. Nam si systemati toti auferatur. vasis motus angularis, mane-
+
+bunt motus omnes iidem inter se qui priuS, per Corol. 8. (ε) Et motus
+isti per Corol. 9. dabuntur. Α
+
+PROBLEMA.
+
+Quia ver& planum tempore t E uniformi motu
+revolutionem suam D I Ο absolvit, est t E ad
+
+X ut D 1 Ο ad spatium modo inventum, seu ut 529. Sphaera solida in fluido infinito et in ezi-
+
+’ rum a centro globi.
+
+SD²><t i·1adSD'2><tE-X><[SE2-
+SD2]; unde habetur SD2>< x><tE=
+SD2><tE²—X><tE><[SE2—-SD²],
+etide68E2><X=SD2><tE,acproinde
+
+SD²><tE
+
+tempus X = ——S-—E—i-——. cum ergo t E et
+
+S E sint quantitates datae, tempus periodicum
+X particulae fluidi D respectu plani praedicti est
+ut S D 2, sive ut quadratum distantiae a centro
+globi. Et quia omnium particularum in eodem
+
+ 
+
+orbe constitutarum tempora periodica aequantur
+inter se; earum omnium tempora periodica re-
+spectu plani sunt ut quadrata distantiarum sua-
+
+Q. e. d.
+
+(ο) ²* Et motus isti per carol. 9. dabuntur,
+proindeque si cum iis motaebus· datis componatur
+vasis motus angularis datus, dabitur motus fluidi
+in vase data cum velocitate moto.
+
+dem a centro distantia similari, sed in diversis
+distantiis in data quavis distantiarum ratione in.
+aequaliter denso circa axem positione datum uni-
+formi cum motu revolvatur et a spbaerae impulsu
+solo agatur fluidum in orbem, perseveret autem
+fluidi pars unaquaeque uniformiter in motu suo,
+sitque resistentia quae oritur ex defectu lubrici-
+tatis partium fluidi, caeteris paribus, in ratione
+composita ex ratione qualibet densitatis et ratione
+etiam quacumque velocitatis relativae, oportet
+invenire tempora periodica partium fluidi.
+
+Distinguatur fluidum in orbes innumeros con-
+centricos ejusdem crassitudinis ut in demonstra.
+tione Prop. LII. sactum est; dicanturque A D
+= x, fluidi densitas in loco D = z, translatio
+orbium ab invicem tempore dato = v, densitas
+z sit proportionalis dignitati x ¹¹, et resistentia,
+caeteris paribus, sit ut z ¹¹² v Ρ, seu ut x ¹¹¹ ¹¹ v ⁴².
+Quia superficies sphaerica D Ι 0, est ut x ², erit
+impressio orbis D 1 O, in orbem contiguum. ut
+x ² -i- ¹¹¹ ¹² v Ρ ; sed ut orbis unusquisque in mo-
+tu suo uniformiter perseveret, debent impressio-
+nes ex parte utraque sibi invicem :equari et (ieri
+in regiones contrarias, ac proinde quantitas
+x ² -i- ¹¹³ '¹ v Ρ, debet esse constans. Quare erit
+
+. Sunt autem
+
+ 
+
+x2÷ffi,etvut
+
+ 
+
+2÷mn
+χ Ρ
+
+ 
+
+differentiae motuum angularium circa axem
+ut translationes orbium applicatoe ad distantias,
+
+ 
+
+hoc est, ut ξ, sive ut —2-4-4-40-3. Sit jam
+ι)
+D E = d x, et ordinat: D d, ad curvam a b d e,
+
+1
+,⁴3 4- m n
+x ν
+hoc est, motus totus angularia ut area D d Q, quae
+
+sit ut erit summa dIffercntiarum,
+
+ 
+
+ 
+
+41
+
+ 
+
+ 
+
+ΠΒ
+

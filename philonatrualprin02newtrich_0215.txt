@@ -1,0 +1,117 @@
+LmER SECUND.] PRINCIPIA MATHEMATICA.
+
+A D Β Ε circa axem A Β facta generetur,
+et tangatur figura generans a rectis tribus
+F G, G H, H I in punctis F, B et I, ea
+lege ut G H sit perpendicularis ad axem
+in puncto contactus B, et F G, H I cum
+eadem G H contineant angulos F G B, ⁵
+
+ex rotatione rectae q n geniti .'—-· p ay d x et cum
+sit(197),11m2adnq2‚ seu Fs2ad FE2,
+sive 2 ad 1, ut illius annuli resistentia ad resis-
+tentiam superficiei ex revolutione rectae n m
+genitae, haec resistentia erit ut ᾗ p ay d x. Quare
+resistentia superficiei quam figura n m N circa
+E B rotata describit, exponatur per quantitatem
+p a.y d y — ἑ p a y d x, et, sumptis fluentibus,
+harum resistentiarum summa per totum arcum
+B N exponetur per -ξ- p ay y—{pax B NP
+aream, cui nihil addendum est nec subducen-
+dum; cum facta y = o, haec fluens evanescat,
+ut oportet. Si ver& loco y scribatur b, seu F E,
+resistentia omnium superficierum quae ex rota-
+tione figurarum n m N, per totum arcum F B,
+descriptarum generarentur, erit ut ᾗ Ρ a b b -—
+7}an BNFEaream.
+
+Porrd resistentia circuli radio G B descripti
+exponenda est per ἦ p a c c, et resistentia circuli
+radio F E descripti per ᾗ p a b b; ide6que ducta
+G H ad F E normali, resistentia annuli circula-
+ris ex rotatione rectae F H, per ἦ p a b b —-
+{pacm undecumsit,FS²adFE2, seu2
+ad l ut annuli illius resistentia ad resistentiam
+superficiei ex rotatione rectae F G, haec resisten-
+tia erit ut ᾖ p a b b—{ p a c c, totaque proinde
+resistentia coni truncati ex rotatione figurae F G B
+geniti exponetur per ἦ p a b b -1- 7¹,- p a c c.
+Quare resistentia omnium superficierum quas
+figurae n m N, per totum arcum B N F distri-
+butae rotando describunt, est ad resistentiam
+frusti conici ex revolutione figurae F G B orti ut
+{pabb—{pax B N F E, ad {pabb
+-ἢ- 0} p a c c; sive dividendo per ᾗ p a, ut 2 b b
+—2BNFEadbb-1-cc. Si areaBNFE
+aequalis esset trapezio B G F E, cum hoc sit =
+
+{Essxm=bb†⁰⁶
+
+, foret
+2b b-2 B N F E=bb÷cc3 ideoque
+praedictae resistentiae duae aequales essent 3 sed
+trapezium B G F E majus est area B N F E,
+quae (per Hyp.) tota in trapezio continetur, et
+propterea quantitas 2 b b — 2 B N F E, major
+est quantitate b b -Ι- c c; resistentia igitur om-
+nium superficierum ex rotatione figurarum an,
+superat resistentiam coni truncati ex revolutione
+figurae F G B producti· Verum (199) resis-
+tentia superficiei quam figura n m, N circa E B
+rotando describit, minor est resistentia superficiei
+quam in eadem rotatione describit n N ; ideoque
+resistentia omnium superficierum quas figurae
+n m N, per totum arcum B N F distributae ro-
+tando describunt, minor est resistentia totius su-
+perficiei ex rotatione arcus B N F genitae. Ergo
+
+ 
+
+203
+
+ 
+
+resistentia coni truncati per rotationem figurae
+F G B descripti minor quoque est quam resis-
+tentia superficiei ex rotatione arcus B N F pro-
+ductae. Q. e. d.
+
+201. Quaecumque igitur sit figura (in textu)
+A N B, regularis vel irregularis, modo arcus
+F B concavitatem axi A B obvertat‚ et totus in·
+tra lineas F G, B G contineatur, per hanc New-
+toni Propositionem inveniri semper potest alia
+figura majoris capacitatis et minoris resistentiae;
+quod in construendis navibus usum habere potest.
+Resistentia adhuc minuitur si loco circuli radio
+G B descripti adjungatur conus quem recta G R,
+ad axem productum utcumque ducta rotando
+describit. In omnibus autem curvis, quae aequae
+tione inter abscissas x et ordinatas y definiuntur,
+facillime invenitur punctum B per quod ducta
+tangens angulum semi-rectum cum ordinatii
+perpendiculari constituit. Quia in illo puncto
+Β, ordinatae fluxio d y aequalis est fluxioni ab·
+scissae d x ut si aequatio ad curvam sit a 2 x ==
+y 3, et sumptis fluxionibus a 2 d x = 3 y 2 (1 y,
+ponendo d x = d y, habetur a 2 == 5 y 2, et
+hinc y ..-·=.- a γ ᾖ, unde per aequationem a 2 x =
+
+y ³, invenitur x = -ἑ a ,χΙ-ξ.
+
+PROBLEMA.
+
+202. Data curva K B A quam recta Q A ad
+axem C A perpendicularis tangit in A, invenire
+punctum B per quod si ducatur tangens altera
+B Q priori Q A occurrens in Q, resistentia soli-
+di per convolutionem figurae K B Q A, circi
+axem C A descripti sit in suo genere minima.
+
+ 
+
+Eadem constructione qua supra (192) fact53
+ex puncto Q ducatur ad H T perpendicularis
+Q N secans K C in M dicanturque C l = a,
+A R=x‚ BRscuPc=y‚ PHseu TC
+

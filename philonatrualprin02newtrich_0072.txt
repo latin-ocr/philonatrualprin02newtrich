@@ -1,0 +1,134 @@
+60
+
+ut a P, ad a C, hoc est, ut velocitas corporis pro·
+jecti est ad velocitatem maximam quam corpus e
+quiete cadendo potest acquirere. cam igitur
+arearum A B N K et G D T, momenta L K N
+et D T V sint ut velocitates, erunt arearum illa-
+rum partes omnes simul genitae ut spatia simul
+descripta, ideoque areae totae ab initio genitae
+A B N K et G D T, ut spatia tota ab initio
+projectionis descripta.
+102. Corol. 3. Velocitas a P corporis projecti
+’ in fine temporis G T D, est ad velocitatem quam
+corpus velocitate initiali a F projectum eo-
+dem tempore in medio non resistente ca-
+dendo haberet, ut triangulum a P D ad
+summam trianguli a F D et sectoris hyper-
+bolici G T D. Nam velocitatis incremen-
+tum tempore G T D in spatio non resis-
+tente genitum est ut tempus G T D, et ve-
+locitas projectionis ut a F, sive ut triangu-
+lum a F D, atque ade& velocitas tota in fine
+temporis G T D ut G T D 4- aaF D, et
+velocitas in fine temporis ejusdem G T D
+
+in medio resistente est ut a P, id est. ut a
+
+triangulum a P D, et velocitates illae initio
+projectionis aequantur inter se, perinde ut
+areae illae GTD÷aFDetaPD‚ ob
+sectorem G T D evanescentem, et a P ae-
+qualem a F initio descensus.
+
+105. Corol. 4. Tempus quo corpus in
+medio resistente projectum acquirit veloci-
+tatem a P, seu quo amittit velocitatem P F,
+est ad tempus quo velocitatem maximam
+a C, in spatio non resistente e quiete caden-
+do acquirere posset, ut sector G D T ad trian-
+gulum a D C. Sit a F -Ι- V, recta velocitatem
+exponens quam corpus in medio non resistente
+cum velocitate initiali a Ε projectum elapso tem-
+pore G D T haberet, et erit (102) a P ad a F
+-Ι- V, seu multiplicando per -ξ a D, a P D ad
+aFD-paganV, utaPDadaFD÷
+G T D, ide6que—}aD>< V=GTD,etV=
+
+D; sed V est velocitas quam corpus e quiete
+
+ 
+
+ss'a D
+cadendo in medio non resistente acquireret tem-
+pore G T D, et velocitates in medio non resis-
+
+tente acquisitae, sunt ut tempora quibus acqui-
+
+GTD
+
+runtur, ide6que velocitas V seu , est ad
+
+ 
+
+J. a D
+velocitatem a C, in'medio non resistente acqui-
+sitam ut tempus G T D ad tempus quo corpus
+velocitatem a C acquirit ; quare hoc tempus erit
+ἦ· a D >< a C, seu per triangulum a D C expo-
+netur.
+
+104. Corol 5· Hinc ex dato tempore datur
+spatium descriptum. Capiatur enim sector G D T
+ad triangulum a D C, ut tempus datum ad tem-
+pus quo corpus in medio non resistente acquirit
+velocitatem terminalem a C, et dabitur tum ve-
+locitas a P, tum area A B N K„ quae est ad
+sectorem G D T, ut spatium quaesitum ad spa-
+tium quod tempore dato cum velocitate illa ter-
+minali a C uniformiter describi potest (101) et
+regrediendo ex dato spatio A B N K, dabitur
+tempus G D T, si capiatur area A B N K, ad
+
+PHILOSOPHIAE NATURALIS '
+
+[MoT. Conpon.
+
+triangulum a D C in ratione spatii dati ad
+duplum spatii quod corpus in medio non resis-
+tente cadendo describit ut velocitatem termina-
+lem a C acquirat. Id demonstratur ex (not. 103.
+et 131.) eodem prorsus modo quo factum est
+
+105. Scholium. Superiores constructiones de-
+finiendis corporum motibus sufficiunt, licet me-
+dii resistentia partim constans partim velocitatis
+quadrato proportionalis. Nam si corpus sola vi
+insiti moveatur, recta A C, quae in construe..
+
+ 
+
+tionibus Prop. VIII. et IX. vim gravitatis uni-
+formem exponebat, partem resistentiae constan-
+tem quae vi alicui centripetae uniformi aequalis
+censeri potest, caeteris manentibus, exponet.
+Sed si corpus in medio praedicto gravitate uni-
+formiter agente sollicitatum recta ascendat vel
+descendat, linea A C, in constructionibus pro ·
+ascensu vim gravitatis et partem resistentiae da·-
+tam simul exhibebit, in constructionibus ver&
+pro descensu excessum gravitatis supra partem
+resistentiae datam repraesentabit3 et linea illa
+A C, ita determinata vim gravitatis uniformem
+exponet, qua corpus urgeretur in medio cujus
+esset resistentia ut velocitatis quadratum. Si
+ver& pars illa resistentiae quae uniformis manet
+vi gravitatis aequalis fuerit et corpus deorsum
+projiciatur, idem erit illius motus ac si sola vi
+insita ferretur in medio quod resisteret in ratione
+quadrati velocitatis, atque ideo in hoc casu usur-
+panda erit constructio Propositionis 5²²²- Jam
+vero omissis constructionibus per logarithmicam
+quas (ex demonstr. 44. 45.) facile deducere,
+
+‘aut in Monumentis Academiae 'Regiae an. 1709.
+
+et etiam in Phoronomia Hermanni lector vi,-
+dere poterit, duo quae sequuntur generalia pro-
+blemata analytice solvemus.
+
+PROBLEMA.
+
+Definire motum corporis, uniformi gravitate
+urgente, recta descendentis vel ascendentis m
+

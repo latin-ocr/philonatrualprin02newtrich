@@ -1,0 +1,229 @@
+ 
+
+ 
+
+Lmen SECUND]
+
+medio similari, quod in ratione qualibet mul-
+tiplicata velocitatis resistit.
+
+106. Sit vis gravitatis = g, velocitas corporis
+sub initio motus = c, spatium descriptum = s,
+
+tempus quo descriptum est = t, velocitas hoc η
+
+tempore acquisita vel residua = v, resistentia
+medii r :gx—-f, et a quantitas data. Corpore
+vnds
+
+an--1=vdv‚
+
+ 
+
+descendente erit (19) g d s —
+
+⁸¹²“¹V‘¹V, etquia(15)dt=
+
+ideoque d s =.- n
+
+ 
+
+gau—¹-v
+
+ 
+
+ds . a¹¹-¹dv . ..
+Τ ent d t = gan—1 —vffi Sumh modo pro
+
+-ass-1vdv
+ἕ-ιι--τ-ῑ-ῑ
+Cum igitur in his
+
+corporis ascensu, invenitur d s =
+
+etdt=‘L''-‘³²”-¹dv
+
+a ¹² — ¹ ν’*
+quatuor gquationiss'iss variabiles separatae sint,
+poterunt illae, saltem concessis figurarum qua-
+draturis, construi.
+
+107. Si resistentia velocitati proportionalis
+fuerit, eri‘t1 n = 1, et ideo corpore descendente
+v v
+
+g-—V
+
+ 
+
+d s = et divisione numeratoris v d v per
+
+ 
+
+—v÷ gperactz'i, est ds=—dv-}--{-‘Lv
+
+-ν,
+et sumpfis fluentibus s = Q. — V -gg χ
+
+ᾑ-
+
+L. g —- v. Quia vero ubi evanescit spatium s, fit
+
+Ι v = e (per Hyp.) erit constans Q = c -Ι-
+
+gL.g—c,acproindes=c—v-}-
+
+L. ἕ-ἶ--ὀ . Tempus habetur per aequationem d t =-
+
+ 
+
+ 
+
+ 
+
+ 
+
+.. ' g—v
+ἐἴν cujus fluens t = Q - L. ξ-Ϊῖε
+L. {I ε. Simili modo pro eorporis ascensu
+invenitur s = c —- v -ξ- 31μὲἶέ et t=
+
+g c
+L 2¹:ss v⁰
+
+102. Si resistentia sit ut velpcitatis quadratum,
+
+erit n ς. 2 et (106) r = ξ.. Sit b velocitas
+
+terminalis, et 'quia resistentia gravitati aequalis
+
+est ubi corpus velocitatem maximam habet, erit .
+
+bb
+
+g = -a—‚ et b b = a g. Sit e spatium quod
+corpus vi gravitatis constante g cadendo in medio
+
+non resistente describit ut acquirat velocitatem
+b, et erit 2ge= bb=ag(25) ideoque a=2 e.
+
+ἐξ, ᾳ His positis, corpore descendente erit (106) d s=
+
+avdv — 2evdv
+ag-—vv—bb—vv
+et proinde sumptis fluxionibus vd v=—x dx,
+
+atqueidede=—2—e5—xdx=—2-e}d—x‚et
+
+sumptis fluentibus s = Q— 2 e L. x =-.= Q,
+=.L.x2 =Q—eL. bb-—vv- Ponaturs=o‚
+
+ 
+
+ 
+
+. Ponatur b b—v v=x x,
+
+PRINCIPIA MATHEMATICA.
+
+61
+
+et ideo v = c, et inde habebitur Q ==
+
+ 
+
+ 
+
+e L. ffbT-—c—c] aepropterea s=e L. ξ ἰΞ-ῖ-ῖ.
+Sit L. h= 1 eteritsL. h=e L. 3³:333
+4Ξ χ L. h.-.-‘- nni-s: L, ἓί-Ξζζῄᾱεόςαο
+
+ 
+
+h÷=bb-⁰⁰
+*bb—vv
+
+8
+Q. Tempus obtinetur per
+h ἶ
+
+aequationem (106) d t =
+
+; unde eruitur v v =
+
+ 
+
+adv — 2edv
+
+ag--vv-bb—vv
+
+ 
+
+ 
+
+ 
+
+— ἑὰ v gisd v .
+..- Ε-Ι-ν -1- b - V; quod patet, s1 duae pos-
+
+tremae fractiones ad communem denominatorem
+reducantur, et sumptis fluentibus t = Q -ἦ- {— ><
+
+ 
+
+L.b÷v—{L.b—TG=Q÷}><
+
+L b ’1- v. Ponatur t= o, et ideo v = c, et in-
+
+'b--v
+b÷c
+b—-·c
+
+ 
+
+ 
+
+venietur Q= — -Ξ- L. . Quare erit t =
+
+ 
+
+ 
+
+e b÷v><b—c
+
+b 'bi-vxb-kc
+
+dat eut c=o, et ideos= eL.
+
+ 
+
+Si corpus e quiete ca-
+
+bb
+bb-——vv3vv=
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8
+b———bh ‘j ''bbett= ξ L. ξΪζ. Siinhac
+h ‘e-
+ultima aequatione loco n ξ’ scribaturm et loco v
+ipsius valor b M 1 — -ὲ, habebitur t = -ῑ-
+L 1 4- μ 1 - Lm
+
+ 
+
+Simili modo} aseendente corpore invenie-
+Ε L 'b b -4- c c,
+b b ÷ v v
+
+turs: etvv=
+

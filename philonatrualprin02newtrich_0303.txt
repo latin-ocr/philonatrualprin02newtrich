@@ -1,0 +1,91 @@
+mez Summo] PRINCIPIA MATHEMATICA.
+
+qua lineola E G in locis suis P et S urgetur, est ad lineolae illius pondus
+ut HK >< AadV >< EG, sive ut PO><A ad VV, (⁶¹) nam HK
+erat ad E G ut P O ad V. Quare cum tempora, quibus aequalia corpora
+per aequalia spatia impelluntur, sint (e) reciproce in subduplicata ra-
+tione virium, erit tempus vibrationis unius, urgente vi illa elasticzi, ad
+tempus vibrationis, urgente vi ponderiS, in subduplicata ratione V V ad
+P Ο >< A, (f) atque ideo ad tempus oscillationis penduli cujus longitudo
+est A in subduplicata‘i ratione V V ad P Ο >< A, et subduplicate'i ratione
+P O ad A conjunctim3 id est, in ratione integr& V ad A. Sed tempore
+vibrationis unius ex itu et reditu compositae, pulsus progrediendo conficit
+
+latitudinem suam B C. Ergo tempus, quo pulsus percurrit spatium B C,
+(g) est ad tempus oscillationis unius ex itu et reditu compositae, ut V ad
+A, (¹¹) id est, ut B C ad clrcumferentiam circuli cujus radius est A. Tem-
+pus autem, quo pulsus percurret spatium B C, est ad tempus quo percur-
+ret longitudinem huic circumferentiae aequalem, (¹¹) in efidem ratione3
+ideoque tempore talis oscillationis pulsus percurret longitudinem huic
+circumferentiae aequalem. Q. e. d.
+
+Corol. l. Velocitas pulsuum ea θεῖ, quam acquirunt gravia aequaliter
+accelerato motu cadendo, et casu suo describendo dimidium altitudinis
+A. Nam tempore casus hujus, cum velocitate cadendo acquisita, pulsus
+percurret spatium (¹) quod erit aequale toti altitudini A; ideoque tempore
+oscillationis unius ex¹> itu et reditu compositae percurret spatium aequale
+circumferentiae circuli radio A descripti: (¹¹¹) est enim tempus cassis ad
+
+tempus oscillationis ut radius circuli ad ejusdem circumferentiam.
+
+(⁶)*NamHKerat adEGutPo
+
+ad V,
+in dem. Prop. XLVII. ’
+
+tudo A, datis medii densitate et vi clastica. data,
+est ut spatium Β C ad datam peripheriam cir-
+
+291 ’
+
+ψ (Ε) '¹‘ Sint reciproce in subduplicatd ratione
+gigig?- Patet per Cor. 5. Prop. XXIV. Lib.
+
+(f) ²* Atque ide& ad tempus, &c. Patet per
+
+compositionem rationum et ex aequo3 quia (ex'
+
+demonstratis) tempus unius vibrationis particu-
+lae E F, urgente vi ponderis ipsius, est ad tem-
+pus oscillationis penduli eujus longitudo est A,
+in subduplicatii ratione P O ad A.
+
+(ἔ) * Est ad tempus osculationis unius ez· itu.
+et reditu compositae, penduli cujus longitudo est
+(ὴ) ²* Id est, ut B (l ad circumfirmtiam circuli
+cujus radius est A. Nam (in demonstr. Prop.
+XLVII.) erat V radius circuli circumferentiam
+habentis aequalem intervallo B C; unde θεῖ V
+ad A ut B C ad circumferentiam circuli cujus
+radius est A.
+
+(k) ⁴⁸ In effidem ratione. Quoniam tempus
+quo pulsus percurrit spatium B C, est ad tempus
+datum osciuationis integrae penduli cujus longi·
+
+culi radio A descripti3 liquet, quod tempus quo
+pulsus percurrit spatium B C, aut eadem celeri-
+tate percurreret datam peripheriam circuli radio
+A descripti, fore eis spatiis proportionalem.
+Quare tempus quo pulsus percurrit spatium
+B C, cst ad tempus oscillationis unius ex itu et
+reditu compositae penduli cujus longitudo est A,
+ut ternpus quo pulsus percurrit idem spatium
+B C, ad ternpus quo percurrit longitudinem
+aequalem circumferentiae circuli cujus radius est
+A; ideoque tempore talis osculationis pulsus
+percurret longitudinem huic circumferentiae
+aequalem.
+
+L (¹) 1⁴¹³)Quod erit aequale toti altitudini A (30.
+ib. .
+
+(¹¹¹) ⁴¹² Est enim tempus casas, per dimidiam
+altitudinem A ad tempus oscillationis unius ex
+solo itu, vel solo reditu constantis, ut diameter
+circuli ad ejus circumferentiam (470. Lib. 1.),
+ide6que ad tempus duplum oscillationis unius ex
+itu et reditu compositae, ut radius circuli ad ejus
+
+T2
+

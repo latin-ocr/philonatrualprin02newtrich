@@ -1,0 +1,140 @@
+204· PHILOSOPHIAE NATURALIS [Mor. CORPOR.
+
+B H I gradu-um 135, solidum, quod convolutione figurae A D F G H I E
+cirea axem eundem A Β generatur, minus resistitur quam solidum prius,
+si modo utrumque secundum plagam axis sui A B progrediatur, et utrius-
+
+que terminus B praecedat.
+
+Quam quidem Propositionem in construendis
+
+navibus non inutilem futuram esse censeo,
+(¹¹) Quod si figura D N F G, ejusmodi sit curva, ut, si ab ejus puncto
+
+= z, Q A = v, et peripheria circuli radio 1
+descripti .-.'—.. p. His positis resistentia solidi ex
+revolutione arcfis B A circa axem C A geniti
+exponi potest per S. p z y d y, (195) ; resistentia
+vero coni truncati ex rotatione figurae B Q A
+circa C A, per {pavv-f- ,12- pyyz—{pvvffl
+Sit R resistentia data solidi ex rotatione arcfis
+
+totius K B A geniti, et resistentia superficiei·
+
+ 
+
+53
+
+quam in eadem rotatione describit arcus K B,
+erit R — S. p z y d y, ide6que resistentia solidi
+per rotationem figurae K B Q A, erit R —
+S·p 2 ydy-i-{Pavv-i-{pyyz—{pvvz-
+Hujus quantitatis fluxio nihilo aequalis fiat (40)
+et ob datam R, habebitur—pzy dy -Ι- pavdv
+-i—pzydy-i-{pyydz-—pzvdv—
+ἦ p v v d z=o3 unde invenitur (z—a) 2 vd v
+= (·y y — v v) d z. Cum igitur sit etiam (194)
+ady²=zdx2÷zd y2,ex his aequa-
+tionibus et ex aequatione ad curvam K B A,
+invenientur valores litterarum x, y, v, seu
+*RA,RB‚etAQ. Q.e.i.
+
+Exempli causat. Sit K B A parabola,
+cujus vertex A, axis A C, latus rectum
+=4c,etideo4cx=yy,en'tA Q=v
+= ἦ y, ex natura tangentis parabolae, {y y
+=cx=vv,cdx=2vdv,yy—vv
+cdx²
+
+ 
+
+Unde aequatioady ² -d= ²2d¹ ²†dey²2
+ac x
+x =zdx²÷
+
+czdx2 . Α ac
+, ex qua habetur z =
+
+x c-}-x
+—acdx
+
+in hanc mutatur
+
+ 
+
+ 
+
+ 
+
+‚et
+
+dz=
+
+ 
+
+(c ÷ x) 2· Ex his vero omnibus aequa-
+
+tio(z‚—a)2vdv=(yy—vv)dz,inhane
+acxdx Saccxdx ‚
+
+-ss--ssessfffflm
+
+migrat
+
+3c
+
+c÷x
+
+y==2c4l λεῖπε-ξε. Ωιιπὲείιῐη sitaad
+
+ex qua eruitur x = 2 c, et hinc
+
+l=
+
+ 
+
+z, in ratione duplicata sinus totius ad sinum an· <
+
+guli B Q M, erit 4! 3 ad 1 ut sinus totus ad
+sinum anguli B Q M, qui proinde est 350. 16',
+angulus Q B R, 540. 44‘ et angulus B Q A
+1250. 46¹.
+
+(¹¹) 205. Qubd sifigura, &c- Invenienda sit
+curva L D, quae circa axem C B rotata describat
+superficiem solidi quod in fluido motum secun-
+dum axis directionem a C versus B, minorem
+patiatur resistentiam quam solidum quodvis aliud
+per puncta L et D pari ratione descriptum et simi-
+liter motum. Ex punctis curvae infinite propin-
+quis N, n, Ω, demittantur ad axem C B ordi-
+natae N M, n m, P Qet ad n m, Ω Ρ, perpen-
+dicula N r, n s. Sit p peripheria circuli cujus
+radius est unitas, et data a vim exponat qua sin-
+gulae fluidi particulae in rectam N M perpendi-
+culariter incurrunt. His positis resistentia an-
+nuli circularis quem recta n r, circa axem C B
+rotata describit, exponi potest, ut supra, per
+ἑρειΧ (nm2—NM2)seuperpaNM><n r,
+obnm2-NM2= ιῖἶη-ι- Ν M><(nm—
+
+ 
+
+NM)=2M N>< nr. thuian N2est ad
+n r 2 ut resistentia illa ad resistentiam superficiei
+
+quam linea n N circa C B rotata describit (196)
+p a >< M N >< n r 3 ⁸
+
+n N ² ³
+eodemque modo patet resistentiam superficiei
+
+haec resistentia erit ut
+
+ 
+
+ex rotatione lineae Q n genitae exponi posse pel'
+ψ. Fingatur curvam hanc
+in ali'am mutari Qh N inter puncta N, Q duc·
+tam et Q s, n r tanquam magnitudine datas as-
+

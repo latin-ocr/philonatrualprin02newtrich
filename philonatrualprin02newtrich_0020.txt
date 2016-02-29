@@ -1,0 +1,156 @@
+8 PHILOSOPHIAE NATURALIS
+
+escentibus ordinatarum distantiis M m, N n, M B
+L A
+
+est p r ε Ρ Μ Ξ P r (sive M m) t M T, et q a y) secundus ille terminus erit
+
+triangulum P p r fit simile triangulo T P M, et
+triangulum Qqs simile triangulo t Q N, ideoque
+
+:QN-..—. Nn (siveMm):Nt‚ ted ob ὀίε-
+
+ 
+
+Τ Aa
+
+0 ΒΕ Dc M m
+tantias M m, N n aequales est p m: PM=qn
+t Q Net dividendo estpr: PM=q s: QN,
+quare P r (sive M m) :M ΤΞ Nn (sive M m)
+t N t,4ade6que M T = Νι. Ω. e. d.
+
+Corol. Hinc cum ordinata sit ad subtangentem
+constantem ut fluxio ordinatae ad fluxionem ab·
+scissae‚ obtinetur logaritlzmicae aequatio fluxiona-
+lis. Abscissa A M dicatur x, ordinata M P, y,
+subtangens M T, s, fluxio M m erit d x, p r =
+dy, cumquesity2s=dyz dx,estydx=
+s d y aequatio ad logarithmicam.
+
+37. Probl. Ι. Daui subtangente et duabus or-
+dinatis cogar-immim, invenire portionem amic inter
+eas ordinatas interceptam.
+
+1¹¹⁸· Casus, major ex illis or- ι
+dinatis non sit plusquam dupla L
+alterius3 major illa ordinata sit
+L A quae dicatur y, minor sit
+G R, differentia earum L A —
+R G sit b. Portio axis A G
+inter eas intercepta sit x, divi-
+saque concipiatur in partes aequa-
+les infinite parvas A Β Ξ d x,
+earum numerus (qui infinitus
+censendus est) dicatur n, erit er-
+go n d x = x; subtangens data
+sit S, eritque per corollarium
+praecedens y: s = (dy :d x =
+ndyzndx=)ndy:x;hoc
+autem modo determinatur valor
+n d y. Concipiantur erectae omnes ordinatae in
+puncta divisionum portionis axis A G, erunt in
+progressione geometria-fi (per Cor. 3. def. n· 52.)
+et cum earum differentiae sint ut illae ordinatoe
+(per Cor. 1. def. n. 32.) differentiae successivae
+earum ordinatarum erunt in progressione geome-
+triczi, cujus omnes termini simul sumpti differ-
+entiam L A - R G sive b efficient; numerus
+autem terminorum ejus progressionis erit n,
+primus terminus d y, secundus invenitur per
+hanc proportionem L A z M B = d y ε
+
+[Mer. Com‘fflz.
+
+dysnve (quiaMB=y——dyetL ΛΞ
+
+y-d Υ
+,V
+de juxta methodum summan-
+di progressiones geometricas
+
+ 
+
+d y, un-
+
+y-Hyflfl
+yn
+y—dy - 1
+
+—-1
+
+ 
+
+est b=dy><
+
+ 
+
+Υ
+Ξ-Υῃζρω-πιυ-γι)
+
+ιε. (valore y — d y} ¹ in seriem
+
+ 
+
+ 
+
+reducto) — ⁸
+
+ 
+
+ἶ yn-2dy2‚&c,—y)¹¹,sivede-
+N ss letis terminis y ¹¹ et — y ¹¹, tot&-
+que serie per — y ¹¹ -- ¹ divisa
+
+esth: ÷ndy-¹¹¹¹{‘¹¹y-¹dy²÷
+
+n ³ — :3 n 2 — 2
+
+—W- y--2 d y 3, διο. sed quoniam n
+est numerus infinitus, in singulis coefficientibus
+altissima ejus dignitas sola assumi debet, reliquis
+terminis neglecti-3, unde series ad hanc reducitur
+b: -}- n d y .·... nzy-Idyz 4———-n³Y'-²dy³
+
+2 2 χ 5
+
+&c. qui quidem termini finiti sunt, compensata
+dignitate numeri infiniti n per infiniti parvi d y
+similem dignitatem.
+
+Ex ess autem serie, per mierum reversionem
+
+ 
+
+ 
+
+    
+
+Η
+
+K z‘
+
+obtinebitur valor ispsius n d y, sit enim n d y
+
+=Ab÷ssb2÷cb³÷nb⁴&c.
+
+ 
+
+ 
+
+ 
+
+ 
+
+erit -Ι- ndy=4Ab÷Bb2÷cb³&c.
+
+ἑτι-Πόνε *AQ—QABW
+2-y 95 2)*
+ῐι3ἀγ3, A³b3
+
+÷2s<fy3= 4T><5y3
+
+Cum ergo hi omnes termini debeant efficere
+b, fiat primus terminus A b = b erit A Ξ 1, et
+reliqui omnes termini debebunt esse aenpiales o,
+

@@ -1,0 +1,144 @@
+276
+
+quoddam tempus finitum requiretur ut eadem
+velocitas in proximo puncto excitetur, paulo lon-
+gius tempus ut in tertio producatur, sicque dein-
+ceps nam per Cor. 1. nullus motus ex puncto
+medii clastici in punctum proximum transfertur
+nisi elapso finito tempore, velocitas ergo primi
+puncti ad secundum non transit nisi post finitum
+tempus ab initio motus primi puncti et velocitas
+secundi puncti ad tertium non transit nisi post
+finitum tempus ab initio motus secundi ejus
+A B C D E, &c-
+
+puncti. Breviori nutem tempore excitari debet
+data velocitas in secundo puncto per actionem
+continuatam ab initio motus primi puncti, quam
+in tertio per actionem continuatam ab initio mo-
+tus puncti secundi: cum enim velocitas primi
+puncti sit finita et aequabilis, compressio exinde
+orta ab initio ejus motus est major quam com-
+pressio quae per motum secundi puncti ab initio
+ejus motus acquiritur, siquidem ad celeritatem
+primi puncti nonnisi per gradus pervenit, ergo
+vis motrix quoe urget secundum punctum ab
+initio, fortior est quam ea qua urgetur tertium
+punctum ab initio, crgo tertium punctum datam
+illam celeritatem tardius acquiret, et pari ratio-
+cinio, cum vis motrix secundi puncti sub initio
+fortior sit quam vis motr1x tertii, compressio in-
+ter secundum et tertium punctum major erit sub
+initio quam inter tertium et quartum3 unde vis
+motrix quae urget tertium punctum sub initio,
+fortior est quam ea qua urgetur quartum punc-
+tum; ergo cum punctum sequens aliqualem ve-
+locitatem suscipere non possit nisi postquam
+punctum praecedens spatium finitum descripserit,
+et longiori ternpore ab initio motus suscepti da-
+tam velocitatem possit suscipere, liquet quod ea
+data velocitas nonnisi successive ad successiva
+medii elastici puncta pertingit.'
+
+8. Sclzol. Hinc patet discrimen inter motum
+in medio elastico excitatum et motum qui exci-
+tatur in medio non elastico cujus partes contiguae
+sunt, in tali enim medio, pressio cuidam parti-
+culae applicata ad omnes partes in directum po-
+sitas, aut divaricantes, puncto temporis extendi
+debet 3 motus vero instanti in circulum pro-
+pagari debet; at in medio elastico, pressio ab
+uno puncto ad alterurn non continuatur nisi per
+accessum punctorum medii, sive per realem mo-
+tum, qui anti-orsum propagetur, et post tempus
+finitum a puncto primum moto ad reliquas partes
+fluidi successive perveniat.
+
+PROBLEMA.
+
+9. Si punctum medii elastici finita velocitate
+moveatur quae constans maneat, definire motum
+punctorum sequentium in linea recta positorum,
+omissis aliis sphaerice circumquaque positis.
+
+Primus Casus. Sint ordine puncta A. Β, C,
+D, &c. fingatur ea omnia ad aequales distantias
+in navi posita, et punctum B ita adhaerere malo
+ut ex ejus motu, navis motum suscipiat etreliqua
+puncta ve11at3 recipiat vero punctum A veloci-
+
+PHILOSOPHIAE NATURALIS [MOT.C0RP0R.
+
+tatem finitam quae constans maneat relate ad
+navis punctum in quo versabatur, et ponatur
+primo eam versus B tendere; ex accessu puncti
+A versus B vis repulsiva particulae A fortior
+fiet vi repulsiva particulae C, quare ex differen-
+tia virium nascetur vix motrix particulae B;
+procedat enim A ad Β quantitate A a, erit vis
+particulae C iu B, ad vim particulae A in B, ut
+a B ad B C sive A Β (quia particularum inter·
+valla AB, B C initio eraut aequalia) et dividen-
+do, vis particulae C, ad differentiam virium quoe
+est vis motrix puncti B ut a B ad A B — a B
+sive A a, sed vis particulae C est vis ipsa elaterii
+in statu naturali, ex hypoth. Ergo vis elaterii
+est ad vim moventem punctum B, ut a B ed
+
+A a. Repraesentet itaque I H ternpus quo dis-
+
+tantia A B punctorum elasticorum per velocita- ’
+
+tem datam puncti A percurritur, dicaturque
+
+⁴ARCDE
+., ..Α
+
+illud tempus a, ducatur deorsum ad angulos
+rectos linea H G quae vim elasticam singulae
+particulae medii in statu naturali designet, duc-
+taque F G parallela 1 H, asymptotis F G et
+G H et dignitate aequali a >< H G describatur
+hyperbola‚ transibit per punctum I, (siquidem
+IF=HGetFG=I H=a,ide6queIF
+>< F G = H G >< a) et si I P repraesentet
+tempus quo durante A motum est, dicaturque x,
+dIco quod P M repraesentabit vim moti-icem
+puncti B eo temporis momento. Erit enim ex
+naturai hyperbolae, G R: G F = F Ι (H G) :
+R M et dividendo G R (H P): F R (I P)=
+H G z P M; spatia vero uniformiter descripta
+sunt ut tempora3 ergo A B: A a= 1 H21P
+etdividendoaBt A a= H P: Ι P, seda B
+ad A a ut vis elaterii ad vim motricem puncti
+B3ergoH 1³21 Ρ--Η G: PM=visela-
+terii ad vim motricem puncti B, sed H G re-
+
+·praesentat vim elaterii, ergo P M ubique reprae-
+
+sentat vim motricem puncti B.
+
+Repraesentabit ergo etiam linea P M veloci—
+tatem momento P genitam, et area I P M
+totam velocitatem a puncto B acquisitam tem-
+pore I P sive tempore quo percurritur A a
+a puncto A.
+
+Describatur vero ex puncto F logarithmica
+cujus axis sit linea H G producta, subtangens
+linea quaevis G X quae dicatur s, ductaque ex
+puncto P linea P T S dico quod linea T S re-
+praesentabit velocitatem tempore 1 P acquisitam
+et area F T S spatium a puncto B descriptum.
+
+Est enim (per nat. logarith.) area Ι F R M,
+ad rect. Ι F G H ut R S ad G X, et rect.
+
+*IFGHadrectIFRPutFGadFRut
+
+G X ad R T, ideoque ex aequo area I F R M
+ad rect. Ι F R P ut R S ad R T, et dividendo,
+est I PM ad Ι F RPntTSad RT; ergo
+area Ι P M est adT S in ratione data, ob datum
+P R et rationem F R ad R T datam, ut pote
+

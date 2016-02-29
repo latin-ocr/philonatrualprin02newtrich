@@ -1,0 +1,89 @@
+110
+
+PHILOSOPHIAE NATURALIS
+
+[Mo‘r. Gomon.
+
+SECTIO IV.
+
+De corporum circulari motu in mediis resistentibus (²²⁶³).
+
+(¹²) Newtonus in hac sectione praecipuas sup-
+
+fiunt propter latera circa aequales ad centrum
+
+ponit logarithmicae spiralis proprietates, postulat angulos proportionalia (147) et ideo alii anguli
+igitur instituti nostri ratio ut de illa curva aliquid .homologi S P Q, S Q R, S R X, &c., et P Q S,
+
+praemittamus.
+
+147. Circulus P A E L, centro S, et radio
+quovis S P descriptus divisus sit in arcus quotli-
+bet aequales P A, A B, B C, C D, &c., sintque
+radiorum P S, A S, B S, C S, δια, partes P S,
+
+Q R S, R X S, aequales sunt.
+
+1 50. Quoniam itaque spira quaelibet P Q R Z p,
+p q r z π, &c., totidem triangulis P Q S et
+p q S, Q R S et q r S, &c. similibus similiterque
+positis divisa est, spirae omnes quae a radio posi-
+
+Q S, R S, -X S, &c. in continua progrffsione tione dato S P, ad eundem radium ductae sunt,
+geometrica, puncta P, Q, R, X, &c., erunt in inter se similes radiisque correspondentibus pro-
+
+spirali legarithmicii in qua proinde si radii Q S,
+
+portIOnales erunt, id est P S: p S = P Q R Z p
+
+ 
+
+R S, X S, δια, sint numeri, arcus circuli P A,
+P B, P C, &c.‚ sicut et anguli P S Q, P S R,
+P S X, &c., erunt ut illorum numerorum loga-
+rithmi, prorsus ut in vulgari logarithmica axis
+partes sunt ut logarithmi ordinatarum correspon-
+dentium.
+
+148. Quoniam autem progressio geometrica
+in infinitum decrescere et crescere potest, mani-
+festum est spiralem logarithmicam utrinque tam
+ad centrum S accedendo quam ab eodem versus
+M recedendo per gyros infinitos continuari posse,
+continuata progressione radiorum decrescentium
+vel crescentium circa centrum S, ad quod idcirc&
+curva decrescentibus radiis proportionalibus, ma»
+gis magisque accedit, licet numquam illud possit
+attingere, sive ut loqui amant, licet illud cen-
+trum non attingat nisi post infinitas revolutiones.
+
+149. Angulus S Q R, quem radius quilibet
+S Q, cum curva ad easdem partes constituit con-
+stans est3 si quidem evanescentibus arcubus
+aequalibus P A, A B, B C, δια, triangula eva-
+nascentia P S Q, Q S R, R S X, δια, similia
+
+ι p q r z «x, διο. Atque hinc sequitur (147) tam
+spiras omnes quam radios ipsis correspondentes
+ad centrum usque in progressione geometrica
+decrescere, sunt enim P S, p S, a* S, &c. pro-
+gress1onis geometricae termini aequidistantes ob
+aequalem angulorum aequalium P S Q, Q S R,
+p S q, q S r, διε. numerum in singulis spiris
+comprehensum, unde radiorum quoque differen-
+tiae P p, p «x, &c. in eadem geometrica progres-
+sione decrescunt.
+
+151. Ducta recta P T spiralem tangente in P,
+et recta P O ad eandem perpendiculari, per cen-
+trum S erigatur ad radium S P perpendiculum
+T S Ο rectis P T et P Ο occurrens in T et O,
+longitudo spiralis P Z p z π· S, ad centrum usque
+S, aequabitur tangenti P T, eritque proinde ad
+radium S P in data ratione P Τ ad S P, vel
+Ο P ad O S. Nam centro S, radiis S Q, S R,
+S X, S V, διο. infinite propinquis descripti sint
+arcus circulares Q F, R G, X H, V K, &c., et
+ob angulos QF P, R G Q, X H R rect05,
+angulosque QP F, R Q G, X R H, &a aequa-
+

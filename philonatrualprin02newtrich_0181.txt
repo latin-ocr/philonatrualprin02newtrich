@@ -1,0 +1,104 @@
+met Saeuum] PRINCIPIA MATHEMATICA.
+
+retardans
+
+169
+
+In superiore propositione rectangulum sub recta ᾖ a Β et ar-
+
+cuum illorum C B, C a differentia A a aequalis erat areae B K T a.
+
+  
+
+''AMN' a
+
+Et area illa, si maneat longitudo a B, augetur vel diminuitur in
+ratione ordinatim applicatarum D K; hoc est, in ratione resistentiae,
+(b) ideoque est ut longitudo a B et resistentia conjunctim. Proindeque
+
+gentialis supra resistentiam3 erit igitur vis acce· tione data, ac per consequens omnes retarda-
+
+ῙΞ-ΟἮΧΕῘΞῘ - D K. Du-
+
+catur haec vis in elementum spatii D d, et fiet
+PC >< Ee—D ΚΧ Dd=vdv,siveloci-
+tas in loco D sitv (18, 19); et hinc, sumptis
+fluentibus, habetur P C Χ G E — B K D =
+{vm Fiat B D= B A, etide6v=o, at-
+que GE= Gc-CH=G H, eterit
+P ΟΧ GH-—B K A B=o, ac proinde
+Pc><GH=BKAB. aad.
+
+(³) ¹* Oritur enim differentia illa ex retarda-
+tione penduli per resistentiam medii. ²* Dividan-
+tur arcus a duobus pendulis descripti in partes
+proportionales infinite parvas, et totum illud quod
+deest singulo arcui, poterit concipi ut effectus
+retardationum quas corpora passa sunt singula-
+rum illarum particularum initio, spatium vero
+quod propter singulam retardationem deficit, est
+ut illa retardatio et tempus per quod corpus
+motum fuit post illam retardationem receptam
+usque ad finem oscillationis3 sed quoniam in
+oscillationibus utut inaequalibus tempora quibus
+similes arcuum partes describuntur sunt aequalia,
+in medio non resistente, et in medio resistente
+saltem quam proxime, (180) spatia quae deficiunt
+propter retardationes in proportionalibus arcuum
+partibus-receptas, sunt ut illae retardationes.
+
+¹* Ideo differentia arcuum est ut retardatio
+tota, eique proportionalis resistentia retardans,
+si quantitates materiae corporum pendulorum
+sint aequales, retardatio in singulis arcuum
+descriptorum partibus est ut resistentia in iis-
+dem locis, sed ut resistentiae sunt in flata qua-
+dam lege velocitatem ex hypothesi et veloci-
+tates in arcuum partibus proportIOnalibus sunt
+¹in ratione data, ideo resistentiae in singulis
+arcuum partibus proportionalibus sunt in ra·-
+
+leratrix in loco D =
+
+tiones, sunt in eadem ratione, summae ergo re-
+tardationum erunt in eadem ratione data, ergo
+tota spatia deficientia illis retardationibus pro·
+portionalia erunt in eadem ratione, dgfferentiae
+ergo inter arcum descensu descriptum et arcum
+ascensu subsequente descriptum in variis arcubus
+ab eodem corpore descriptis, sunt in data lege re-
+sistentiae.
+
+185. ²* Corol. 1. Differentiae arcuum, respectu
+arcuum descensu descriptorum eamdem sequun-
+tur legem quam resistentiae sequuntur respectu
+velocitatum. Nam cum tempora quibus corres-
+pondentes et proportionales arcuum partes descri-
+buntur sint aequalia, velocitates erunt semper ut
+illae arcuum partes, sive ut arcus toti, (180.)
+quam proxime, ergo resistentiae‚ retardationes et
+differentiae arcuum eamdem legem sequuntur re·
+spectu arcuum ac respectu velocitatum.
+
+Cor. 2. ⁴ Si corpora pendula differant quan-
+titate materiae, dzjff'erentiae arcuum sunt directe? in
+lege data arcuum et inverse ut quantitates ma-
+teriae: nam eo in casu retardationes in singulis
+arcuum partibus sunt directe ut resistentiae et in-
+verse ut quantitates materiae ς nam resistentia
+motus jacturam producit, quae motus jactura est
+
+factum ex retardatione et massa retardata (per
+Def. 2. Lib. 1.).
+
+(³³) ⁹ Ide6que est ut longitudo a B ee resisten-
+tia conjunctim. Area illa si maneat longinfflo
+a B, augetur vel dIminuitur in ratione resistentiae
+D K; si vero constans maneat resistentia sev
+ordinata D K, sed augeatur a B omnesque ejus
+partes d D in ratione totius a B augeantur,
+area illa augetur vel diminuitur in ratione lon-
+gitudinis a 133 unde si longitudo a B variabilis
+sit et resistentia seu ordinata D K in singulis
+longitudinum a B locis correspondentibus au-
+

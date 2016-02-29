@@ -1,0 +1,143 @@
+108
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. conpos.
+
+Scholium.
+
+(⁶) Resistentia corporum sphaericorum in fluidis oritur partim ex tena-
+
+citate, partim ex frictione, et partim ex densitate medii.
+
+culo in C describatur ad asymptotos rectangulos
+’ C K, C H hyperbola b N, erectaque K N ad
+ι C K perpendiculari, area A boN K diminuetur
+in progressione arithmetica dum vires C K in
+progressione geometrica decrescente sumuntur.
+Et distantia corporis ab ejus altitudine maxima
+erit ut excessus areae A b N K supra triangu-
+
+lum D Ε Τ.
+
+Cumenim sitAK=AP²“'''2BAP
+
+erit ipsius A K momentum K L (ΡΞ Lib. 11.
+
+2APQ÷2BA><PQ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lem. 11.) = Z
+
+= 2 BZP Q'et area: AbNK momentum KLON
+= ψ, et quia, per naturam hyp·
+est c K: c A=Ab(siveACB²): Lo,
+est L o = 2031} ide6que K L o N- —
+Q. Est vero area D T V
+
+ad areamDPQutDT2adDP2,siveetiam
+ob triangula similia T D F, B D P, ut D F2
+sive AB2adBP2, seu AP2÷2BAP
+-ι- A Β2 (per4. 2. El. ) hoc est (quia ex hypo-
+thesiest, AP÷2BadAPK=AK><Z2 et
+AB2=CA><Z)ad CK ><Z.
+
+Hinc si pro are a DP ΑΩ, scribatur ejus valor
+{BDxPQ=}A XPQ,eritarea
+AB >< AB ΧΧΡ Q
+
+, quae valo-
+
+D Τ V— 2 Z >< C K
+rem constantem exprimere debet, quia momen-
+tum temporis sibi semper aequale exponit, ejus
+itaque loco scribatur rectangulum A B >< m
+in quo ιιι erit momentum constans, est m =
+
+ΑΩ-ῙΤΞ-Ξέἓ-ὶέιζρ, erit ergo areae A b N K momen-
+
+B P >< A B 2 >< Ρ Q
+2 Z >< C K
+st = B P χ ιιι, igitur differentia momentorum
+
+KLONetDTV‚ estBPXm—ABXm
+= A P >< m et propterea ob datum m ut velo-
+citas A P, id est, ut momentum spatii quod cor-
+pus ascendendo describit, et quo minuitur cor-
+poris distantia ab ejus altitudine maxima. 1 deo-
+que differentia arearum et spatium illud propor-
+tionalibus momentis decrescentia, simulque eva-
+nescentia sunt proportionalia.
+
+Verum in isto casu facilius quam per metho-
+dum Newtonianam obtinetur spatium a corpore
+ascendente usque ad quietem in medio resistente
+descriptum, et ejus relatio ad spatium in medio
+non resistente eodem tempore percurrendum:
+
+Ι >tum superius inventum
+
+Et resistentiae
+
+etenim per punctum A asymptotis D B, D F
+describatur hyperbola. et ex puncto T ducatur
+perpendiculum T L ad hyperbolam usque, trili-
+neum A T L er. t ut spatium quaesitum. Du-
+catur L Ι ad asymptotum perpendicularis, erit
+F1=TLetTF=L1,sedexnat1.ra hy-
+perbolae est D F. D 1- - LI (siveT F): A F,
+et dividendo D F. F I (sive T L)-- — T F:
+hoc est alternando D F: Τ F = Τ L:
+
+A
+(sed per 141) est DFzTF=AP2231i
+
+,rb-35³
+
+ 
+
+1's
+
+ergo est A P = T L, itaque ducta ex V parab
+lela V u, erit V T L u, momentum areae A T L
+= V T >< Τ L, est autem V T momentum
+temporis, et T L = A P ipsa velocitas eo mo-
+mento, ergo V T >< T L est ut momentum spatii
+eo momento descripti, ergo tota area A T L est
+ut spatium descriptum.
+
+Ducatur praeterea tangens A S et designet A t
+ultimum temporis momentum, et ducta t l, trili-
+neum evanescens A T L aequale fiet triangulo
+A tl, et eo ultimo momento spatia tam in medio
+resistente quam in non resistente descripta erunt
+aequalia, ideoque per idem triangulum A t l ex-
+primentum spatia vero in medio non resistente
+descripta sunt ut quadrata temporum, ideoque
+spatium tempore A t in medio non resistente de-
+
+scriptum erit ad spatium tempore A T 2in eodem
+
+medio descriptum sicut Α t ad A T, sive ut
+area trianguli A tl ad aream A T X;, spatium
+vero in medio resistente descriptum tempore A t
+erit ads sipat um tempore A T in eodem medio
+descriptum ut A tl ad trilineum A T L, unde
+liquet quod spatium in medio non resistente de-
+scriptum, ascendendo ad quietem usque, erit ad
+spatium in medio resistente des criptum, ut A T X
+ad A T L, existente velocitate, in medio ιιοιι
+resistente, ut T X, et in medio resistente, ut TL.
+
+(²) blinamma corporum. (vid. Lem.
+num. .
+

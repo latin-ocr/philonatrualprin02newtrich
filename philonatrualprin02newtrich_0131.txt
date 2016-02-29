@@ -1,0 +1,128 @@
+Limen stema] PRINCIPIA MATHEMATICA.
+
+Corol. 7. Si corpus in mediO, cujus den-
+sitas :est reciproce ut distantia locorum a
+centro, revolutionem in curva quacunque
+A E Β circa centrum illud fecerit, et ra· ·
+dium primum A S in eodem angulo secue- A B C D
+rit in B quo prius in A, idque cum veloci—
+tate quae fuerit ad velocitatem suam pri-
+mam in A reciproce in subduplicata ra-
+tione distantiarum a centro (id est, ut A S
+
+119
+
+  
+ 
+
+ad mediam proportionalem inter A S et Β S) (²) corpus illud perget innu-
+meras consiiniles revolutiones B F C, C G D, &Q facere, et intersectioni-
+
+tionum illarum ad partem hanc rectae P S, cir-
+culis duobus interceptam (157); sed mutato
+utcumque angulo quem spiralis continet cum ra-
+dio P S longitudo revolutionum inter duos cir-
+culos datos comprehensa est ut secans anguli
+illius (152). Quare cum datum sit tempus
+descensus per partem datam rectae P S inter cir-
+culos datos contentam, erit tempus revolutionum
+inter circulos ut secans anguli quem spiralis
+
+. . O P . .
+continet cum radlo P S seu ut ‹T-S-; ει enim
+
+sinus totus sit l, erit O S ad O P ut 1 ad se-
+cantem anguli P O S seu Q P S, et ide& secans
+
+etQ-13.
+OPOS
+OS
+
+(ἱ) ¹* Corpus illud perget, ἃς. Centro S et ra-
+dio dato S A descripta intelligatur spiralis loga-
+rithmica quae prima revolutione absoluta, transeat
+per punctum B datum in radio S A (153.) et
+spiralis illa suis semper similibus revolutionibus
+distinguet radium A S in partes A S, B S, C S,
+D S, &c. continue proportionales (150). Fin-
+gamus etiam quod iisdem positis quae (in Prop.
+XV.) corpus aliquod P in medio justae densita-
+tis spiralem illam logarithmicam describat, dum
+corpus aliud Q in alio medio describit curvam
+A E B F C S et in iisdem a centro S distantiis
+
+Porro data recta P S. densitas est ut
+
+ 
+
+reciproce (per Cor. 2. hujus). Ergo, διο.
+
+densitates duorum mediorum erunt in data ra-
+tione, cum in utroque medio sit (per Hyp. Cor.
+hujus et per Prop. XV.) densitas in loco A ad
+densitatem in loco B, ut S B ad S A. Simili
+modo velocitates corporum P et Q in loco B,
+erunt in eorumdem velocitates in loco A, (per
+Prop. XV. et Hyp. Corol. hujus) ide6que in
+data ratione3 vires autem centripetae quibus cor-
+pora P et Q urgentur, sunt in utroque medio
+lisdem in locis eaedem (per Hyp.), et tandem ob
+angulos datos quos tam spiralis logarithmica,
+quem curva A E B continet cum radio A S,
+directiones motuum in utraque curva pares sunt
+m locis A et B ; quare postquam corpus Q pri-
+ma revolutione A E B absoluta, pervenit in B,
+
+per quod punctum transit etiam spiralis loga-
+rithmica, eodem modo determinatur ad aemulan.
+dum motum corporis P secundam suam revolu-
+tionem absolvenffis, quo determinatum fuerat in
+loco A ut aemularetur motum corporis ejusdem
+P primam suam revolutionem perficientis; cum
+(per dem.) omnia paria sint in locis B et A vi-
+delicet mediorum densitates, corporum velocita-
+tes, directiones, viresque centripetae. Quoniam
+igitur secunda spiralis logarithmicae revolutio a
+puncto B ad punctum C priori a puncto A ad
+punctum B absolutae similis est (150), necessum
+est ut secunda quoque curvae revolutio B F C
+priori A E B sit similis; et simili modo osten-
+detur revolutiones omnes B F C, C G D, &c-
+et motus corporis Q eas absolventis esse inter se
+similes. Erunt igitur revolutiones A E B,
+BFC‚ CGD, ἃς. ut radii AS, BS,CS‚
+&c. id est, continue proportionales, et ob simili-
+tudinem motuum in similibus revolutionibus
+A E B, Β F C, διε. si ex centro S ductus in-
+telligatur radius revolutiones illas secans in E,
+F, G, &c- quae erunt in revolutionibus A E B,
+B F C, &c. loca homologa, erit velocita orpo-
+ris Q in loco E ad velocitatem ejus in lo A ut
+velocitas in F ad velocitatem in B, et proinde
+velocitas in E ad velocitatem in B, ut velocitas
+in A ad velocitatem in B, id est, (per Hyp. Cor.
+
+L L
+hujus) ut B S ² ad A S ²; sed tempora quibus
+spatia homologa quam minima in locis E et F
+describuntur sunt ut spatia illa directe et veloci-
+tates inverse (12); quare cum spatia homologa
+in locis E et F sint ut radii A S et B S, et ve-
+1 1
+
+locitates 'ibidem u't A S ² et B S ἶ inverse (ex
+dem.) tempus quo spatium minimum revolu-
+tionis A E B describitur est ad tempus quo des-
+cribitur spatium homologum revolutionis similis
+
+BreutAsxAsffadssstsiz id
+
+est, ut A S} ad B δὲ, ideoque in data ratione.
+
+Unde (per Cor. Lem. IV. Lib. l.) tempus totum
+quo corpus Q primam suam revolutionem A E Β
+absolvit est ad‘ tempus quo secundam revolu-
+tionem B F C, perficit in eadem ratione
+
+114
+

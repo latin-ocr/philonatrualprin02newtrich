@@ -1,0 +1,207 @@
+Lmen SECUND.] PRINCIPIA MATHEMATICA,
+
+143
+
+bilis S C ,τε Χ, altitudo C D = d x, densitas constantes, seu distantiae x in progressione geo-
+
+C K = y, vis tota comprimens in loco C = v,
+vis gravitatis ibidem = g3 et erit gravitas spe-
+cifica in eodem loeo ut g y (174), et haec ducta
+
+ 
+
+I?
+
+L --- 1.
+C ‘ K
+S
+
+in altitudinem evanescente-m C D seu d Χ con-
+ficient momentum pressionis g y d Χ = —- d v.
+Sumitur autem fluxio dv negative, quod cres-
+cente distantia Χ, pondus incumbens v decrescat.
+
+Sit gravitas g ut 3·le densitas y ut vis ccmpri-
+
+mentis dignitas vln, ideoque y fl- ut v, et sumptis
+— n
+fluxionibus -Ῑιῖ y ¹¹ d y ut d v. Loco get d v
+
+ 
+
+substituantur hi valores in aequatione g y d x =
+
+ 
+
+ 
+
+—dv‚ etfietyxdmx=——311—y 173¹ dyseu-
+d x l 1 — 2 n
+ζῆ = -Ῐ-ι- y ¹¹ d y. His ver& aequationibus
+
+non aequalitateS, sed proportiones tantum expo-
+nimus, et ideo co‘efficientes datas negligimus·
+
+Si in ultima aequatione ponatur n = 1, id est,
+densitas vi comprimenti proportionalis, erit ΞΣ
+
+dx
+
+- m. Sumantur quantitates —m———l
+x x ··-
+
+progressione arithmetic53 et earum fluxiones,
+(m —— 1) d Χ
+
+xm
+
+y .
+
+in
+
+seu differentiae nascentes — , ideo-
+
+ 
+
+—3-:32 x constantes erunt, et propterea
+
+quantitates gin-y etiam datae; ac proinde densitates
+
+y suis differgntiis d y proportionales, erunt con-
+
+tinue proportionales, (per Lem· II. Lib. IL).
+
+Si in eadem hypothesi ponatur m = 1, fit dg
+
+d x . .. . dyx
+= -- -x- ; unde Sl capiantur ouantitates -Ξ-
+
+ 
+
+que et
+
+dy
+
+— constantes,
+
+et ideo densitates y in progressione? geometrica.
+
+Prorsus ut in Prop. XXI„ XXII. et initio
+
+scholii hujus demonsltragum est. Sumptis fluen-
+- n ι ·
+
+metrica, erunt etiam quantitates
+
+ 
+
+ 
+
+ 
+
+ 
+
+tibus, aequatio —111 y ¹⁸ d y = — ἐξ hanc
+1—n
+- abit l -l-ny ¹³ =—m³-ml'x 1-¹¹¹ -ξ- Q.
+
+const. in qua non potest esse m = 1, nec n = 1,
+neque n = 0, ut patet. Ut autem determinetur
+valor constantis Q, primum definienda est altitu-
+do S F, ubi densitas y evanescit. Nam si altitudo
+illa finita est et dicatur = a, posita y = o, ha-
+
+bebitur Q = -.- ¹ χ
+
+m—l
+¹1-m—a1- m 31—m-..x1--ml
+
+ 
+
+a ¹ -Ψ, et hinc
+
+ 
+
+l—n
+1—n
+n
+
+γε·-
+
+ 
+
+Iti—l
+l—n
+
+m—i
+
+ 
+
+in qua ‘aequatione debet esse numerus po-
+
+n.
+sitivus, seu n numerus positivus' unitate minor,
+ut crescentibusdistantiis Χ, decrescant densitates
+y, et contra. Si altitudo S F ad quam densitas
+
+y evanescit, infinita supponatur, erit constans
+
+ 
+
+ 
+
+ 
+
+ 
+
+l—-n
+Q=0, ac. proinde aequatio l 1 1²y ²¹ =
+m-l-lx1-m. Namsiinaequationel-I—HX
+1-2—1'1 xx—m—aI—.m
+y u = m — l ‚ ponatur y nulla
+
+et Χ infinita, quantitas constans a erit infinita,
+contra hypothesim.
+Jam vero si gravitas est reciproce ut quadra-
+
+ 
+
+ 
+
+ 
+
+ 
+
+tum distantiae, id est si m = 2, aequatio 1 l Χ
+1.-9 1 T n
+
+y ¹¹ :m— l x¹ —f'ninhancmigratl —n Χ
+1 - n l 1
+
+y ¹¹ = -ἶ, unde est y ut Χ ΐῖῗῖ reciproce.
+
+F ingatur quod cubus vis comprimentis sit ut
+
+quadrato-quadratum densitatis, seu y 4 ut v ³,
+3 1
+ideoque y ut v ἶ, et hinc n = {3 et eritx ¹ -- ¹¹
+= x ³, ac proinde densitas y ut Χ 3 reciproce,
+seu densitas, reciproce ut cubus distantiae. Fin-
+gatur quod cubus vis comprimentis sit ut qua-
+drato-cubus densitatis, hoc est, y 5 ut v 3, adeo-
+quey utv Ξ, et hinc n = }; et erit y ut Χ {-
+reciproce„ id est, densitas reciproce in sesquipli-
+cata ratione distantiae. Fingatur quod vis com·
+
+primens sit in duplicata ratione densitatis; seu y
+1
+
+ut v ² ; et hinc erit n = ἦ, ac proinde y ut x re-
+ciproce, sive densitas est reciproce ut distantia.
+Quae Newtonus in scholio dixerat. Vide Mo-
+numenta Academiae Regiae Scientiarum anni
+1716, ubi hanc materiam tractat Varignonius,
+quem hic sumus sequuti.
+
+ 
+

@@ -1,0 +1,189 @@
+282
+
+intervalli inter particulas medii, cum motu com-
+muni cum puncto A feruntur, esse ubicumque
+eamdem, et aequalem dimidio spatio ab A de-
+scripto dumrss celeritatem m acquirit.
+
+Nam cum A bis id dimidium spatium de·
+scripserit et B semel dum B communem cum A
+motum suscipit, contrahitur spatium inter A et
+B dimidio illo spatio; A processit ter illo dimidio
+spatio et C semel dum C communem cum B et
+A motum suscipit, ergo intervallum inter A et C
+duplo ejus dimidii spatii diminutum est, sed inter
+A et C duo sunt particularum intervalla A et B,
+B et C, et primum intervallum est contractum
+dimidio illo spatio, ergo intervallum inter B et
+C eodem dimidio intervallo diminutum esse de-
+bet, sicque de caeteris.
+
+16. Ideo si quolibet tempore elapso sumatur
+via tota puncti A, ea via aequalis erit summae
+diminutionum intervallorum inter omnes parti-
+culas ad quas celeritas m communicata fuit3 cum
+ergo motus puncti A sit uniformis, uniformiter
+etiam crescit numerus particularum ad quas ce-
+leritas m communicatur; et numerus earum par-
+ticularum aequalis erit viae a puncto A percursae
+divisae per diminutionis intervalli unius quanti-
+tatem.
+
+17. Manente autem fluido eodem, sed mutata
+celeritate puncti A, tempora quibus puncta suc-
+cessiva medii celeritatem ejus puncti A susci·
+piunt eadem tamen manent: nam si in formula
+
+¹2----.'3.57a2m
+
+ 
+
+S qua determinatur quadratum
+
+temporis qu0. punctum B recipit celeritatem
+puncti A substituantur loeo m et s quantitates
+ipsis aequipollentes‚ formula haec fiet quantitas
+constans (manente elaterio medii et intervallo
+particularum) quaecumque sit velocitas puncti
+A; etenim dicaturf vis elastica medii, quoniam,
+ex hypothesi Problematis hujusce, uniformiter
+agere.censetur tempore quod exprimitur per a ut
+
+celeritatem s generet, erit s = a f 3 praeterea
+3.57 a² m
+
+ 
+
+quoniam particularum intervallum B A
+
+ 
+
+ 
+
+s
+= 3.57 a ² AaB = 3⁶5⁷ fA B quae quantitas,
+a f
+
+constantes tantum continet a celeritate m inde·
+pendentes ; hinc, tempus quo punctum B celeri-
+tatem puncti A recipit idem est quaecumque sit
+velocitas puncti A ; idem demonstrabitur de tem-
+pore quo punctum C eam celeritatem recipit,
+nam habet (not. 13.) rationem constantem ad
+tempus quo punctum Β eam celeritatem acquirit,
+est nempe ad id tempus ut 3 ad 2, et sic de cae-
+teris punctis. Q. e. d,
+
+18. Diminutiones intervallorum inter partes
+medii elastici (manente eodem fluido) sunt ut
+celeritas pffncti A ; nam spatium A a pereni-’sum
+a puncto A tempore quo certa quaedam particula
+medii clastici celeritatem m‘ recipit est semper
+m x, (x designante tempus quo illa particula
+medii celeritatem m suscipit) sed illud tempus
+est constans (n. 17. hujusce) quaecumque sit ce-
+leritas puncti A, crgo spatium A a est semper
+ut velocitas m; scd illud spatium A aest summa
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. Conpon.
+
+diminutionum intervallorum inter partes ad quas
+celeritas m pervenit (n. 16.)‚ singulae autem di-
+minutiones sunt aequales (n. 15.) ergo singulae
+diminutiones sunt ut illud spatium A a, sive ut
+velocitates. Χ
+
+19. Et vice versa, numerus partium compres-
+sarum quae dato tempore celeritatem puncti A re-
+ceperunt est semper idem quaecumque sit puncti
+A velocitas3 nam ille numerus est ut spatium
+A a divisum per unius partis diminutionem, spa-
+tium A a dato tempore est ut celeritas puncti A,
+diminutio unius partis est etiam ut ca celeritas 3
+ergo numerus partium quae dato tempore celeri-
+tatem puncti A receperunt, est ut celeritas per
+celeritatem divisa, hoc est, iu ratione constanti ;
+unde, in diversis temporibus numerus particula-
+rum ad quas celeritas m pervenerit, erit directe
+ut tempus.
+
+20. Quod si particulae data celeritate jam sint
+dimotae, et certum gradum compressionis susce-
+perint‚ postea vero nova velocitas addatur (vel
+detrahatur) puncto A, novus ille celeritatis gra-
+dus eodem tempore ab una particula ad aliam
+propagabitur quo prima celeritas propagata fuit,
+(in hypothesi quod tarn velocitas m quam haec
+nova velocitas addititia exiguae sunt) idque hoc
+modo demonstrari potest.
+
+Fingatur omnes particulas prima celeritate
+motas et compressas in navi positas esse quae ipsa
+particularum earum celeritate feratur, ita ut illae
+particulae in ea nave respective quiescant, urgea-
+tu'r vero prima pars per excessum novae celerita-
+tis super primam, communicatio istius excessus
+celeritatis ad omnes partes in nave positas ut et
+nova compressio particularum determinabitur ut
+in praecedenti Problemate‚ mutatis celeritate,
+intervallo particularum medii, et ejus elasticitate3
+si ergo prima celeritas fuerit ut priusm ; a tem-
+pus quo intervallum particularum A B ea cele-
+ritate percurrebatur‚ ideoque sit A B = m a,
+sit ut prius s velocitas genita tempore a per vim
+elasticam medii in statu naturali considerati et
+uniformiter agentis, inventum est quod tempus
+quo punctum B celeritatem m acquisiverat erat
+
+3.57 m . . .
+a γ (n. 10.) quou Spanum A a interea
+53.57 m
+
+s
+a puncto A descriptum erat m a 4! — s
+
+3.57 m ,
+, ita ut
+
+ 
+
+et
+
+ 
+
+spatium Β b verat ‚428 m a 4!
+
+ 
+
+compressio particularum sit A a -- Βῗὶτε. 572 ><
+
+3.57 m . , . .
+m a μ -s—-, ideoque novum mtervallum m-
+
+ter particulas in nave positas erit m ax( 1-—.5'72><
+V 3.57 m
+
+s a
+elasticam novam inverse ut partium intervalla,
+
+sive ut m a >< (1 — ‚572 ql 3⁹57 m) ad m a,
+
+s
+sive ut t — ‚572 Μ 3⁰⁵} m ad 1.
+
+cessus novae velocitatis super priorem dicatur n,
+tempus quo novum› intervallum inter particu-
+las describeretur per hanc celeritatem n, erit
+
+> ς est autem vis elastica prior ad vim
+
+ 
+
+ 
+
+Et, si ex-
+
+ 
+

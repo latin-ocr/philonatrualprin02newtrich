@@ -1,0 +1,56 @@
+16 PHILOSOPHIAE NATURALIS [Mor. Conpon.
+
+tur hyperbole. secans per-
+pendicula D E, d e in G,
+gg et corpus ascendendo
+tempore D G g d descri-
+bet spatium E G g e, tem-
+pore D G Β A spatium
+ascensus totius E G 133
+tempore A Β K I spatium
+descensus B F K, atque ’
+’ tempore, I K k i spatium D d Α 1 1·
+descensus K F f k; et ve-
+
+locitates corporis (resistentiae medii proportionales) in horum temporum
+
+periodis erunt A Β Ε D, A Β e d, nulla, A Β F I, A Β f i respective;
+atque maxima velocitaS, quarn corpus descendendo potest acquirere, erit
+
+B A C H.
+
+(¹²) Resolvatur enim rectangulum B A C H in rectangula innumera
+A k, K l, L m, M n, Sco. quae sint ut incrementa velocitatum aequalibus
+totidem temporibus facta 3 et erunt nihil, A k, A l, A m, A n, Sco. ut ve-
+locitates totae, atque ideo (per hypothesin) ut resistentiae medii principio
+singulorum temporum aequalium. (¹) Fiat A C ad A K vel A Β Η C ad
+A B k K ut vis gravitatis ad resistentiam in principio temporis secundi,
+deque vi gravitatis subducantur resistentiae, et manebunt A B H C,
+
+K k H C, L l Η C, M m H C, &a ut vires absolutae quibus corpus in
+
+principio singulorum temporum urgetur, atque ideo (per Motfis Legem
+
+ 
+
+II.) ut incrementa velocitatum, id est, ut rectangula A k, K l, Lm, M n,
+&a et (¹¹) propterea (per Lem. I. Lib. ΙΙ.) in progressione geometrica,
+Quare si rectae K k, L l, M m, N n, διο. productae occurrant hyperbolae
+inq, r, S,t, &c.erunt areae ABqK, quL,LrsM,MstN, &a
+(¹) aequales, ideoque tum temporibus tum viribus gravitatis semper aequa-
+
+libus analogae. (m) Est autem area A Β q K (per Corol. 3. Lem. VII.
+
+(ὴ) ⁵* Resolvatur enim, &c. Demonstratio deinceps. Quoniam vero gravitas motum cor-
+quae sequitur est pro corporis descensu. poris cadentis accelerat quem resistentia retar-
+(1) * Fiat A C ad A K, &c- Chm enim sit dat, de vi gravitatis auferenda est vis resistentiae
+A K k B, proportionalis resistentiae principio ut habeatur vis absoluta qua corpus deorsum ur-
+temporis secundi, si fiat A K k B ad A B H C getur.
+seu A K ad A C, ut resistentia illa ad gravita- (¹²) ³* Et proptereci. Rectangula A B H C,
+tem, rectangulum A H exponet vim gravitatis K k H C, L l H C, &c. differentiis suis A k
+datam; et simili modo, cum sit A Ι, ad A k, ut K 1, &c., proportionalia, erunt in progressione
+resistentia initio temporis tertii ad resistentiam geometrica (per Lem. Ι. Lib. ΙΙ.)
+initio temporis secundi, erit, ex aequo perturbate (¹) ¹* AEquales. (380) Lib. 1.
+A l ad A H, seu A L ad A C, ut resistentia in (ω) Est autem area A B q K (per Corol. 5
+principio temporis tertii ad gravitatem, et ita Lem. VII. et Lem. VIII. Lib. I. J ad aream
+

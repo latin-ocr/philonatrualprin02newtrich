@@ -1,0 +1,139 @@
+Lmen SECUND] PRINCIPIA MATHEMATICA. 9
+
+suppeditabuntque totidem aequationes ad deter-
+minandos coefficientes B, C, D, 8ιο- ν. gr. est
+
+-Ιε Bb2— ΑΞ bz =o‚ unde invenitur B π
+1 y2ABb3
+
+s ‘2 A 3 b 3
+ῆμέεῐῦὴῖ- 2y .÷2><5y²
+substitutoque valore A et B divisoque per b3,
+
+' est C = -1-2, sicque de caeteriS, unde reperietur
+
+ΞΥ b'2 b³
+ndy==b453453
+
+Cum itaque sityzs=ndy11½eritx=s
+
+ 
+
+ 
+
+ 
+
+=o,
+
+ 
+
+X}÷ &2453-1-53ae8oe. aest.
+
+2¹¹⁸· Cas. Quod si ordinata L A fit plusquam
+dupla ordinatae T K, quaeratur media propor-
+tionalis inter L A et T K, cujus si L A nonsit
+plusquam dupla, invenietur intervallum abscis-
+sum inter eam et L A, ut prius, eritque dimidia
+pars intervalli quaesiti A K, erit enim L A ad
+eam mediam, ut ea media ad T K, unde portio
+axis inter L A et eum mediam, erit aequalis por·
+tioni axis inter eam mediam et T K τ si L A
+ejus mediae sit plusquam dupla, quaeratur nova
+media inter L A et priorem mediam, interval-
+lum inter hanc e* L A erit quarta pars portionis
+quaesitae ⁴A K. Quod si L A sit adhuc plus-
+qnam dupla istius mediae repetatur operatio do-
+nec media inveniatur cujus L A non sit plus-
+quam dupla, ex cujus intervallo, intervalli A K
+valorem assignare licebit, eo quo prius usi sumus
+ratiocinio. ‚
+
+Corol. 1. Si una ex ordinatis sit unitas, portio
+axis quoest‘ca x erit alterius ordinatae abscissa,
+ide6que ejus erit logaritlzmus, positivus quidem si
+ea ‘ordinata sit unitate major, negativus vero si
+unitate sit minor.
+
+Corol. 2. Si ordinata G R sit unitas, et ordi-
+nata L A ejus dupla, et si subtangens logarith-
+micae sit aequalis unitati, series abscissam exhi-
+
+1ὲ2ψέχ4ψ
+
+&c. quorum terminorum cal-
+
+bens in hanc mutatur x = =
+
+ 
+
+ 
+
+“ 1 1
+
+ 
+
+ 
+
+:3 χ “Ι’“ 4 >< 16’
+culus est facillimus, qui si instituatur, abscissa
+quaesita invenietur x = ,6931472
+
+58. Theor. V. Sint ἀπα» diversae legarithmicae
+in utu-cique sumantur ordinatae oequales, abscissae
+illis ordinatis correspondentes in utraque logarith-
+11ιίςᾶ erunt ut earum logarithmicarum subtangen-
+tes, ade6que in constanti ratione,
+
+Sint duae logarithmicae P B, R D prioris
+subtangens sit M S = s, subtangens alterius sit
+Q T = ες Ordinatae P M, R Q in utraque
+sumptae sint uales dicanturque y; sint ordi-
+natae B A et C aequales unitati3 abscissa
+A M dicatur x, et C Q, z; dico fore s: t=
+x : z. Dividatur A M in partes infinite parvas
+d x, quarum numerus (infinitus) dicatur n. In
+totidem partes d z dividatur C Q, et concipian-
+tur ordinatae in omnes divisiones erectae, illae or-
+dinatae erunt in progressione geometrica in utro-
+que intervallo‚ sitque p m secundus terminus
+
+primae progressionis, et q r secundus terminus pro-
+gressionis alterius, erit in prima P M z B A ε
+PMn--12 pm2—1‚insecundaR Q: DC
+= R Q ¹‘ - ¹ ε rq ¹² —1, ex natura progres-
+sionis geomefflcae, et quia tres priores termini
+
+ 
+
+ 
+
+fia
+
+ὦ C
+
+harum proportionum ex hypothesi sunt aequales;
+aequales etiam erunt p m ¹²- 1 et r q ¹¹— ¹,
+ide6quepm=rq‚ et PM—pm= RQ-
+r q, differentiae ergo proximarum ordinatarum
+sunt aequales, dicanturque d y. Est autem in
+prima lOgarithmica (per Probl. 1. n. 57.) y: s
+=ndy2ndxsivex‚ etalternandoy: ndy
+=s: x; in secunday: t=ndy2ndzsive
+z, etalt.y: ndy=tz z,estergos: x=tzz
+sives: t=x:z· Q.e.d.
+
+Corol. 1. Hinc liquet quod (manente unitate)
+legarithmicae quarum eaedem erunt subtangentes‚
+in omnibus erunt aequales, quippe si sumantur
+in iis aequales ordinatae abscissae etiam aequales
+erunt.
+
+corel. 2. Logarithmicae vero diversae speciei
+dicentur, quarum subtangentes erunt diversae;
+et logaritbmi diversae speciei dicentur, ubi eis-
+dem quantitatibus logarithmi diversi responde-
+bunt, unde etiam logarithmicae ad quas pertinent
+diversae illae logarithmorum species, habebunt
+diversas subtangentes (per hoc Theor.) ideoque
+erunt diversae speciei.
+

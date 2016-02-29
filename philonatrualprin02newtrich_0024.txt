@@ -1,0 +1,78 @@
+12
+
+De Maximis et Minimis.
+
+47. Τήεον. Si quantitas variabilis, (quam ex-
+ponat recta P M curvae P D Β ordinata) ad
+certum usque temninum D cominu& crescat et
+postea decrescat, vel contrd‚decrescat12rim‹2m et
+
+PHILOSOPHIAE NATURAL'IS
+
+[Mo'r. Conpon
+
+48. Corol. 1. Ut ex data aequatione inter ab·
+scissam A M et ordinatam M P, inveniatur va-
+lor abscissae A E cui maxima vel minima appli-
+cata E D ordinatur, sumenda est aequationis
+fluxio, et ratio fluxionis ordinatae ad fluxionem
+abscsssae, seu ratio p r ad M m, eaque vel'infinito
+
+ 
+
+deind& crescat. Actaque sit altera ordinata p m
+
+riori P M infinite} propinqua, et per punctum
+ἓ) recta P r abscissae A P parallela secans p m
+in r, ratio incrementi ‘vel decrementi evanescentis
+p r ordinatae P M, ad incrementum evanescens
+M'm abscissae A M in puncto D ubi ordinata
+M P omnium maxima vel minima evadit, fifim‘·
+ta est vel nulla.
+
+Per punctum P ducatur P T tangens curvam
+in P, et abscissae occurrens in T, et propter
+similitudinem triangulorum p ι· Ρ, Ρ Μ Τ, erit
+prad Pr, seuMmutPMadM T. Sedsi
+coincidente puncto P cum D, tangens P Τ
+evadat abscissae A E parallela et proinde M P
+fiat maxima vel minima ordinata E D utin fi-
+gura 1²· et 2⁸· punctum T in infinitum abit, et
+ide& ratio P M ad M Τ seu ratio p r ad M m
+nulla est. Contrit ver& si coincidente P cum D,
+tan ens P T cum ordinatii maxim& vel minima
+D conveniat, ut in figura 3. et 4. evanescit
+subtangens M T et ratio P M ad M T, sive p r
+ad M m infinita evadit.
+
+vel nihilo aequanda est, aut quod idem est, factii
+M m constante, fluxio ordinatae vel infinito vel
+nihilo aequalis supponenda.
+
+49. Corol. 2. Si quantitas variabilis cujus
+maximum vel minimum quaeritur non sit ordi-
+nata curvae, potest illa supponi aequalis ordinatae
+v'curvae alicujus in datam quantitatem ductae, uti
+vsi proposita esset quantitas variabilis a x ² —— x 3
+in quii a data est, x indeterminata, poneretur
+a 12 - x³ = b b y, quae est aequatio ad cur-
+vam cujus abscissa est x, et ordinata y, et hinc,
+sumptis fluxionibus, soret 2 a ‘x d x — 3 x ² d x
+
+bbdy
+
+ade6que 2ax —- Sxx = oetxd=xgza Si
+itaque loco x substituatur Ξ a in quantitate
+
+propositfi, obtinebitur maximum ejus ὃ a 3 ..-
+²287 a³ = ἔγ 83. Idem inventum fuisset bre-
+vius, si nullst facta suppositione, fluxio variabilis
+propositae videlicet 2 a x d x = 3 x ² d x, nihilo
+fuisset aequata.
+
+abbdy, etanv—3x²=
+
+ 
+
+=0
+

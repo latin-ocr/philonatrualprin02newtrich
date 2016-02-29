@@ -1,0 +1,92 @@
+Lmen SECUND.] PRINCIPIA MATHEMATICA. 211
+
+Scholium.
+
+In hac Propositione exposui resistentiam et retardationem projectilium
+sphaericorum in mediis non continuis, et ostendi quod haec resistentia sit ad
+vim qufi totus globi motus vel tolli possit vel generari quo tempore globus
+duas tertias diametri suae partes velocitate uniformiter continuata descri-
+bat, ut densitas medii ad densitatem globi, si modo globus et particulae
+medii sint summe' elastica et vi maxima reflectendi polleant: quodque
+haec vis sit duplo minor ubi globus et particulae medii sunt infinite dura
+et vi reflectendi prorsus destituta. In mediIs autem continuis qualia sunt
+aqua, oleum calidum, et argentum vivum, in quibus globus non incidit
+immediate in omnes fluidi particulas resistentiam generantes, sed premit
+tantum proximas particulas et hae premunt alias et hae alias, resistentia
+est adhuc duplo minor. Globus utique in hujusmodi mediis fluidissimis
+resistentiam patitur quae est ad vim qua totus ejus motus vel tolli possit
+vel generari quo tempore, motu illo uniformiter continuato, partes octo
+tertias diametri suae describat, ut densitas medii ad densitatem globi, Id
+quod in sequentibus conabimur ostendere.
+
+PROPOSITIO XXXVI. PROBLEMA VIII.
+
+Aquae de vase qylindrz'co perforamen in fundo factum effluentis de nire
+motum.
+
+Sit A C D B vas cylindricum, A B ejus orificium superius, C D fun-
+
+¹ dum horizonti parallelum, E F foramen circulare in medio fundi, G cen-
+
+quae fluens ita sumenda est ut evanescat ubi fit d x a -1- x
+dx a —. Verum (ex dem. et Hyp.) =
+
+ita sumpta est lo- a a
+a -f- x T -{·- t x t
+Τ et -
+
+garithmus numeri a ἰ’ x, desumptus ex logistica — ² quare area hyperbOhca
+
+ 
+
+x = o, sed fluens S.
+
+ 
+
+ 
+
+a T
+a B C F E, est ad rectangulum B C G E, ut
+
+ 
+
+cujus subtangens est unitas, aut quod idem est,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ex hyperbole cujus dignitas unitati aequalis est L, T ψ t ad L, Su erest ῐ itur inveniendus
+(382. Lib. Ι. et 40. Lib. ΙΙ.) ; si enim ponatur T Τ p ⁰ g
+
+⁷¹ = ο, numerus ³ ''l- x, evadit = 1, et idef, logarithmus numeri Τ i!- t; per logarithmicam
+
+L 3.,- x·- a ἱ cujus subtangens est unitas. Porro ejusdem
+
+. a —- 0· Quare area B C F E = ab Χ numeri logarithmi diversae speciei sunt inter se
+
+a -Ι- x ἱ in data ratione (38) et uumerus 2, 502585092994
+
+L. 3 rectangulum vero B C G E = est loganthmus numen denani sumptus in loga-
+
+ 
+
+b κ. E.. a... hypebouca n c 1·- Ε aa xssasdssxffissxgsssffi.0ffi ..m
+
+rectangulum B c G E, ut a ι, L. ³ ÷ ¹ ad 1,ooooooo=1;quare ut1‚ad 2302585092994,
+
+ 
+
+ 
+
+ 
+
+bx hoc es( diVid d b L Ξ -Ι- x ita logarithmus numeri T{iutin tabulissumptus
+³ ’ en ⁰ per a ’ ut “ a ad legarithmum ejusdem numeri sumptum in
+
+02
+

@@ -1,0 +1,64 @@
+112 PHILOSOPHIAE NATURALIS [Mor. Conpoa.
+
+LEMMA 111.
+
+Sit P Q R spiratis quoe secet radios omnes S Ρ, S Q, S R, &a z'n aequali-
+bus angulis. Agatur recta P T quce tangat eandem in puncto quovis P,
+secetque radium S Q in T 3 etad spiralem erectis perpendiculis P O, Q O
+concurrentibus in O, jungatur S O. Dico quod εἰ puncta P et Q accedant
+
+ad invicem et coe‘ant, angulus P S O evadet rectus, et ultima ratio rectan-
+gulz' T Q >< 2 P S ad P Q quad. erit ratio aequalitati&
+
+Etenim de angulis rectis O Ρ Q, O Q R subducantur anguli aequales
+S P Q, S Q R, et manebunt anguli aequales Ο Ρ S, Q Q S. Ergo cir-
+
+culus qui transit per puncta
+
+O, S, P (5) transibit etiam s x
+per punctum Q. Coe'ant ff ,
+puncta P et Q, et hic cir· ss ' >
+culus in loco coitfis P Q ’Ἀ
+tanget spiralem, (²)ide6que
+perpendiculariter secabit
+rectam Ο P. Fiet igitur
+Ο Ρ diameter circuli hujus,
+et angulus O S P in semi-
+circulo rectus„ Q. e. d.
+Ad O P demittantur per-
+pendicula Q D, S E, (³) et Ι
+linearum rationes ultimae erunt hujusmodi: T Q ad P D ut T S vel P S
+adPE,seu2 P Oad2 P S3item PDadPQutPQad2 P03etex
+aequo perturbate T Q ad P Q ut P Q ad 2 Ρ S. Unde fit P Q q aequale
+
+TQxePS. Q.e.d.
+
+ 
+
+ 
+
+ 
+
+‚ b a 2 , (ὃ) * Et linearum rationes ultimae. Quoniam
+
+y = ³³ ent Q = 4a 2 et hmc S P V = lineae P T, D Q, E S ad P Onormales. sunt
+b a a - b y y. Ι Quare ubi radius y = 0, fiet ll'arglfflag' 131'2(}Fr81;2<{p13{·:Iigbilet·offlgffi·ss
+4 a litudinem triangulorum P S Ο, P E S, P S:
+,reas pv=¹ss=Q=2gtriang. PE: P O: Ps, seu21>0221³s‚ ide6que
+4 4 TQzPD=2P022PS. Quiaverbra-
+
+P S T· dii O P, Ο Q sunt ad arcum evanescentem P Q
+(y) ¹* Traml'bit eliam 1'37‘ punctum Q· (Per perpendiculareS, punctum O est centrum, P Ο
+ΡΙὉΡ· XXI· Lib· ῙῙῙ· Elem·) radius et 2 Ρ Ο diameter circuli spiralem oscu-
+
+(z) Ide6que perpendiculariter secabit rectam lamis in P (121. Lib· 1⁴) et (per Lem· VII·
+0 Ρ, (1¹¹ae (per Hy 1³⁶) perpepdoefflanff est ,ad {¹¹² Lib. 1.) P Q hujus circuli arcus vel chordae3
+⁰¹¹¹1¹ Q P, flet igitur Ο P ‘hametffl‘ c¹¹⁰¹¹¹¹ huJus atque ade& (ex natura circuli) abscissa P D est
+
+(per Prop. KH}- Lib. 111. Elem) et angulus ad chordam P Q ut P Q, ad diametrum 2 ΡΟ.
+Ο S P in semi-circulo rectus (per Prop. XXXI· Quare ω. oequo perturbate, &a
+
+Lib. 111. Elem).
+
+ 
+

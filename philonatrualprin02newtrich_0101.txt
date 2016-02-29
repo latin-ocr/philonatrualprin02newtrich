@@ -1,0 +1,198 @@
+ 
+
+. LIBER simona] PRINCIPIA MATHEMATICA.
+
+multiplicata, ideoque est — d d y = g d t ² =
+
+gd'zsz (cum sit dt = 9-8) undoest v2 =
+
+v v
+gds2
+-ddy
+nem utrinque sumendo est —-· v 2 d³·y Α
+2vddydv=2gdsdds, etcum lineola
+p q designet d d s sitque Pp sive P s (d s) ad
+Pr(dy)sicutps(—ddy)adpq(dds)est
+d s d d s= — d y d d y unde haec ultima aequa·
+tiofit-v2d3y-2vddydv=-2gdy‹1dy
+et—-2vddydvd=v2d3y—2gdyddy
+v2 3y
+
+2ddy
+
+ 
+
+sive -v2ddy=gds2, et fluxio-
+ί.
+
+... g d y, unde cum in-
+
+ 
+
+et4—vdv=
+
+ 
+
+ventum etiam fuerit — v d v =
+
+v 2 d ³ y = v 2 n d ⁵. et valorem inventum
+
+ 
+
+est
+
+ 
+
+ 
+
+ 
+
+dd y a
+v2= g (31 ΞΖ substituendo, fit tandem {ff ‹si2dd32r
+gffis2 ’ξ’-θ’ , ο Λ y
+= -, d d n· sive reductione facta a (13 y =
+g n‘·‘¹ad s2yn——1
+-ᾱῖῆ-ᾱ--Τ-
+
+Ut autem ex hac aequatione eruatur aequatio
+inter d x, et d y, et inter Χ et y, deSIgnet p Ya-
+riabiles quascumque quae in aequatione quaefflta
+ita multiplicant fluxionem d Χ ut ea sit aequahs
+d y, sitque dy=pdxet dy2=p2dx²‚
+cum sit d s 2 == d x2 -Ι- d y2 erit d sssaed‘xss
+÷2p²dx2= 1 -f- p2 >< d 12, et ds=
+dxvi ÷ppundeds2¹¹—¹==dx²²¹—¹
+2 n —· 1
+Χ 1 -1-Ρ p ²
+
+Praeterea cum d x constans supponatur erit
+d y= pdx, ddy=dxdp,etsumptafluxi0ne
+eritetd³y=dxddp. Etsi tandeque·
+signet variabiles quae ita multiplicant fluxionem
+d Χ, ut ea fiat aequalis d p, sitque q d Χ = d p erit
+d-xdq=ddpetdx2dq=dxddp=d³y,et
+
+aequatio proposita in hanc vertetur a d x22 d q =
+n - 1
+
+g”-¹dx²¹²-·¹)<l-{-pp'-2—‘
+dxdp1”—2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, et diviso
+
+utroque termino per d Χ ²,21423ritl a d q =
+
+mg¹¹—¹dX”—¹><¹÷P-P-r neni
+dPn—q, · que
+
+loco d Χ nosito ejus valore
+
+ 
+
+d—3'eritadq=
+
+ἕξω-,ι dpn-1 Xl-ss—ffijssnz—l
+
+‘1”*¹d123‚²3²
+
+g”*¹>fl÷pp ²
+
+ 
+
+sive adq=
+
+ 
+
+ 
+
+>< dp, hocestaqfl-ddq
+Q
+
+=g¹¹-¹l÷pp ² lP, quae est aequa.
+
+89
+
+tio fluxionalis inter d p et d q, ex qua per
+curvarum quadraturam obtinebitur aequa-
+tio inter p et q et inde inter Χ et y, ut
+id ipsum nune exponemus, summando enim
+
+terminos aessuaticlmis a q ¹¹ -· 1 (Ξ q = g ¹¹ -- ¹
+n — a q
+
+><1÷Ppssdphabetur75 :gun-1 Χ
+
+ 
+
+ 
+
+Π...-.Ι
+S.1÷ pp23‘22‘ldsthoc estq= ζ’] nga
+
+‘an—1
+
+>< amp 2 d p, unde sit curva cujus ab·
+
+ 
+
+ 
+
+ 
+
+--
+
+ 
+
+ 
+
+ 
+
+C
+
+scissa qualiscumque A P sit= p, sitqssue ejus or.
+n — l
+
+2 ‚ erit
+
+ 
+
+ 
+
+dinata P N semper aequalis 124- pl p
+n .-
+
+area A B P N =S. I-ssp—p-Td p, ducatur
+ergo ab altera parte P ordinata P O talis ut sit
+
+ng¹¹—1l
+
+semper aequalis 4¹²! Τ >< Α Β Ρ N erit ea
+P Ο aequalis ὲ, cumque sit d x = ‘lq-p = {-
+
+>< d p, erit (summando) x = S. -1- >< d p sive
+
+aequalis area A C P Ο. q
+Denique cum> sit d y = p d Χ = ΕΞ-ῙῘ
+
+{- >< dpet summandoy= S. -ἓ- >< ᾶρίᾱοό
+
+si e puncto P versus originem A sumatur P Ι
+aequalis unitati, ductaque I Ο, ducatur ipsi pa-
+rallela A Q ab origine curvae quae secet P Ο
+
+productam in Q, 'erit 1 ι Ρ O (sive ὲ) = A P
+
+(sive p) ι Ρ Q = {a itaque area curvae A P Q
+

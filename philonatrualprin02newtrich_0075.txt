@@ -1,0 +1,91 @@
+Lmen Securum] PRINCIPIA MATHEMATICA. 63
+
+PROPOSITIO X. PROBLEMA ⁸III.
+
+Tendat uniformis 'vis gravitatis directe ad planum horizontis, sitque resisten-
+tia ut medii densitas et quadratum velocitatis corgjunctim : requiritur tum
+medii densitas in locis singulis, quoefaciat ut corpus in data quavis linea
+
+. curva moveatur ; tum corporis velocitas et medii resistentia in locis sin-
+
+gulis.
+Sit P Q planum illud plano schematis perpendiculare 3 P F H Q linea
+
+curva plano huic occurrens in punctis P et Q 3 G, H, I, Κ loca quatuor
+corporis in hae curva ab F
+ad Q pergentis3 et G B,
+H C, I D, K E ordi-
+natae quatuor parallelae ab
+his punctis ad horizontem
+demissae, et lineae horizontali
+P Q ad puncta B, C, D, E
+insistentes3 et sint B C, CD,
+D E distantiae ordinatarum
+inter se aequales. A punctis P
+G et H ducantur rectae GL,
+
+H N curvam tangentes in G et H, et ordinatis C H, D Ι sursum pro-
+ductis occurrentes in L et N, et compleatur parallelogrammum H C D M.
+(¹³) Et tempora, quibus corpus> describit arcus G H, H I, erunt in sub-
+
+  
+
+S.2kdx -S.2kdx
+=Qh —h s.2gh dx
+
+aequationibus (109.) separationem admittunt. S. 2 k d x
+
+In hac hypothesi aequatio pro corporis ascensu
+
+emmonem- 'ff‘ oewv‘w f‘
+
+fitgdx†kx‘²dx=-vdv‚ seuvdv†
+
+kv²dx=—gdx. Ponatur kdx= (ΕΞ-Ξ
+
+ut sit 2zvdv -1- v²dz=—2gzdx, et
+sumptis fluentibus erit zv² = Q—S.2gzdx‚
+Q—S. ngdx
+
+ 
+
+et v2= . Quia verokdx
+={z‹12‚ eritS.kdx={L. zetS. 2kdx=
+S. 2 k d x
+L. z. Atque ide& si fuerit L. h = 1, h
+&dex
+= zundefitv²= Q
+S. 2 k d x
+pm corporis ascensu3 et prd¹ descensu loco 4 k,
+Q—SAEgI-l—Saekdxdx
+
+scrivendo — k erit v ² ..τ-*Ἥ
+- S. 2k d x
+
+in quibus aequationibus variabiles sunt separatae,
+quia (per Hyp.) quantitates k et g, sunt ut func-
+tiones variabilis x. Constans Q, determinatur
+
+ex eo quod ubi x = b, sit v a: c, tempus vers)
+
+definitur per aequationem d t = (ξς pro corporis
+
+dx
+
+ascensu, et per aequationem d t = — -ν- pro
+
+corporis descensu, in quibus aequationibuffi si
+loco v substituatur ipsius valor per x inventus,
+variabiles erunt separatae. Sed de his vide Me-
+chauicam Clar. Euleri.
+
+r (ὓ) 113. ²* Et tempora quibus corpus describit
+arcus evanescentes G Η, Η Ι, erunt in subdu-
+plicata ratione altitudinum L H, N I. Eodem
+enim temporis momento quo corpus vi motus in-
+siti in G. describeret tangentem G L, vi gravi-
+tatis uniformi caderet per altitudinem L H qna-
+lem in medio non resistente percurreret eo ipso
+
+- tempore3 resistentia: enim effectus altitudinem
+

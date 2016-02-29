@@ -1,0 +1,126 @@
+mez SECUND.]
+
+scripti s sive A M, poterit· curva D P p descri-
+bi, ac proinde in hac hypothesi dato spatio de-
+scripto, dabitur per quadraturam areae A D P M,
+velocitas, et contra data velocitate dabitur area
+A D P M, et hinc dabitur spatium descriptum
+A M, inde etiam (14. Lib. 1.) data velocitate
+aut spatio dabitur tempus t, et contra·
+
+83. Sin = 2, fit 2 — n = o, et ideo resu-
+mendaestaequatioM Ppm=·-a¹¹v¹— ²²
+
+a ² d v . . .
+, quae, sumptls fluentrbus¹ ablt
+
+ 
+
+dv=-
+
+in hanc AIJPM=Q-a2L.v, et quia
+posita area AD PM=0, fitv=c‚ eritQ
+=a²L.c,ide6que ADPM=a²L.c—
+
+a²L.v=a2L.{. SitADPM=b,lo-
+garithmus numeri h= 1, seu L. h=== 1, erit
+bL. h=a2L'.{-, et {XL-h=12·2‚
+
+V
+
+b b c
+
+seu L. h’a‘a = L. ξ, ac proinde h nvn -ἶ, et
+
+v = -{-. Quare. dato spatio, dabitur velocitas
+, h π
+
+et hinc dabitur tempus (14) et contra.
+
+84, Sit densitas uniformis seu k == l, erit k d s
+== d s ι- -- a ¹² v ¹ --· ¹² d v, sumptisque fluentibus
+
+Q—a“v²—¹¹ a¹¹c2—¹¹—a¹²v2-¹²
+⁸=-2-:.„- 2-2—..5-—· ‘1³¹¹‘
+derepefiturv=-——-—[an⁰²— κι- (nn—2) s] m.
+
+aaz-ff
+Invenitur tempus per formulam d t ε- dg ==
+..Qv-—nd—xr = a ''v—¹¹ dv. Et sump-
+
+Q-anv1-l
+
+tis fluentibus, fit t = 1 - n
+
+8³0¹-n—anv1-—n .
+1 ss- n , ,qula positot=o, fitv
+
+= c, et proinde Q, ==⁴a ¹¹ c ¹— ⁸,
+
+PRINCIPIA MATHEMATICA.
+
+41
+
+85. Si k = 1, et n = 1, hoc est, si densitas
+est uniformis et resistentia ut velocitas erit (84)
+s -ι a c —a v; etquia(ibid·)·dt = — a ¹¹v—¹¹
+
+dv=—²2-‘}3,eritt-Q—aL.v=aL.c
+— a L. v == a L. -ἓ, quod posito tempore
+
+t=o‚fiatv=cetproindeQ-=aL.c.
+86. sik = 1, et ιι = 2, erit (84) t =
+
+²2⁰-³2v,etquia(ibid.)ds=—anv¹-ndv
+
+ 
+
+ 
+
+cva2dv . 2
+=— v ‚entan—a2L.v=a Χ
+L.c—a2L.v=a2L.{-;
+
+87. Si in aequatione spatii et velocitatis supra
+
+inventa, velocitas v, supponatur = o, erit s =
+a ¹¹ c 2 — ¹¹
+
+ 
+
+2—n ‚ si n est numerus binario minor, at
+
+aenon—2-anvn—2 an
+
+⁹⁶⁶⁵=m=ffi=
+
+00, si n est numerus binario maj0r3 et (86) erit
+
+s===a²L÷== 00‚ubin=2. Quaresinest
+
+numerus positivus binario minor, descripto spa-
+tio aliquo finito velocitas omnis extinguitur3 at
+si n binario aequalis est vel major, spatium infl-
+nitum conficitur, priusquam velocitas evanescat.
+
+⁷ 88. Si in aequationibus temporis et ve¹⁰⁰it³¹²1i2³
+velocitas v evadat εει ο, erit (84) t κ a n c 1 - ⁶
+
+ 
+
+l—n ’
+
+si n est numerus unitate minor, at erit t = 00,
+
+C
+
+si n est unitate major, et (85) t = a L. -ὀ- ==
+
+00, ubi n === 1. Quapropter si numerus positi-
+vus n est unitate minor, velocitas tempore finito
+extinguitur, spatio etiam finito descripto (87).
+Si n est unitati aequalis vel ipsa major, velocitas
+nonnisi tempore infinito extingui potest, et spa-
+tium finitum est, si n est numerus binario minor,
+infin)itu1n vero, si n binario aequalis vel major
+

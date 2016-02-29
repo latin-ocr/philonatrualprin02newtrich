@@ -1,0 +1,83 @@
+Lmen SECUND.] PRINCIPIA MATHEMATICA. 47
+
+incrementis totis a et b generatur rectanguli incrementum a B -Ι- b A.
+Q. e. d.
+
+'Can 2. Ponatur A Β semper aequale G, et contenti A B C seu G C
+momentum (per Cas, 1.) erit g C -ξ- c G, id est (si pro G et g scribantur
+A BetaB ÷ bA)aBC ÷bAC÷ cAB. Et par est ratio con·
+tenti sub lateribus quotcunque. Q. e. d. ”
+
+Cas. 3. Ponatur latera A, Β, C sibi mutuo semper aequalia3 et *ipsius
+A 2, id est rectanguli A B, momentum a B 4- b A erit 2 a A, ipsius au-
+tem A ⁵, id est contenti A Β C, momentum a Β C -Ι- b A C -Ι- c A Β
+
+erit 3 a A 2. Et eodem argumento momentum dignitatis cujuscunque A ¹¹
+
+estnaAn-1. Q. e. d.
+
+Cas· 4. Unde cum -ῙΑ- in A sit 1, momentum ipsius ,1- ductum'in A,
+
+A
+
+unii 'curn Ξῖ ducto in a, (¹) erit momentum ipsius 1, id est, nihil. Proinde
+
+momentum ipsius -ῙᾸ εθυ. ipsius A “·“ ¹ est „13 Et generaliter cum ,Ξ-
+
+A* A¹¹
+
+in A¹² sit 1, momentum ipsius ,1- ductum in A ¹¹ un& cum 1 in
+
+A¹¹ An
+
+ 
+
+n a A ¹¹ “f 1 erit nihil. Et propterea momentum ipsius seu A- ¹²
+
+ 
+
+n
+
+ 
+
+Cas. 5. Et cum A ὲ in A ἐ sit A, momentum ipsius A& ductum in
+
+2 A ὲ erit a, per Cas. 3: ideoque momentum ipsius A& erit sive
+
+ 
+
+θΑὲ
+
+citas conjunctim, et quod incrementum ejtxstdem = 1, sed momentum rectanguli A B est a B
+rectanguli O A C B ex motu lineae B C natum, -ff- b A (per Cas. 1.) et momentum constantis
+est utilla linea B C et ejus velocitas conjunctim, l nullum est; quare erit a B -†- b A = o, et
+
+ideoque totum momentum rectanguli O A C B h. b A — B — a d*
+
+est summa factorum linearum 'A C et B C per ¹¹¹⁰ “““ - a - ““““ 'X’ un e momentum
+velocitates quibus feruntur respective ductarum, 1 ..... a
+
+ide6que ut summa rectangulorum A C >< e f et b iPSIUS Β seu ’Ᾰ est b = “X-2 = ''- 3 A ““ ²·
+B C >< g h, sive denique ut summa trapeziorum a 1
+
+E F fe, E F h g. Q. e. d. Similiter si ponatur A-¹² = B, et ideo —-„><
+
+2³³. Casus. Facile haec applicantur ad eos ca· n n θ . A
+SUS ubi vel ambae lineae ,Ο A, O B decrescunt, A =n A B = l, eni· Per cas· ‘¹3¹- et 1·
+vel unii crescente altera decrescit, quippe varian- ¹¹ *a A ”““ ¹ B '‘l'' b A ¹¹ = 0 et b Α -“-“ ·-··
+
+da sunt solummodo signa juxta has hypotheses. n a A ¹² - 1 Β -,-,,- :LE-23: Ξ ⁸: n a
+
+¹ Vide aliam· hujus casus demonstrationem A α A
+
+(¹²⁰¹m· 160.·L1b. Ι.) ι · ι , , atque ades) b, seu momentum ipsius -1-ῃ, erit
+() ⁴* Ertt momentum zpszus l, zd est mkzl. A
+
+Ponatur enim —1-= Beterit-kx A=AB —na
+
+A
+
+ 
+
+ῃ 4 1. Simil modo patent Casus 5. et G.
+

@@ -1,0 +1,137 @@
+34
+
+in problematis 55, 58 et 6¹. adhibuit. Haec
+sunt ipsius verba. · Cum curva non datur specie,
+sed determinanda. proponitur, possisque pro ar-
+bitrio aequationem fingere quae naturam ejus
+generaliter contineat, et hanc pro ea designanda
+tanquam si daretur assumere, ut ex ejus as·
+sumptione quomodocumque perveniatur ad ae-
+quati0nes ex quibus assumpta tandem determi-
+netur. Si itaque curva generis dati per data
+puncta delineanda sit, assumatur generalis ad
+curvam illam aequatio· cum terminorum co'e'ffi-
+cientibus indeterminatis, et curva ad rectam ali-
+quam positione datam relata, ex singulis punctis
+datis in rectam illam demittantur perpendicu-
+lares aut re ctae aliae inter se parallelae, quae datae
+erunt ut et earum abscissae a dato in recta illa
+puncto computatae ; deinde in assumpta aequa·
+tione loco abscissae variabilis x et ordinatae etiam
+variabilis y scribantur abscissae et ordinatae. per
+puncta data determinatae, et tot inde obtinebun-
+tur aequationes quot sunt puncta data per quae
+curva transire debet, atque ex illis aequationibus,
+generalis aequationis assumptae co‘efficientes de-
+terminabuntur. Hujus methodi exemplum sit
+solutio Lemmatis V. Lib.
+III. Principiorum, quod lta
+propositum est: invenire cur-
+vam generis parabolici quae
+per data quotcumque puncta
+transibit3 cujus Lemmatis so-
+lutionem dedit ibidem New-
+tonus, sed sine demonstra-
+tione quae tamen ex ejusdem
+auctoris differentiali methodo
+collegi potest.
+
+76. 1. Sunto puncta illa
+A, B, C, D, E, F, &c. et ab
+iisdem ad rectam quamvis
+positione datam H N demit-
+tantur perpendicula quotcum-
+que AH, Bl, CK‚DL,
+E Μ, F N, &c.; positisque
+abscissa variabili H S = x,
+et ordinata R S = y, assu-
+matur generalis ad parabolam
+Α Β D E F zrquatio y
+
+A 4 B x -1- C x ²
+
+-Ι- Dx³÷Ex4÷, δια, sintque A, B, C,
+D, F, ἃς. cum suis signisindeterminatae. Di-
+entur AH= a, B1=f, CK=g,DL
+=h, ME=--k, et H1=1‚ HK=m,
+H L = n, H ΜΞ t, διο. Ponantur 10· y
+aetx=o; 20·y=f‚ et x=l; 30· y=g
+etx=n13 40· γΞΙι, etx=·;n 50· y=—
+k, et x = t atque ita deinceps; et loco y et x
+seorsim substituantur hi valores in aequatione
+
+generali assumota, quae in has mutabitur:
+011.a= Α
+f= A÷B 1-4-01241) l ³÷E14÷‚&c.
+g— -· A÷ B m-}-C m²—†-D m³÷E πιθα-Ρ, διε.
+ΙιΞ A÷Bn †Cn² lgn3-1-En44, &c.
+--ΙεεΑ-ὶ-Βι-ι-(ἳι2 Dt³÷Et⁴÷‚&c.
+Subducantur aequationes inferiores ex supe·
+rioribus, nimirum secunda ex prima. tertia ex
+
+PHILOSOPHIAE NATURALIS
+
+[MoT. Conpon.
+
+secunda, et ita deinceps. Differentia primae
+ac secundae ordinatae per primum interval-
+
+lum H Ι divisa dicatur b, id est, b- - {Cf-f}
+
+sccundae ac tertiae differentia per secundum
+intervallum I K divisa dicatur 2 b, id est,
+
+ 
+
+ 
+
+ 
+
+2 b = 1215, et ita de caeteriS. Prodibunt ae-
+quati0nes sequentes.
+111. b= a s f=--13—‹:1-D 12-13312
+2 b = {rs-gl: -B-c 1-c m -D 12-
+D l m-D m 2—E1³-E 1² m—-Elm2—-E m³
+3 b= ffi=—B—Cm—Cn— D m²
+
+-Dmn-Dn2-Em2-Em2n-E m n ²—E n 3
+
+4b=¹¹÷k=-B-c11-ct-
+
+Βῐι2-Βηι-Ϊῦ-ῑ-2Ξ-Ειι3-Ε n 2 t—E n t2—E t 3.
+
+ 
+
+Simili modo capiantur adhuc aequationum
+istarum differentiae, et dividantur per intervallum
+
+ 
+
+inter duas ordinatas interceptum H K, 1 L,
+K M, et diflerentiae sic divisae dicantur c, 2 c,
+3 c, ut hic factum videtur.
+
+1v.c=b“²¹’
+m
+
+4- Elui-f· Em2.
+20=²Mb=c÷nl÷nm÷nn÷
+
+ΕΙ2-Ι-Ε1ω-Ι-Εῐῐι2-1-Ε1ῐι-ι-Εῐηῐι-Ι-Εη2.
+5Mb=C÷Dm÷Dn÷Dt÷
+Em2-1-'Emn-1-En2-fl—Emt-l- Ent-f-Eta’
+
+Harum aequationum differentiae per intervalla
+trium ordinatarum H L, 1 M, divisae dicaam-‚r
+d, 2 d, et erunt aequationes.
+
+=o÷D1÷Dm÷Ei2
+
+ 
+
+ 
+
+3c=
+
+ 
+

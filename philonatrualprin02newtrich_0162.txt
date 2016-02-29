@@ -1,0 +1,86 @@
+150 PHILOSOPHIAE NATURALIS [Moneonpon.
+
+Corol. 5. (m) Et universaliter, quantitas materiae pendulae est ut pondus
+et quadratum temporis directe, et longitudo penduli inverse.
+
+Corol. 6. Sed et m medio non resistente quantitas materiae pendulae est
+ut pondus comparativum et quadratum temporis directe et longitudo pen-
+duli inverse. Nam pondus comparativum est vis motrix corporis in me-
+dio quovis gravi, (¹¹) ut supra explicui3 ideoque idem praestat in tali medio
+non resistente atque pondus absolutum in vacuo.
+
+Corol. 7. (⁰) Et hinc liquet ratio tum comparandi corpora inter se,
+quoad quantitatem materiae in singulis 3 tum comparandi pondera ejusdem
+corporis in diversis lociS, (P) ad cognoscendam variationem gravitatis. V
+Factis autem experImentis quam accuratissimis inveni semper quantita-
+
+tem materiae in corporibus singulis eorum ponderi proportionalem esse.
+
+PROPOSITIO XXV. THEOREMA XX.
+
+Corpora funependula quibus, in medio quovis, resistitur in ratione momento-
+rum temporis, et corpora funependula quae in ejusdem gravitatis specfficae
+medio non resistente moventur, oscillationes in cycloide eodem tempore
+peragunt, et arcuum partes proportionales simul describunt.
+
+Sit A B cycloidis arcus, quem corpus D tempore quovis in medio non
+resistente oscillando describit. Bisecetur idem in C, ita ut C fit infimum
+
+ejus punctum 3 et erit vis acceleratrix qua corpus urgetur in loco quovis
+
+in pendulo A directe et ejus longitudo inverse ad tate et elegantia exponit in Monumentis Acad.
+pondus et quadratum temporis penduli C directe Reg. Scient. an. 1755.
+
+et ejus longitudinem inverse. Q. e. d. univer· 179. Quia numeri oscillationum oequalibus
+
+‘salicem
+
+Unde si et tempora et quantitates materiae
+
+eadem sunt, pondera sunt ut longitudines pen-
+dulorum directe.
+
+(m) ⁴* Et universaliter. Vide notam superi0-
+rem.
+
+Χὲἓ) ⁸ Ut supra explicui, in Cor. 6. et 8. Prop.
+
+(⁰) ³* Ee hinc liquet ratio, &c. Nam ex datis
+pendulorum longitudinibus, oscillationum tem-
+poribus, et ponderibus corporum, datur ratio
+quantitatum materiae in illis corporibus (per
+Cor. V.); et contra.
+
+(Ρ) * Ad cognoscendam variationem gravitatis.
+Ubi enim ejusdem penduli oscillationes tardiores
+sunt, gravitatis actio, coeteris paribus, minor est,
+cum in eodem pendulo pondera sint reciproce ut
+quadrata temporum (per Cor. 5.). Sed de his
+plura ad Prop. XX. Lib. ΙΙΙ. dicentur. Quanta
+autem in illis experimentis adhibenda sit diligen-
+tia, claris. D. de Mairan eii qua solet perspicui-
+
+temporibus a diversis pendulis absolvendarum
+sunt reciproce ut tempora quibus singulae oscil-
+lationes fiunt (473. Lib. L), numeri oscillatio-
+num aequalibus temporibus peractarum erunt
+(per Cor. 5. Prop. hujus) in composita ratione
+ex ratione subduplicata directa ponderum et
+subduplicatis rationibus inversis massarum et
+longitudinum pendulorum3 sive, quoniam pon-
+dus est ut factum ex massa in vim gravitatis ac-
+celeratricem‚ erunt praedicti oscillationum numeri
+in ratione subduplicata directa virium gravitatis
+acceleratricum et ratione subduplicatzi longitu-
+dinum pendulorum inversi& ac proinde pendu· ⁶
+lorum inaequalium, sed eadem vi gravitatis agi-
+tatorum, numeri oscillationum eodem tempore
+absolvendarum sunt in reciproca subduplicata
+ratione longitudinum pendulorum, et numeri
+oscillationum in duobus pendulis aequalibus
+erunt in subduplicatii ratione virium gravitatis.
+Haec est regula quam ad comparandas corporum
+
+gravitates tradit J oh. Berno'ulli in Actis Erudit.
+Lips. an. 1713.
+

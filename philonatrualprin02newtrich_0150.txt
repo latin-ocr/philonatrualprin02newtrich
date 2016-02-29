@@ -1,0 +1,146 @@
+PHILOSOPHIAE NATURALIS [1v18T.00m=01³.
+
+138
+
+PROPOSITIO XXII. THEOREMA XVII.
+
+Sit fluidi cujusdam densitas compressioni proportionalis, et partes ejus a
+gravitate quadratis distantiarum suarum a centro reciproce proportionali
+deorsum trahantur.- dico (⁰) quod, si distantiae sumantur in progressione
+musicd, densitates fluidi ,in liis distantiis erunt in progressione geome-
+
+tried.
+
+Designet S centrum, et S A, S Β, S C, S D, S E distantias in prou
+gressione geometrica. Erigantur perpendicula A H, B Ι, C Κ, &c.
+
+M=D: PetvicissimB—2M:D=M:
+
+(⁰)* Quod, .ςὶ distantia: sumantur in progres-
+P, sunt vero duo termini inter A et D, unde
+
+sione musica, aut, quod idem est, si tales su-
+
+mantur distantiae ut earum reciprocae sint in
+progressione arithmetica.
+
+'¹‘ Scilicet tres quantitates dicuntur esse in
+continua¹ proportione musica sive harmonica, si
+prima sit ad tertiam ut differentia primae et se-
+eundae ad differendam secundae et tertiae. Et
+si sit series plurium quantitatum talium ut ter-
+minus quivis sit ad subsequentem, ut differentia
+prioris a termino intermedio, ad differentiam
+hujus intermedii a posteriore termino, ea series
+dicitur progressio musica.
+
+Corol. 1. In progressione musicc‘i factum
+duorum priorum terminorum est ad factum duo-
+rum quorumvis immediate sibi succedenti um ut
+differentia inter duos primos terminos ad d fferen-
+tiam inter hos ultimos. Nam sunto termini pro·
+gressionis musicae A, B, C, D, E, F, &c. et
+
+differentiae inter singulos Μ, Ν, P, Q, R, &c.
+erit per definitionem hujus progressionis
+
+A: C=M:N
+B·D=N:P
+C: E= :Q
+
+D: F- — Q: R, unde ex eom-
+positione rationum patet quod est
+A><B2E><F=MtR.
+
+Corol. 2. Differentia inter duos primos ter-
+minos est ad differentiam inter duos quosvis alios,
+ut secundus terminus, toties mulctatus differ-eutici
+sua a primo quot sunt termini inter primum et
+ultimum, ad eum ultimum.
+
+Nam (iisdem litteris adhibitis quae in supe-
+riore Corollario) cum ex natura progr. sit A: C
+=M= N, sitque A= B—M; est B-M
+ι C = M : N, ergo in hoc casu, differentia M
+inter duos primos terminos A et B est ad dif-
+ferentiam N inter B et C ut secundus terminus
+B semel mulctatus differentia sua a primo, cum
+sit unicus terminus inter primum A et ultimum
+C, ad eum ultimum C.
+
+Csim ergo sit B- M: C= Μ· N, vicissim
+B —M M= C. N, et dividendo B—2M.
+M=c-N2 N; cumquesitc--N=B,
+est B-2M2 M=B· N, sed, per defin.
+progress. est Β· Ν = D: P ergo B -- 2 Μ·
+
+rursus in hoc casu constat Corollarii veritas.
+
+Item cum sit B-2 M: D= M: Petvi-
+cissim B — 2 M ς M = D : P, erit dividendo
+B—5M:M=D—P: P, cumque sit D
+-P=c erit B-sM: M= C:Pcs1m-
+que per defin. progr. sit C : P = E : Q erit
+B—-3 M: ΜΞ Ε t Qetvicissim B—SM:
+Ε = M : Q. sunt vero inter A et E tres ter-
+mini: cumque eadem recurrat semper demon-
+stratio si numerus terminorum progressionis
+inter primum et ultimum sit n 3 si secundus ter-
+minus dicatur B, differentia a primo M, ultimus
+terminus sit F, differentia a praecedente R erit,
+M: R=B—- nM: F. Q.e.d.
+
+Corol. 5. In progressione musicc‘i secundus
+terminus toties mulctatus suci differenti& a primo Ι
+quot sunt termini inter eum et ultimum est ad
+ultimum ut factum duorum primorum termino-
+rum progressionis αα factum duorum postremo-
+rum.
+
+Liquet utique ex collatione duorum praeceden-
+tium Corollariorum; unde est semper, B —-
+
+nM: F=A><B2E>< F.
+
+Theor. I. Quilibet terminus progressionis
+musica est aequalisfacto duorum primorum ter-
+minorum diviso per secundum terminum toties
+mulctatum differentid suli a primo quot sunt ter·-
+mini a primo ad eum ultimum terminum.
+
+A><B
+B
+
+sed A= B — M ergo secundus ter-
+
+g} 3. Pro reliquis terminis habetur
+semper per Corol. 5. Β - n M : F,= A Χ
+Β : E >< F divisis ergo consequentibus per F,
+eritB-nM21=A>< B: E unde estE
+A >< Β
+Β - n M
+terminorum inter A et F hic exprimit numerum
+terminorum a primo ad Ε hoc ultimo annume-
+
+rato unde patet Theor. veritas.
+Theor. ΙΙ. Termini omnes progressionis mu·
+
+PrImus terminus est , secundus termi-
+
+A><B
+A
+
+minus est
+
+ 
+
+nus
+
+ 
+
+ 
+
+sed cum n designaret numerum
+
+ 
+

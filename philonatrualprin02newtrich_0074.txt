@@ -1,0 +1,189 @@
+62
+
+8
+ἕῳ. Tempus autem reperi-
+h ῖ
+
+———————
+
+tur per aequationem d t =
+
+b ὺθ-ἰῖ b. Centro D, radio D A = b, descri-
+batur circuli quadrans A N E, velocitas c, sub
+initio ascensus exponatur per datam tangentem
+A P, velocitas residua v, pe: tangentis illius par-
+tem A M, et d v per M m, jungantur D P,
+
+ 
+
+Mm
+
+ 
+
+D M, D m, circulo⁸ occurrentes in Τ, N, n, et
+ex puncto M, demissum sit ad D n perpendicu-
+lum M R, triangula similia D N n, D M R..
+dant DMzDNvel DA=MR:Nn, et
+triangula similia m R M, M A D, dant D M ι
+D A = M rn : M R, ideoque (ex aequo) D M2
+:D A2=Mm: Nn, hoc est, b b÷vvz
+
+bb=dvan=Vbbdv e><yN—n
+bb
+
+bb÷vv3undefit
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Ponatur t = ο, et fiet A M =
+
+A Ρ, et A N= A Τ, ide6que ρεῖχῢῒΤ.
+
+‘³ ξξΝ = g’ffl'bb:
+
+ 
+
+Quare erit t =
+
+2ge).
+
+ 
+
+PHILOSOPHIAE NATURALIS
+
+; et hinc habebitur d t = —
+
+[Mo'r. Conpon.
+
+scriptum est = t, velocitas corporis
+in loco P = v, vis centripeta ibi.
+dem = g, densitas medii in eodem
+loco = k, resistentia r = k v ¹¹, dis-
+tantia C P == Χ, et data C a vel C A
+= b, erit (22) pro corporis ascensu,
+gdx÷kvndx=-vdv, etpro,
+descensugdx— kv¹²dx=—vdv,
+quarum aequationum alterutram resol-
+vere satis est, cum altera in alteram
+abeat, mutato signo 4- vel — quanti-
+tati k praefixo. Quia vero corpore
+ascendente est a P = s = Χ - b, et
+proinde ds = d x; at eodem descen-
+dente A P=s=b—x,etideods
+= — d x, erit pro corporis ascensu
+
+(15) d t = {j = d—vz et pro descen· a
+d Χ
+
+su d t = — Τ. His positis bre-
+
+A Α
+
+ 
+
+ὌὟῬ
+
+viter exponimus praecipuos casus in
+quibus superiorum aequationum varia-
+biles separari et aequationes proinde per
+curvarum quadraturas construi pos-
+sunt.
+
+1 10. siin aequatione generali g d x ὲ k v ¹¹ d x
+— v d v, quae est pro ascensu et descensu si-
+
+mul. Sit g quantita} gonstanS, et densitas k, ut
+
+distantiae dignitas Χ ²
+l
+
+C
+
+reciproce, hoc est, k =
+
+, variabiles separari possunt. Nam aequa-
+
+ 
+
+‚1- n
+
+a Χ ²
+. . . v ¹¹ d x
+tio generalis *in hanc mutab1tur g d Χ ss n
+⁶ a x
+
+— v d v. Ponatur v ² = Χ z, ideoque v ¹¹ =
+
+xdz4zdx
+In 2 , ,etaequa·>
+
+2⁷²7 dx —xdz—zdx
+
+a 2 ’
+
+ 
+
+Ξ
+2
+
+ 
+
+tio evadet g d xj·-
+
+ 
+
+Und& ΕΥΠῙὶῑῙΥᾲ-Χ-,τς 7—...3-q-z—-s— ἑῇ. In
+x 2ag-1-az-lz
+
+qua variabiles sunt separatae.
+
+111. Si densitas k constans fuerit, vis centri.
+peta g ut distantia x a centro et resistentia ut
+velocitas, variabiles separari possunt. Nam si
+ponatur g = a x, k'constans et n = 1, aequatio
+generalisfiet axdxst- kvdx=—-vdv,in
+
+‚ qua neglectis co‘efficientibus datis a et k, termini
+
+PROBLEMA.
+
+Definire motum corporis in linea recta A C, vi
+qualibet centripeta ad punctum C tendente
+sollicitati in medio cujus resistentia est ut den-
+sitas medii et dignitas quaevis velocitatis cor-
+poris conjunctim.
+
+109. Corpus eloco dato A vel a, data cum
+velocitate projectum ascendat per spatium a P
+vel descendat per spatium A P, dicanturque
+velocitas projectionis in a vel A = c, spatium
+descriptum a P vel A P = s, tempus quo de-
+
+omnes sunt homogenei seu ejusdem dimensionis.
+Ponatur itaque v = z x, et proinde d v = z d x
+-f-xdz, etaequatioevadetaxdzsskzxdx
+...— 22 x d x ...- z x 2 d z, et terminis omnibus
+
+per x divisis, iisque ordinatis invenitur di} = .-
+
+ψ-ῑΙ--ἔ-ξ-ΖΡ-Ξ-Ξ, quae aequatio,cbncessa hyperbolae
+
+a
+
+vel‘circuli quadratura semper construi potest.
+11⁶2. Si, caeteris paribus, medii resistentia sit
+
+ut quadratum velocitatis, id est, n = 2, et den-
+
+sitas medii k visque centripeta g sint ut functiones
+
+quaelibet distantiae x, variabiles m superioribus
+

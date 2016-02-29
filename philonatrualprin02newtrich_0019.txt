@@ -1,0 +1,145 @@
+Lmen SECUND.]
+
+ter perpendiculares A L et D O, D Ο et G R,
+διε. tot quot sunt divisionum puncta, et in sin-
+gulis punctis erigantur perpendiculares iis mediis
+proportionalibus ordine sumptis aequales; De-
+nique curva tangat tam perpendiculares datas
+A L, D O, G R quam hasce medias, dico eam
+curvam ‘esse logarithmicam.
+
+Facile enim liquet ex natura progressionum,
+quod cum sitAL: D0=DO: GR,&c.
+et totidem mediae proportionales assumantur in-
+ter A L et D O, quot assumuntur inter D O et
+G R, sicque deinceps, formari progressionem con-
+tinuam constantem ex omnibus illis perpendicu-
+laribus tarn datis quam inventis, ide& quamlibet
+ex illis, ut A L, esse ad sibi proximam B M, ut
+alia quaevis D O, est ad proximam P E, unde
+dividendo, est A L ad suam differentiam a pro-
+xima, ut est etiam D O ad suam differentiam a
+proxima, ideoque perpendicularium proximarum
+differentiae erunt ubique eis perpendicularibus
+proportionales3 Evanescentibus ergo punctorum
+in axe sumptorum intervallis, et perpendiculari-
+bus ad vicinas aequali ubique celeritate latis et
+aequali tempusculo (ob aequalitatem intervallo-
+rum), velocitates quibus crescunt vel decrescunt
+perpendiculares erunt iis ipsis perpendicularibus
+proportionales; Ergo (ex definitione logarithmi-
+cae) ea curva quae tanget eas perpendiculares erit
+logaritiunica. ’
+
+54. Theor. II. Abscissae axis logarithmicae,
+sunt logarithmi ordinatarum in earum extremo
+insistentium. F erantur hinc inde ab origine axis
+partes aequales quamminimae, in extremo singu-
+larum erigantur ordinatae, illae omnes ordinatae
+constituent progressionem geometricam inter cu-
+jus terminos occurrit unitas, earum ver& abscissae
+erunt in progressione arithmetica propter partium
+in axe sumpturum aequalitatem, et abscissa quae
+unitati respondet est O; J am autem cum termini
+progressionis arithmeticae inter quos est Ο ita ap-
+tantur terminis progressionis geometricae ut O
+respondeat unitati et reliqui termini sibi respon-
+deant, tum termini progressionis arithmeticae
+sunt logarithmi terminorum correspondentium
+progressionis geometricae3 Ergo abscissae loga-
+rithmicae, sunt logarithmi ordinatarum correspon-
+dentium.
+
+Corol. 1. Portio axis quae intercipitur inter
+duas ordinatas est logaritlzmus rationis quoe in-
+tercedit inter illas ordinatas. Quotiens enim
+duarum quantitatum exprimit rationem quae in-
+ter illas intercedit, et differentia logarithmorum
+earum quantitatum, est logarithmus quotientis
+earum, sed abscissae sunt logarithmi ordinatarum,
+et portio axis quae intercipitur inter duas ordina-
+tas est differentia abscissarum sive logarithmorum
+ad eas ordinatas pertinentium, ergo illa portio
+
+est logarithmus quantitatis quae exprimit ratio- ’
+
+nem quae inter ordinatas intercedit.
+Corol. 2. Si dentur duarum aut pluvium
+
+PRINCIPIA MATHEMATICA. 7
+
+rithmz aequzzles, logaritlzmica aliqua pet· earum
+pmiendicularium extremitates traneibit.
+
+In recta Ο Α N (vid. fig. prim. pag. succed. )
+sumatur punctum A in quod erigatur perpendi-
+cularis A B unitati aequalis, sitque A M loga·-
+rithmus quantitatis cui aequalis est perpendicu-
+laris M P, sit A a differentia progressionis arith-
+meticae ex qua desumuntur logarithmi‚ quae ideo
+accurate continebitur in intervallo A M toties
+quot sunt termini in progressione geometrica ex
+qua desumuntur quantitates quarum habentur lo-
+garithmi‚ quaerantur tot mediae proportionales
+inter A B et M P quot sunt divisionum puncta
+inter A et M, et in illa puncta erigantur per-
+pendiculares illis mediis proportionalibus ordine
+aequales, fiet progressio geometrica, quae est ipsa.
+progressio quantitatum quarum abscissae lineae
+O A N quantitate A a successive auctae sunt
+logarithmi, siquidem in utraque progressione oc-
+currunt termini A B et M P eodem intervallo
+in utraque dissiti, sed si in punctis aequidistan-
+tibus lineae cujusvis erigantur perpendiculares in
+progressione geometrica, logarithmica aliqua ea-
+rum vertices tanget (Cor. Theor. 1.) Ergo si
+dentur numeri cum suis logarithmis concipi sem-
+per poterit logarithmica cujus abscissae sint illi
+logaritbmi et cujus ordinatae sint quantitates qui-
+bus respondent.
+
+35. leeor. III. Axis lagarz'tIzmz'cae est ejas·
+asymptotus ad quam ab unci parte accedit propius
+aaut quavis quantitate numquam tamen eam at-
+tingit, et a quei ab alterii parte longius recedit da-
+td quavis quantitate.
+
+Sint duae ordinatae A B, M P quarum una
+sit alterius dupla vel plusquam dupla, feratur por-
+tio ax-is A M hinc inde secundum axem sine fine,
+ordinatae in ea puncta erecta crescent ab una parte,
+et ab altera decrescent in ratione dupla vel plus-
+quam dupla (per Cor. Theor. Ι.) sed ex principiis
+Archimedeis quantitas crescens in progressione
+dupla vel plusquam dupla omnem quantitatem da-
+tam tandem excedet, et ex principiis Euclideis
+quantitas quaevis decrescens in ratione dupla vel
+plusquam dupla minor fit quavis quantitate data 3
+Ergo logarithmica longius ab axe recedit, aut
+propius ad eum accedit quanvis quantitate data,
+
+‘numquam tamen eum attinget, attingat enim
+
+eum si fieri potest in quodam puncto X, ferendo
+distantiam A M secundum axem, fiet tandem ut
+cadat proxime citra X, puta in Y, tum proxime
+ultra, utin Z; in puncto Y nondum attinget
+axem ex Hypothesi, et aliquo intervallo Y V ab
+eo distabit, sed quia Y Z = A M debebit esse
+A B t M P = Y V ad ordinatem in Z, quae
+ide& dabitur, ac per consequens logaritlimica
+
+nondum attinget alxem in Z, nedum eum attige-
+rit in X, Q. e. .
+
+56. Theor. IV. Subcangens logaritkmica· est
+constans. Capiantur enim ubivis in axe parti-
+culae aequales quamminimae M m, N n, erectis-
+
+quantitatum dogm-immi, et a puncto dato rectae que ordinatis M P, m p, et N Q, n q, per puncta
+alicujus sumantur longitudines eis logaritkmis P et Q concipiantur tangentes P T, Q t axi oc-
+aequales, etin earum extremo erigantur perpen- currentes in T, t; ducantur ctiam rcctae P r,
+diculames quantitatibus quarum sumuntur loga· Q S, ordinatis m p, n q perpendiculares. Evan-
+
+A4
+

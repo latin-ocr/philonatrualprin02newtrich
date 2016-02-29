@@ -1,0 +1,58 @@
+Lmnn SEctmnfl PRINCIPIA MATHEMATICA 45
+
+ut indeterminatas et instabiles5 et quasi motu fluxuve perpetuo crescentes
+vel decrescenteS‚ hic considero 3 et earum incrementa vel decrementa mo-
+mentanea sub nomine momentorum intelligo: ita ut incrementa pro mo-
+mentis addititiis seu affirmativis, ac decrementa pro subductitiis seu nega-
+tivis habeantur. Cave tamen intellexeris particulas finitas. Particulae·
+finitae non sunt momenta, sed quantitates ipsae ex momentis genitae. In-
+telligenda sunt principia jamjam nascentia finitarum magnitudinum.
+Neque enim spectatur in hoc Lemmate magnitudo momentorum: sed
+prima nascentium proportio. Eodem recidit si loco momentorum usur-
+pentur vel velocitates incrementorum ac decrementorum (quas etiam mo-
+tus, mutationes et fluxiones quantitatum nominare licet) vel finitae quaevis
+quantitates velocitatibus hisce proportionales, (f) Lateris autem cu-
+jusque generantis coe'fficiens est quantitaS, quae oritur applicando genitam
+ad hoc latus,
+
+Igitur sensus (g) Lemmatis est, ut, si quantitatum quarumcunque per-
+petuo motu crescentium vel decrescentium A, B, C, &o momenta, vel
+his proportionales mutationum velocitatesv dicantur a, b, c, &a momentum
+vel mutatio geniti rectanguli A B fuerit a B ÷²b A, et geniti contenti
+A B C momentum fuerit a B C -Ι- b A C -1— c A B: et genitarum dig-
+nitatum ΑΞ, Αό, Aust, A ἓ, Α ἑ, Α {zi-1, A-2, et A - ἐ mo-
+
+menta2aA,3aA²‚4aA³,{aA-{‘‚{aA{,-13aA-3‘‚
+
+,ι
+
+ 
+
+ἕαΑ- 3, —aA “2, —2aA—5, et —- ὲ aA -ξ respective. Et ge-
+neraliter, ut dignitatis cujuscunque A ῖῗῖ momentum fuerit -Ξ a A 11ng
+
+Item ut genitae A 2 B momentum fuerit 2 a A B -ι- b A 2 3 etngenitae A ³
+
+B⁴C2momentum 3aA2B⁴C2 -Ι- 4bA³B⁵C2÷2eA⁵B4C3
+
+etgenitaeffi siveA³ B-2momentum3aA2B-2--2b Α3 Β“3;
+
+et sic in caeteriS. Demonstratur vero Lemma in hunc modum.
+CaS. 1. Rectangulum quodvis motu perpetuo auctum A B, ubi de la-
+
+(f) Lateris autem. Sic lateris x, in quanti- &c. quibus variabiles quantitates consuevimus
+tate genita x n y m positi, cogfficiens est x ¹¹ y ¹¹¹ significare, et loco a, b, c, ἃς. scribamus d x,
+x ’ d y, d z, &c. sensus Lemmatis est momentum
+
+seu x n - 1 y m, seu fluxionem rectanguli x y, esse y d x -1- x d y,
+
+fluxionem solidi x y z, esse y z d x -Ι- x z d y
+Α (⁸) *cSensus Lemmatis est, ut, si quamitagttm *l* x yid Ζ) ‘²¹⁵ genitarum quantitatum x ², x ³2
+‚ B , momenta dicantur a, b, c, ita ut um
+A fit'A 4 a, B evadat B ÷b,.C evadato -Ι-ο, x 4’ x ³ &a-{omenw‘ esse 2 ¹ d x’ 3 ΚΖ d ¹⁹
+&c.‚' 'momentum vel mutatio geniti rectanguli 4 x 3 (1 x, ἦ x ² d x, &c. respective; et genitae
+A B, erit a B -ξ- b A, &c. vel si loco litterarum x ¹¹ y ¹¹¹, momentum esse, n y ¹¹¹ x ¹¹ -·· ¹ d x a}-
+A, B, C, διε. utamur litteris minusculis x, y, z, m x ¹² y ¹¹¹ - ¹ d y, &c.
+
+ 
+

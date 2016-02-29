@@ -1,0 +1,65 @@
+ἶ “ bus describit arcus illos P Q, P R3 quare de-
+
+ 
+
+Lissmt SECUND.] PRINCIPIA MATHEMATICA. 113
+
+PROPOSITIO XV. Τ HEOREMA XII.
+
+Si medii densitas in locis singulis sit reciproce* ut distantia locorum a centro
+immobili, sitque vis centripeta in duplicata ratione densitatis ; dico quod
+corpus gyrari potest in spirali, qaae radios omnes a centro illo ductos in-
+tersecat in angulo dato.
+
+Ponantur quae in superiore Lemmate, et producatur S Q ad V, ut sit
+S V aequalis S P. Tempore quoviS, in medio resistente, describat corpus
+arcum quam minimum PQ,
+et tempore duplo arcum
+quam minimum P R: et
+decrementa horum arcuum
+ex resistentia oriunda, sive
+defectus abarcubus, qui in
+medio non resistente iis· ⁶ ’
+dem temporibus describe· ,
+rentur, (¹³) erunt ad invi-
+cem ut quadrata tempo-¹
+rum in quibus generantur τ
+Est itaque decrementum
+arcus P Q pars quarta decrementi arcus P R. (⁶) Unde etiam, si areae
+P S Q aequalis capiatur area Q S r, erit decrementum arcus P Q aequale
+
+ 
+
+(Β) *⁴ Emmt ad invicem. Cum enim resisten- seu 2 Q q = R v -- r v = R r, et ide& Q q
+tia per arcum P R considerari possit tanquam = ᾗ R r. Itaque eodem tempore quo resisten-
+vis retardatrix (4), decrementa arcuum minimo- tia generat decrementum Q q, seu ἑ R r, vis
+rum P Q, P R ex resistentia oriunda sunt ut
+spatia· quae urgente vi acceleratrice resistentiae P S
+aequali corpus describere( iisdem temporibus qui-
+
+crementa illa sunt ut quadrata temporum quibus
+generantur (per Lem. X. Lib. L).
+
+(ο) ¹* Unde? etiam si areae. Corpus ea veloci-
+tate quam habet in loco P, temporibus aequalibus
+describat arcus quam minimos P q, q v, in medio
+non resistente, et arcus P Q, Q R in medio re-
+sistente, et erit (ex dem.) 4 Q q = R v, sunt
+autem areae P S q et q S v aequales (per Prop.
+1. Lib. 1.) ide6que ob areas P S Q, et Q S r,
+etiam aequales (per Hyp.) erit P S q - P S Q
+seu area Q S q aequalis q S v —- Q S r, seu
+r S v - Q S q, et hinc area r S v aequalis est
+2 Q S q; sed demissis ex centro S ad tangentes centripeta qua corpus a tangente P T (vid. fig.
+Q T et r t per puncta Qet r ductas perpendicu- text.) ad punctum Q arcus P Q retrahitur, ge-
+lis S T et st, area evanescens Q S q est ἦ S T nerat decrementum T Q, et ide& vis resistentiae
+>< Q q, et area r S v, est ἑ S t Χ r v. Quare est ad vim centripetam ut ξς R r ad T Q, (per
+S T χ Q q aequatur ἦ- S t >< r v, et co'duntibus Cor. 4. Lem. X.) atque haec omnia generaliter
+punctis P et v, fit S t = S T atque ade& Q q obtinent, quaecumque fuerit tum curva P Q R,
+j: -ξς r v, et 2 Q q = r v. cum igitur supra cujus proprietates nondum adhibuimus, tum vis
+invenerimus 4 Q q = R v, erit 4 Q q - 2 Ω q, cenuipeta, tum resistentia, tum velocitas corporis.
+
+Vox.. 1 Ι. Η
+
+ 
+

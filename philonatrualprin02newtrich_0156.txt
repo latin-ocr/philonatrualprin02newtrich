@@ -1,0 +1,55 @@
+144 PHILOSOPHIAE NATURALIS [MoT.C0R1›on.
+
+PROPOSITIO XXIII. THEOREMA XVIII.
+
+Sifluidi ea‘ particulis se mutuo fugientibus compositi densitas sit ut compres-
+sio, vires centrifagae particularum sunt reciproce proportionales distantiis
+centrornm suorum. Et vice versa, particulae viribus quae sunt reciproce
+proportionales distantiis centrorum suorum se mutuo fug aientes componunt
+
+fluidum elasticum, cujus densitas est compressioni proportionalis.
+
+Includi intelligatur fluidum in spatio cubico A C E, dein compressione α
+
+redigi in spatium cubicum minus a c e3 et particularum, similem situm
+inter se in utroque spatio obtinentium, (b) distantiae erunt ut cuborum la-
+tera A B, a b3 (⁰) et mediorum densitates reciproce ut spatia continentia
+A Β cub. et a b cub. In cubi majoris latere plano A B C D capiatur
+quadratum D P aequale la-
+teri plano cubi minoris d b3
+et ex hypothesi, pressio, qua
+quadratum D P urget fluidum
+
+. Ε
+
+inclusum, erit ad pressionem,
+qua illud quadratum d b ur-
+
+get fluidum inclusum, ut me-
+
+ 
+
+dii densitates ad invicem, hoc
+est, ut a b cub. ad A Β cub.
+Sed pressio, qua quadratum D Β urget fluidum inclusum, est ad pressio-
+nem, qua quadratum D P urget idem ⁴fluidum, ut quadratum D B ad qua-
+dratum D P, hoc est, ut A B quad. ad a b quad. Ergo, ex nequo, pres-
+sio qua quadratum D Β urget fluidum, est ad pressionem qua quadratum
+d b urget fluidum, ut a b ad A Β. Planis F G H, f g h, per media cu-
+borum ductiS, distinguatur fluidum in duas parteS, (d) et hae se mutuo pre-
+ment iisdem viribus, quibus premuntur a planis A C, a c, hoc est, in pro-
+portione a b ad A B: ideoque vlres centrifugae, quibus hae pressiones
+sustinentur, sunt in eadem ratione. Ob eundem particularum numerum
+similemque situm in utroque cubo, vires quas particulae omnes secundum
+vplana F G H, fg h exercent in omnes, sunt ut vires quas singulae exer-
+
+(b) ¹* Distantiae erunt ut cuborum latera A B, διο. Pressiones enim in unoquoque spatio sunt
+α b, per Lemma V. Lib. 1. ubique aequales; nam cum fluidum uniforme
+
+(c >ff Et mediorum densitates ut 81 c ob datam supponatur, si pressio minor esset in uno loco
+in utroque spatio flffidi massam (2 Lib Ι ) quam in alio, statim cederet fluidum magis pres·
+
+sum, atque ita pressio ad aequalitatem restituere- ,
+
+(⁴¹) ὓ Et kae se ntutuo prement iisdem viribus, tur, ut in Casu 6. Prop. XIX.
+

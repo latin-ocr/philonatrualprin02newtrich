@@ -1,0 +1,100 @@
+292 PHILOSOPHIAE NATURALIS [Mor. Gomon.
+
+Corol. 2. Unde cum altitudo illa A sit ut fluidi vis elastica directe et
+densitas ejusdem inverse 3 (¹³) velocitas pulsuum erit in ratione composita
+ex subduplicata ratione densitatis inverse et subduplicata ratione vis elas-
+ticae directe.
+
+PROPOSITIO L. PROBLEMA XII.
+
+Invenire pulsuum distantias·
+
+CorporiS, cujus tremore pulsus excitantur, inveniatur numerus vibra-
+
+tionum dato tempore. Per numerum illum dividatur spatium quod pul-
+
+sus eodem tempore percurrere possit, et pars inventa (⁰) erit pulsus unius
+latitudo. Q. e. i.
+
+scholium.
+
+Spectant Propositiones novissimae ad motum lucis et sonorum. (P) Lux
+euim cum'propagetur secundum lineas rectaS, in actione sola (per Prop.
+
+circumferentiam. Quare cum velocitates unifor-
+mes sint ut spatia eodem tempore descripta,
+pulsus vero propria velocitate aequabili periphe-
+
+quas corpus sonorum eodem tempore perficit,
+dividatur, quotus erit pulsfis unius latitudo. Sed
+dato sono, numerus vibrationum quas corpus
+
+riam circuli radio A descripti tempore oscilla-
+tionis unius ex itu et reditu compositae percur-
+rat, et grave cum uniformi velocitate, quam ac-
+quirere potest cadendo per dimidiam altitudinem
+A, eodem tempore idem spatium describat; pa-
+tet velocitates illas pulsus et gravis esse aequales.
+
+(¹²) ³¹⁶ Velocitas pulsuum erit, διο. Velocitas
+pulsuum, ut pote aequalis (per Cor. 1.) veloci-
+tati quam gravia per dimidiam altitudinem A ca-
+dendo acquirunt, est in ratione subduplicata al-
+titudinis illius A (28. Lib. 1.); sed. altitudo A
+medii homogenei, cujus densitas eadem est cum
+densitate medii E G et pondus in aequilibrio
+cum ejusdem medii E G vi clastica, manente
+densitate est ut pondus seu ut vis elastica directe,
+et manente vi elastica seu pondere est ut densi-
+tas inverse, quia densitas est semper ut pondus
+directe et volumen seu altitudo A inverse3 et
+propterea conjunctis his rationibus altitudo A
+est semper in ratione composita ex ratione vis
+elasticae directe et ratione densitatis inverse.
+Quare velocitas pulsuum erit in ratione compo-
+sita ex subduplicata ratione densitatis inverse et
+subduplicata ratione vis elasticae directe.
+
+(⁰) ⁴* Eric pulsus unius latitudo. Quoniam
+pulsus omnes uniformi cum velocitate propa-
+gantur (ex dem. Prop. XLVIII. et XLIX.)
+et tot pulsus aequales producuntur iu a'e're, quot
+sunt corporis tremuli vibrationes isochronae ex
+itu et reditu compositae (per Cor. Prop. XLVII.) ;
+si spatium quod pulsus seu sonus dato tempore
+percurrere possit, per numerum vibrationum,
+
+sonorum dato tempore peragit, invenitur (per
+formulas 303, 304).; si nimirum chorda musica
+ad unisonum vel ad notam consonantiam cum
+sono dato reducatur. cum enim tonorum dif-
+ferentia a numero vibrationum quas corpus re-
+sonum dato tempore absolvit, pendeat (308 et
+512); iidem toni eodem vibrationum isochrona-
+rum numero producuntur. Notum vero est
+spatium quod sonus dato tempore describit
+518). *
+( Exempli causa, si sonus omnium acutissimus,
+quem possimus distinguere, vibrationibus inte-
+gris 6400 tempore minuti unius secundi absolu-
+tis producatur, et omnium gravissimus vibratio-
+nibus 1Ξῆ excitetur, uti D. Sauveur in Historia
+Acad. Scient. Paris. an. 1700. arbitratus est;
+divide spatium 1142. pedum Londinensium‚
+quod sonus tempore minuti unius secundi con-
+ficit, per numeros 6400. et 12} successive, et
+quoti, videlicet digiti 2, 14, et pedes 91, 36,
+erunt latitudines pulsuum, quibus soni acutissi-
+mus et- gravissimus producuntur.
+
+(⁹) ¹⁵ Lux enim etim propagetur· secundam
+lineas rectas, et interpositis corporibus opacis in-
+tercipiatur, in actione sola, seu pressione, motuve
+per medium quodlibet fluidum propagate, con-
+sistere nequit; quia pressio et motus per medium
+omne fluidum propagata divergunt a recto tra-
+mite in spatia immota et pone obstacula circum-
+quaque diffunduntur, per Prop. citatas. Cum
+igitur lumen sit corpus, ut pote motu progressi-
+vo praeditum, ab obstaculis reflexum et refractum,
+

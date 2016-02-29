@@ -1,0 +1,82 @@
+LIBER SECUND] PRINCIPIA MATHEMATICA. 195
+
+ut reflexionum correspondentium numeri et vires conjunctim. Numeri
+aute-m reflexionum sunt ad invicem ut velocitates partium corresponden-
+tium directe, et spatia inter earum reflexiones inverse. Et vires reflexio-
+num sunt ut velocitates et magnitudines et densitates partium correspon-
+dentium conjunctim3 id est, ut velocitates et diametrorum cubi et densitates
+partium. Et conjunctis his omnibus rationibUS, resistentiae partium cor-
+respondentium sunt ad invicem ut quadrata velocitatum et quadrata
+diametrorum et densitates partium conjunctim. Q. e. d.
+
+Corol. 1. Igitur si systemata illa sint fluida duo elastica ad modum
+a'eris, et partes eorum quiescant inter se: corpora autem duo similia et
+partibus fluidorum quoad magnitudinem et densitatem proportionalia, et
+inter partes illas similiter posita, secundum lineas similiter positas, ut-
+cunque projiciantur3 vires autem acceleratriceS, quibus particulae fluidorum
+se mutuo agitant, sint ut corporum projectorum diametri inverse, et qua-
+drata velocitatum directe: corpora illa temporibus proportionalibus similes
+excitabunt motus in fluidis, et spatia similia ac diametris suis (⁶) propor-
+tionalia describent.
+
+Corol. 2. Proinde in eodem fluido projectile velox resistentiam pati-
+tur, quae est in duplicata ratione velocitatis quam proxime. Nam si vires,
+quibus particulae distantes se mutuo agitant, augerentur in duplicata ra-
+
+tione velocitatis, (²¹) resistentia foret in eadem ratione duplicata accurate ;
+(e) ideoque in medio, cujus partes ab invicem diStantes sese viribus nullis
+
+agitant, resistentia est in duplicata ratione velocitatis accurate. Sunto
+igitur media tria A, Β, C ex partibus similibus et aequalibus et secundum
+
+distantias aequales regulariter dispositis constantia. Partes mediorum A
+
+et B fugiant se mutuo viribus quae sint ad invicem ut T et V, illae medii
+
+C ejusmodi viribus omnino destituantur. Et si corpora quatuor aequalia
+
+D, E, F, G in his mediis moveantur, priora duo D et E in prioribus
+
+in occursibus id est, ut velocitates et diametro-
+rum cubi et densitates partium correspondentiam·
+Et conjunctis his omnibus rationibus, &c.
+
+(⁰) ³¹⁵ Propertionalia describent. Probatur
+enim ut in dem. Prop. XXXII. Lemmate
+(189) similes similium figurarum partes tempo-
+
+dentium diametros et densitates, resistentiae sunt
+in duplicata ratione velocitatum accurate (per
+8jlssrop. XXXIII. et ejus Corol. 1.). Ergo,
+c.
+(e) ⁸ Ide6que in medio, &c. In medio cujus
+partes ab invicem distantes sese viribus quibus-
+
+ribus proportionalibus a corporibus illis semper
+describi. Unde Corollarium hoc patet (per Cor.
+1. et 2. Prop. XXXII.). -
+
+(ἆ) * Resistentiafiret in elidem ratione dupli-
+cat& accurate. Nam si idem corpus varia cum
+velocitate in uno eodemque fluido similiter pro-
+jiciatur, eaedem sunt resistentiae‚ ac si corpora
+
+⁴ duo similia et aequalia similiter projicerentur in
+
+duobus fluidis priori omnino paribus3 sed in hoc
+casu, ob aequales inter se partium correspon-
+
+cumque in ratione velocitatis duplicata crescenti..
+bus agitant, resistentia (ex modo dem.) est sem⁴
+per in eadem ratione duplicatii3 quare si vires
+illae quibus particulae sese agitant, supponantur
+quam minimae, manebit semper resistentia in
+ratione velocitatis duplicata accurate ; evanescant
+tandem illae vires, manet resistentia in ratione
+velocitatis duplicata; sed idem melius patet per
+
+secundam partem demonstrationis Propositionis
+hujus XXXIIL
+
+N2
+

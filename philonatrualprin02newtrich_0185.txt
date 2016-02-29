@@ -1,0 +1,165 @@
+L1BERSECUND.] PRINCIPIA MATHEMATICA.
+
+173
+
+arcuum oscillando descriptorum, in circulo vero ut semissium arcuum
+illorum chordae 3 ideoque paribus arcubus majores sint in cycloide quam
+in circulo, in ratione semissium arcuum ad eorundem chordas 3 (¹) tempora
+
+aequalem T B R (per demonstr. Prop. LI. Lib. arcum L B, fitque b tempus datum quo corpus
+
+Ι. ).
+
+Quare, ex aequo, velocitas maxima in R labitur per diametrum A B, et quo velocitate
+
+descensu per arcum circularem T B R acquisita per eum lapsum in Β acquisita posset describere
+est ad velocitatem maximam in R descensu per uniformiter duplum A B sive 2 A B, sumatur
+
+cycloidis arcum t B R acquisitam, ut chorda
+R T ad arcum t B R vel T B R. Sunt autem
+velocitates maximae in medio resistente velocita-
+tibus maximis in medio non resistente proportio-
+nales quam proxime, et in puncto medio arcuum
+
+qui oscillatione integra describuntur, fere con-·
+
+tingunt (180), Paribus igitur arcubus, velocitates
+maximae in cycloide sunt ad velocitates maximas
+in circulo, ut semisses arcuum oscillando descrip-
+torum ad eorumdem arcuum circularium chor.
+das, quam proxime3 et ideo, paribus arcubus
+majores sunt in cycloide quam in circulo in ra-
+tione semissium arcuum ad eorumdem chordas
+in circulo ductas.
+
+(¹) ⁹¹² Tempora autem in circulo sunt majora
+qnam in cycloide in velocitatis ratione reciprocei-
+* Id est, tempora in circulo sunt ad tempus in
+arcu quovis cycloidis, ut semissis arcus circuli
+oscillando descripti ad ejusdem semissis chordam,
+sive invertendo et temporum dimidia sumendo,
+tempus semi-oscillationis in cycloide est ad tem-
+pus semi-oscillationis in circulo (pendulis exis-
+tentibus ejusdem longitudinis) ut chorda arcus
+descripti ad ipsum arcum, quae quidem proportio
+proxime tantum obtinet. Α
+
+* Est enim tempus oscillationis integrae cu-
+jusvis in cycloide ad tempus descensus per dimi-
+diam penduli longitudinem ut semi-peripheria ad
+radium (vide not. 470. ad Prop. LII. Lib. 1.)
+ideoque etiam tempus semi-osculationis in cy-
+cloide ad tempus illud descensus per dimidiam
+penduli longitudinem ut quadrans circuli ad
+radium, sed tempus descensus per quadruplum
+dimidiaev longitudinis penduli, sive tempus des.
+census per diametrum circuli cujus pendulum
+est radius, est duplum temporis descensus per
+dimidiam penduli longitudinem, ide6que tempus
+semi-oscillationis in cycloide est ad tempus des-
+census per diametrum circuli cujus longitudo
+penduli est radius, ut circuli quadrans ad diame-
+trum. Sed, ratio temperis lapsus per diametrum
+circuli ad tempus semi-oscillationis in arcu ejus-
+dem circuli est (ut mox liquebit) composita ex
+ratione diametri ad quadrantem circuli et chordae
+ad arcum, quam proxime, unde ex aequo erit
+tempus in cycloide ad tempus in circulo ut
+chorda circuli ad ejus arcum oscillando descrip-
+tum. Rationem autem temporis descensus per
+diametrum circuli ad tempus semi-oscillationis
+in arcu ejus circuli esse compositam ex ratione
+diametri ad quadrantem circuli et ex ratione
+chordas ad arcum oscillando descriptum, saltem
+quam proxime, sequenti calculo constabit.
+
+Descendat itaque corpus per arcum L B
+centro C descriptum et diametro A B, sit t tem-
+pus quaesitum quo corpus descendit per eum
+
+in arcu L B portiuncula infinite parva M m
+quam corpus descendens uniformiter describere
+censeatur tempore infinite parvo d t, ducantur·
+
+que ex punctis L et M lineae L H, M E in
+
+ 
+
+diametrum perpendicularem cum tempora qui-
+bus spatia data uniformiter describuntur sint ut
+illa spatia directe et velocitates quibus percur-
+runtur inverse, sitque velocitas quae in B acqui-
+sita est per lapsum ex A B ad velocitatem per
+lapsum ex L in M, sive ex H in E acquisitam,
+
+uthBadffHEffiritmdtz— 24}ss
+Mm
+
+ 
+
+ 
+
+μΑΒἶ
+;dicatur ergoAB=13 HB=h‚
+
+ 
+
+ 
+
+,sn-E
+
+B E=X, Ε M=y3 H E=h--x erit
+
+b2dt=22 Mm ‚estautemMm=
+«κὴ-Χ
+
+‚ww-{3372 et ex natura circuli (cum
+fityy=x-—xx,et2ydy=dx—2xdx,sive
+
+ 
+
+d y = 2 :jx-33³) d x invenietur γά-ἷῑῖῙ-ᾱῖἱ
+= -1- d x ‚ et quoniam dum crescit
+
+ 
+
+-W—-sx‘
+—dx‘
+
+24lx-xx’
+
+ 
+
+B E decrescit L M est M m =
+
+‚ 1
+
+4! x - x x
+
+lam Newtonianam invenietur
+-l 5.
+
+1 12 3x2
+E÷3÷2>«r
+
+ 
+
+ 
+
+ 
+
+in seriem per formu-
+’ 1
+γ x -— x x
+&c. ideoque M m sive
+
+resolvatur ergo
+
+ 
+
+=
+
+ 
+
+ 
+

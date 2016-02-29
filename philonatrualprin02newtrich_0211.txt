@@ -1,0 +1,92 @@
+vzfflztywaerwszrb-‚ff ,. . ,
+
+ΙΛΒΕη Securum] PRINCIPIA MATHEMATICA. 199
+
+vertice C, axe C A et latere recto Cv A descriptum, et solidum posterius
+est cylindrus paraboloidi circumscriptus, (†) et notum est quod parabolois=
+sit semissis cylindri circumscripti. Ergo vis tota medii in globum
+est duplo minor quam ejusdem vis tota in cylindrum. Et propterea si
+particulae medii quiescerent, et cylindrus ac globus aequali cum velocitate
+
+moverentur, foret resistentia globi duplo minor quam resistentia cylindri·
+Q. e. d.
+scholium.
+
+(q) Eadem methodo figurae illae inter se quoadresistentiam comparari
+possunt, eaeque inveniri quae ad motus suos in mediis resistentibus conti-
+
+·-C ΕΖ, ἱάθόῳιε K C><E H=C E²3
+sed si ex puncto H duceretur ad C A, ordinata
+perpendicularis, haec esset aequalis C Ε, et ab-
+scinderet a C A, partem aequalem E Η. Quare
+rectangulum sub abscissa et data linea K C sive
+C A, aequale est quadrato ordinatae ad C A per-
+pendicularis; unde curva C H N, (per Theor. I.
+de parab.) est parabola cujus vertex C, axis C A,
+et latus rectum C A.
+
+(†) '¹‘ Et notum estquod, &c-
+
+191. Lemma. Parabolois seu solidum ex ro-
+tatione parabolae C H N, circa axem C A geni-
+tum est semissis cylindri circumscripti, qui pro-
+ducitur ex rotatione rectanguli A K circa latus
+C A. Per punctum mobile P, erigatur ad axem
+C A nor-malis P M, parabolam secans in H, et
+rectam K N in M 3 et in rotatione figurae totius
+circa axem C A, lineae P H et P. M circulos
+describent, qui erunt inter se ut radiorum P H,
+I M quadrata, seu (ex natura parabolae) et ob
+P M = A N, ut abscissae C P, C A. Duca-
+tur jam punctum P cum verticali P H M per
+
+ 
+
+A ἐξ N
+
+totam altitudinem C A, et solidum ex rotatione
+figurae C H N genitum erit ad cylindrum ex
+rotatione rectanguli C K N A ortum, ut summa
+omnium circulorum quos recta mobilis P H ro·
+
+tando describit, ad summam omnium circulorum
+
+quos describit* recta P M, hoc est, ut summa
+omnium C P, ad summam omnium C A. In
+linea A N capiatur A R aequalis A C, junga-
+tur C R secans P H in L, et erigatur ad A R,
+perpendicularis R Q, secans P M in V3 cum
+sit semper P L = C P, et P V = C A, summa
+omnium C P, seu P L, per totam altitudinem
+C A, est triangulum isoscele C R A, et summa
+omnium C A, seu P V, per eandem altitudinem
+C A, est quadratum C A R Q,; cum igitur
+triangulum C R A, sit semissis quadrati C A R Q,
+parabolois est etiam semissis cylindri circum.
+scripti. Q. e. d. '
+
+(q) 192. Eadem methodo, διε. Solidum ex
+rotatione curvae cujusvis K B A, circa rectam
+A 1 positione datam geniturum medio resistente
+
+G αῖς
+
+ 
+
+moveatur secundum directionem rectae 1 A, et
+oporteat resistentiam quam patitur conferre cum
+resistentia cylindri secundum eandem directio-
+
+nem moti et cujus basis est circulus radio K C
+ad A C normali descriptus. Diametro C I ad
+arbitrium assumpta describatur semi· circulus
+C S Ι, agatur per punctum Ι chorda Ι S, paral-
+lela B D curvam tangenti in puncto quovis B ;
+ducatur per B recta B V parallela A 1, et per
+S recta sH parallela C K, ambae concurrentes
+in H, sitque Q, H E curva quam punctum H
+perpetuo tangit3 et completo rectangulo C K G 1,
+resistentia solidi rotundi per conversionem cur-
+
+N4
+

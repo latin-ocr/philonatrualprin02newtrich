@@ -1,0 +1,66 @@
+· que velocitas (ex Hyp.) quantitas motus globi
+
+Lumn Securum] PRINCIPIA MATHEMATICA. 235
+
+haereant, perinde ut in scholio Propositionis praecedentIS exposui. Agitur
+enim in sequentibus de resistentia omnium minima quam corpora rotunda,
+datis maximis sectionibus transversis descripta, habere possunt.
+
+Corpora fluidis innatantia, ubi moventur in directum, efficiunt ut flui-
+dum ad partem anticam ascendat, ad posticam subsidat, praesertim si
+figura sint obtusa3 et inde resistentiam paulo majorem sentiunt quam si
+capite et cauda sint acutis. Et corpora in fluidis elasticis mota, si ante
+et post obtusa sint, fluidum paulo magis condensant ad anticam partem et
+paulo magis relaxant ad posticam3 et inde resistentiam paulo majorem
+sentiunt quam si capite et cauda sint acutis. Sed nos in his Lemmatis et
+Propositionibus non (agimus de fluidis elasticis, sed de non elasticis3 non
+de insidentibus fluido, sed de alte immersis. Et ubi resistentia corporum
+in fluidis non elasticis innotescit, augenda erit haec resistentia aliquantulum
+tam in fluidis elasticis3 qualis est a'e'r, quam in superficiebus fluidorum
+
+stagnantium, qualia sunt maria et paludes.
+
+PROPOSITIO XXXVIII. THEOREMA XXX.
+
+Globi, in fluido compresso infinito et non elastico uniformiter progredientiS,
+resistentia est ad vim qud totus ejus motus, quo tempore octo tertias partes
+diametri suoe describit, vel tolli possit vel generari, ut densitas fluidi ad
+
+densitatem globi quamproxime.
+
+(⁸) Nam globus est ad cylindrum circumscriptum ut duo ad tria3 et
+propterea vis illa, quae tollere possit motum omnem cylindri interea dum
+cylindrus describat longitudinem quatuor diametrorum, globi motum
+omnem tollet interea dum globus describat duas tertias partes hujus lon-
+gitudinis, id est, octo tertias partes diametri propriae. Resistentia autem
+cylindri est ad hanc vim quamproxime ut densitas fluidi ad densitatem
+cylindri vel globi per Prop. XXXVII. et resistentia globi aequalis est re-
+sistentiae cylindri per Lem. V. VI. VII. Q. e. d.
+
+(i) Corol. 1. Globorum, in mediis compressis infinitis, resistentiae sunt
+globi motus intereadum octo tertias partes dia-
+metri propriae describit tolli possit vel generari,
+
+est ad vim uniformem quiz totus cylindri motus,
+quo tempore longitudinem quatuor diametrorum
+
+(⁸) Nam globus est ad cylindrum circumscrip-
+tum ut duo ad tria (170. Lib. 1.) et propterea,
+cum eadem sit globi et cylindri densitas eadem-
+
+est ad quantitatem motfis cylindri ut duo ad
+tria,· et tempus quo globus octo tertias partes
+diametri propriae uniformiter describit, est ad
+tempus quo cylindrus eadem uniformi velocitate
+quadruplum longitudinis suae, seu duodecim
+tertias diametrorum globi describit, etiam ut duo
+ad tria. Quare (178) vis uniformis qua totus
+
+globi describit vel tolli vel generari possit ut duo
+ad tria directe et duo ad tria inverse, id est, in
+{itione aequalitatis. Resistentia autem cylindri,
+c.
+(t) ¹* Corol. 1. Patet per Cor. 1. Prop.
+XX XVII. , quia resistentia globi aequalis est
+resistentia: cylindri circumscripti.
+

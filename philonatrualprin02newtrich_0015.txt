@@ -1,0 +1,158 @@
+· vrms s
+
+. resistentia inverse.
+
+L113ERSECUND.] PRINCIPIA MATHEMATICA. 3
+
+pore t descriptum. Sit enim applicata p m,
+priori P M infinite propinqua, 'et erit M m =:'.
+d t, adeoque areae A B P M elementum
+M Ppm=vdt==ds (11) et proinde area
+A B PM= S.vdt=s. RectaA Ddica-
+tur linea temporum et curva B P C linea celeri-
+tatum. Eodem modo si abscissa A M expone·
+ret spatium descriptum s et applicata M P velo·
+citatem inversam, ita ut esset A M = s, et M P
+
+= L, area A B P M exponeret tempus quo
+
+epatium A Μ descriptum est3 esset enim
+
+MPpm=ffv5=d½ ethincareaABPM
+ds
+
+v
+
+15. Lemma. Si corpus datae massae sola vi
+insita in medio resistente moveatur, decrementum
+velocitatis, erit ut resistentia et momentum tem-
+poris conjunctim. Incrementum vero spatii erit
+ut velocitas et velocitatis decrementum directe et
+Data enim corporis massa,
+resistentia est ut velocitatis decrementum directe
+et momentum temporis inverse (2) ide6que de-
+crementum velocitatis est ut resistentia et mo-
+mentum temporis conjunctim. Quod erat lum,
+Sed incrementum spatii est ut velocitas et mo-
+mentum temporis conjunctim (12) momentum
+ver& temporis est ut decrementum velocitatis di-
+recte et resistentia inverse (2); Quare incremen-
+tum spatii est ut velocitas et illius decrementum
+directe et resistentia inverse. Quod erat 2⁰¹⁰·
+
+16. Corol. 1. Hinc resistentia est ut velocitas
+et illius decrementum directe ac spatii incremen-
+tum inverse, et velocitas in suum decrementum
+ducta, est ut resistentia et incrementum spatii
+conjunctim.
+
+17. Corol. 2. Quare si spatium dicatur s,
+tempus t, velocitas v, resistentia r, erit r d t =
+
+.—dv,etrds=-vdv.
+
+18. Lemma. Si corpus datae massae in medio
+resistente urgeatur vi centripetzi in directione
+motus corporis agente3 corpore ascendente, erit
+velocitatis decrementum ut moment-um tempo-
+ris et summa vis centripetae et resistentiae conjunc-
+tim. Et velocitas in suum decrementum ducta
+erit,ut incrementum spatii et summa vis centri-
+petce et resistentiae conjunctim.
+
+At corpore descendente, velocitatis incremen-
+tum erit ut momentum temporis, et differentia
+inter vim centripetam et vim resistentia: conjunc-
+tim. Et velocitas in suum incrementum ducta,
+
+, en't ut incrementum sive elementum spatii et difi-
+
+ferentin inter vim centripetam ac resistentiam
+conjunctim.
+
+. Resistentia enim considerari potest tanquam
+
+vis continu& retardans (5) et vis centripeta cor-
+poris ascendentis motum etiam retardat, ide6que
+vis tota retardatrix est summa ipsa vis centripe-
+tae et resistentiae, dum corpus ascendit3 sed vis
+retardatrix in temporis momentum ducta esi: ut
+decrementum velocitatis quod producit (2); erg&
+corpore ascendente, decrementum velocitatis est
+
+ut temporis momentum et summa vis centripetae
+ac resistentia: conjunctim. Quod erat lum·
+
+Sed momentum temporis est ut incrementum
+sive elementum spatii directe et velocitas inverse
+(12). Quare si corpus ascendat decrementum
+velocitatis est ut elementum spatii et summa vis
+centripetae ac resistentia: directe, et velocitas in-
+verse, kade6que velocitas in suum decrementum
+ducta est ut elementum spatii et summa vis cen-
+tripetae ac resistentiae conjunctim. Quod erat
+2um·‹
+
+Descendente corpore vis centripeta motum
+corporis accelerat dum resistentia retardat, et
+ideo si vis centripeta major sit vi resistentiae, ex-
+cessus vis centripetae supra resistentiam est vis
+tota accelerans3 Si vis centripeta minor est vi
+resistendas, vis tota retardans erit excessus re-
+sistentiae supr& vim centripetam. Quare dif-
+ferentia inter resistentiam et vim centripetam in
+temporis momentum ducta erit in primo casu
+ut incrementum velocitatis, et in secundo casu,
+ut illius decrementum. Quod erat 5⁰⁸¹· Sed
+momentum temporis est ut elementum spatii
+directe et velocitas inverse (12), quare velocitas
+in suum elementum (sive incrementum sit sive
+decrementumyducta, est ut elementum spatii,
+et differentia inter vim centripetam ac resisten-
+tiam conjunctim· Quod erat 4⁰³¹?
+
+1 9- Corol. 1. Unde si vis centripeta dicatur
+g, resistentia r, spatium s, tempus t, velocitas v
+erit pro corporis ascensu g d t -Ι- r d t = — d v,
+et g d 5-1- rds=-·- vdv3 et pro corpor-isdes-
+censu, si vis centripeta vi resistentiae sit major
+gdt-—rdt=dv„ etgds—rds=vdv
+at si vis centripeta vi resistentiae sit minor r d t
+-gdt=-dv‚etrds—gds=- vdv.
+
+20. Corol. 2. Si in his formulis ponaturr = o,
+mutabuntur iuae in formulas, quibus motus cor-
+poris in medio non resistente determinantur.
+Qua ratione motus corporis in medio resistente
+conferri· possunt cum ejusdem motibus in medio
+non resistente.
+
+21. Coo-ol. 5. Si corpore descendente, resisten-
+tia vi centripetae aequalis fuerit, corporis celeri-
+tas aequabilis manet3 nam in formulis g d t —
+rdt=dv, etrdt—gdt=-—dv, posita
+g = r, fit d v= o, hoc est, velocitatis incremen-
+tum vel decrementum nullum.
+
+22. Corol. 4. Si l
+corpus in linea rec-
+ῖίι A C vi centri· A JZP
+petit urgeatur ad ,(-Ρ
+punctum datum C,
+et de loco dato
+A sursum vel de-
+orsum projiciatur
+cum velocitate da-
+ta in medio resis.
+teme, et spatium
+A P quod as-
+cendendo vel des.
+cendendo describit
+
+tempore t dicatur
+S, data A C dica-
+
+ 
+
+A2
+

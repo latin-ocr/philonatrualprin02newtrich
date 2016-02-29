@@ -1,0 +1,121 @@
+Μ’
+
+PHILOSOPHIAE NATURALIS
+
+[Mo'r. Conpon.
+
+Leg. ΙΙ. et ΙΙΙ.) ut motus communicatuS. Videamus igitur quales orian-
+
+tur motus ex hac lege resistentiae.
+
+69. Iisdem positis quae in superiori construc-
+tione Newtoni‚ sit D P = b, D V= v, V r=
+z, et D P ad a ut velocitas projectionis ad velo.
+
+citatem terminalem; et erit (57) z = a.
+L b av
+
+ 
+
+'b—v b
+
+aequatione per logarithmicam construere. In
+recta P O ad D P normali capiatur P Z = a,
+
+ 
+
+asymptoto P O et subtangente P Z describatur
+per punctum D logarithmica D H ο, cujus
+D Z erit tangens, et per punctum quodvis V in
+linea D P agatur V H parallela P O logarith-
+micae occurrens in H et tangenti D Z in L, ca-
+piaturque verticalis V R pars V r aequalis H L.
+Punctum r erit in trajectoria quaesita D r a F.
+Nam ducto ex H ad P Ο perpendiculo H X,
+erit (per construet.) V P = H X = b.— v, P Z
+=a,ethincPX= HV= Pz>< L. 351}ss
+a. L. ’134'ssss (34.) Et ob triangula D V L,
+D‘stimilia, D P(b): Pz(a)= D V(v)
+
+—- ·—-. Oportet curvam D r a F ex hac
+
+:VL={bX. Quare eritHV—LV=a. ><
+ΙΛὺὶν--ῗεΖε-ντ, Q. e. d.
+
+ 
+
+70. Corol. 1. Si per punctum A Newtoni
+constructione determinatum erigatur verticalis
+A B secans D P in B, et per B erigatur ad D P
+perpendiculum B G secans D Z in E et loga-
+rithmicam in G, capiaturque B a aequa·
+lis G E, erit A a maxima altitudo jactus.
+
+71. Corol. 2. Punctum r quo trajecto-
+ria rectam D c ex D ductam ad P C,
+secat, invenitur, si in lineae Z Ο capiatur
+Z Q aequalis P c, jungatur D Q loga-
+rithmicam secans in H, demittatur ex H
+ad D P, perpendiculum H V, et ex V
+ad D C perpendiculum V R, quod rec-
+tam D c secabit in puncto quaesito r, at-
+que hinc determinatur etiam horizontalis
+amplitudo D F, capiendo Z Q aequalem
+P c, et reliqua perficiendo ut modo dixi.
+mus, Nam ob parallelas V r et P c,
+HV et QP, est Pe: Vr=PD=
+Dv=thDL=szHL3
+sed (per constr.) Q Z = P c -: ergo Vr
+= H L, ideoque punctum r estin tra-
+jectoria D r a F (69.)
+
+72. Ex demonstratis inveniri potest ’
+angulus elevationis P D C, sub quo cor*
+pus data velocitate D P projectum trans-
+ibit per punctum r in verticali V R da-
+tum. Dicantur D R = c, R r = e,
+DZ=f, DL=x, HL=Vr=z,
+V R= z -Ι- e==y; et ob triangula
+D L V, D Z P similia erit D Z (f):
+
+b x
+
+DP(b)=DL(x):Dv=—f-.-,et
+
+ob angulum D R V rectum D V ² =
+
+DR2÷VR2‚hoeest,bbf'f‘¹
+
+-ι- y y, aequatio ad hyperbolam, cujus
+
+2c s ,
+b , diameter
+
+conjugata 2 c, abscissa a centro sumpta x, et or-
+dinata y seu z -Ι- e, ut calculo inito liquet. Inde
+autem deducitur haec constructio. Per punctum
+D ducatur infra lineam D P recta D Ε paral-
+lela P Z et aequalis R r, per E agatur E K pa..
+rallela D Z secans H V in M; et erit L M =
+D E= Rr=e, ide6queHM=z÷e.=
+y, atque E M = D L = x, et proinde centrum
+hyperboloe est in E ; cumque semidiameter trans-
+versa sit f-f— D R Χ D Z ⁷⁷
+
+> b D P ἃ
+nea D P pars D N aequalis D R, et per punc-
+tum N erigatur ad D P perpendiculum N T,
+secansE KinTetDZint, erit DPadDz
+
+=cc
+
+ 
+
+diameter nansversa est
+
+ 
+
+‚ si capiatugin li.
+
+ 
+

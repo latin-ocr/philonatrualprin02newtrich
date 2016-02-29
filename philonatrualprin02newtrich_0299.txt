@@ -1,0 +1,113 @@
+Lmen Securum] PRINCIPIA MATHEMATICA. Ι
+
+gl'eSSU.
+
+287
+
+Nam lineola physica ε 7, quamprimum ad locum suum primum
+
+redierit, (¹¹) quiescet3 neque deinceps movebitur, nisi vel ab impetu cor-
+poris tremuli, vel ab impetu pulsuum qui a corpore ,tremulo propagantur,
+
+motu novo cieatur.
+mulo propagari desinunt.
+
+PROPOSITIO XLVIII.
+
+Quiescet igitur quamprimum pulsus a corpore tre-
+
+THEOREMA XXXVIII.
+
+Pulsuum in fluido elastico propagatorum velocitates 'sunt in ratione compo-
+§itti ex subduplicatci ratione vis elastz'cae directe et subduplz'catc‘z' ratione
+
+densitatis inverse* ; εἰ modo fluidi vis elastz'ca ejusdem condensatiom' pro-
+
+portionalis esse supponatur.
+
+Cas. l. Si media sint homogenea, et pulsuum distantiae in his mediis
+aequentur inter se, sed motus in uno medio intensior sit: contractiones et
+
+dilatationes partium analogarum (⁰) erunt ut iidem motus· Accurata qui-
+
+(¹¹) ¹¹⁹ Quiescet ; ‘neque deinceps movebitur.
+Quamprimum lineola physica ε ογ ad locum suum
+primum redierit, ipsius velocitas quam ordinata,
+mi, semper exponit (Prop. XXXVIII. Lib.
+1.) extinguetur; et ejusdem lineolae densitas
+visque elastica eadem erit cum densitate et vi
+elastica partis E G medii quiescentis3 ideoque
+quiescet, διε. * Id liquet ex n. 20. additionis
+nostrae de Motibus in Fluido'Elastico Genitis.
+
+316. Ex his intelligitur quomodo per vibra-
+tiones isochronas corporis resonantis producantur
+in aiire pulsus quibus ad aurem appulsis, fit in
+nobis perceptio soni, et cur soni, cessante motu
+tremulo corporis sonori, statim cessent. Liquet
+etiam tonos a numero pulsuum qui in a‘e‘re tem-
+pore dato excitantur, pendere, cum (per Cor.
+Prop. hujus) numerus pulsuum aequalis sit nu-
+mero vibrationum ex itu et reditu compositarum
+quas chorda musica peragit, et ab isto numero
+tonorum diversitas oriatur (508).
+
+317. Patet etiam quomodo a‘e’ris pulsus sonum
+et tremores iu aliis corporibus unisonis aut con-
+sonantibus creare possint. Nam cum a'eris pul-
+sus in nervum musicum incurrit qui vibrationem
+unam ex itu et reditu compositam absolvere ap-
+tus sit, eo tempore quo pulsus suam percurrit
+latitudinem, commovetur nervus et oscillatur per·
+exiguum licet spatium, et recurrentibus novis atque
+conspirantibus a'elris pulsibus celerius agitatur
+sonumque reddit. At si nervus vibrationes suas
+integras seu ex itu et reditu compositas perficere
+nequeat quo tempore pulsus a'eris latitudinem
+su'zun describit, possit tamen in partes aliquotas
+hujusmodi vibrationibus peragendis aptas dividi;
+partes illae, quiescentibus divisionum punctis,
+congruenter ad pulsuum recursum sensim agita.-
+buntur, vibrationesque suas cum pulsibus uniso-
+nas singulae perficient. Si vero nervi duo proxi-
+
+mi in eas partes aliquotas dividi possint quae sint
+iuter se ad unisonum, aut quod idem est, quae
+vibrationes isochronas peragant, et horum nervo-
+rum unus pulsetur sonumque edat, nervi duo
+sese in partes suas aliquotas veluti divident ut
+ad unisonum reducantur. Ut si ejusdem nervi
+capiantur partes duae quarum sit ratio 2 ad 5 et
+aequaliter tendantur, alteraque pars pulsetur, di-
+videtur minor nervus in partes duas, et major in
+partes tres aequales quae singulae seorsim oscilla-
+buntur. Nam brevior nervus duarum nempe
+partium, ter oscillando dum nervus longior par.
+tium trium, duas oscillationes absolvit (306) fre-
+quentiores in a‘ere pulsus excitat quorum recursu
+nervus longior citius quam par est agitatur3 et
+cum utriusque nervi a'e’risque motus congruere
+non possint nisi singulae nervorum partes aliquo-
+tae et oequales seorsim oscillentur, motus ille
+conspirans tam in nervis quam in a'cire tandem
+producitur. Et haec quidem in experimentis
+musicis ita contingere observarunt Joan. wallis
+Operum in fol. Tom. II. pag. 466. Et deinde
+Acusticae instaurator D. sauveur in Monum-
+Acad. Paris. au. 1701. ubi alia experimenta re-
+fert quae ex praedictis facile possunt explicari3
+⁴* et inde ingeniosissimi systematis de ¹tonorum
+productione et harmonia fundamenta derivavit
+ill. de Mairan omni laude superior, quod ad
+praxim felicissime revocavit vir inter eruditos
+Orpheos illustrissimus D. Rameau.
+
+(⁰) ¹* Erunt ut iidem motus. Motus enim illi
+sunt vel causae vel effectus contractionis et dila-
+tationis partium in pulsibus correspondentium.
+Haec tamen proportio accurata non est, si con-
+tractiones et dilatationes sint valde intensae,quem-
+admodum si chorda musica nimia vi pulsetur,
+vis motrix particularum ejus non est amplius
+proportionalis spatiis per quae debet moveri, et
+

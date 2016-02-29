@@ -1,0 +1,136 @@
+82
+
+PHILOSOPHIAE NATURALIS [Mozr.00n1›on.
+
+est quam in loco A 3 ut habeatur densitas mediocris, debet ratio minimae
+tangentium H T ad tangentem A H inveniri, et densitas in A augeri in
+ratione paulo majore quam semisummae harum tangentium ad minimam
+
+tangentium G T.
+
+(i) Reg. 5. Si dantur longitudines A H, A I, et describenda sit figura
+A G K: produc H Nad X, ut sit H X adA I utn -Ι- 1 ad 1, centro-
+que X et asymptotis M X, N X per pun‘ctum A describatur hyperbola,
+
+ea lege, ut sit A I ad quamvis V G ut X V ¹¹ ad X I ¹¹.
+(k) Reg. 6. Quo major est numerus n, eo magis accuratae sunt hae
+
+InterIm liquet veram trajectoriam quam cor-
+
+H A N, datur specie triangulum rectangulum
+
+pus in medio uniformi describit, circa <let-tieem H N A, ratioque proinde laterum A H, A N,
+
+magis distare ab asymptotis‚ et in partibus a
+
+H N etiam datur, liquet quod crescente A H
+
+vertice remotioribus propius ad ipsas accedere aut numero n, crescant quoque latera A N et
+
+quam pro ,ratione hyperbolarum in medio non
+
+uniformi descriptarum. Nam si e loco A, cum
+velocitate 4! ἑᾹ-Ἑ-ΙΪ-ῗ, et' directione A H proji-
+
+ciatur corpus in me'dio cujus densitas uniformis
+aequalis sit densitati mediocri medii in quo descri-
+bitur hyperbola A G K ; ob majorem medii uni-
+formis densitatem in A, qua corporis velocitas
+impressa magis minuitur, trajectoria intra. hyper-
+bolam continebitur, adedque prope verticem ab
+asymptotis magis distabit ; et quia prope verticem
+est magis depressa, in partibus versus K a ver-
+tice remotioribus ad asymptotum N X propius
+accedet quam hyperbola A G K ; cum praesertim
+in medio uniformi spatium motu horizontali de-
+scriptum, semota gravitate, infinitum evadat (per
+
+Cor. 1. Prop. V. )v.
+
+(ἱ) ’“ Reg. 5. si dentur longitudines A H,
+A 1 cum angulo H A N, et describenda sit fi-
+gura A G K: ex puncto H ad horizontalem
+A N demitte perpendiculum H N; produc
+H N ad X, ut sit H X aequalis facto subn -ff- 1
+et A Ι (demonstravimus enim in nota ad Reg.
+l. esse H X aequalem facto n >< A 1)
+centroque X et asymptotis M X, X per punc-
+tum A describatur hyperbola, ea lege, ut sit A I
+ad quamvis V G ut X V¹² ad X 1¹²: est enim
+(per Hyp. Exemp. 4.) V G ad A I, ut A N ¹¹
+ad D N”,seuutX Inad X V¹².
+
+(¹) ⁴* ch. 6. Quo major est numerus n, eo
+magis hae hyperbolae in ascensu corporis ab A
+accedunt ad trajectorias in medio uniformi de-
+scriptas, et eo minus in descensu ad K accuratae
+sunt; et contra. Nam qud major est numerus
+n, εό minus tangens G T, quae densitati reci-
+proce proportionalis est, in ascensu corporis ab
+A variatur 3 et eo magis in descensu ad K mu-
+tatur, quippe data sit medii densitas in A cum
+n -1- 2
+
+angulo projectionis H A N, et quantitas A H
+
+ 
+
+densitati in A (Exemp. 4.) proportionalis, data
+erit, ideoque. tangens A H eo longior erit qud
+major fuerit numerus n ; et quia dato angulo
+
+H N. Ex demonstratis in Exemplo 40· cor-
+pore ascendente tangentis G T quadratum G T ²
+= D Ν2 -ι- [Ζ ν-ῐι V G]2, et corporede-
+scendente est G T2=D N2 -1- [n V G-——Z V] ².
+Ex natura hyperbolae A G K, est D N ¹¹ ε Α Ν ¹¹
+n A I >< A N¹²
+
+=A12VG,ide6quenVG= DN
+
+ 
+
+Ex demonstratione Regulae 1⁸³2 Η
+>< A Ι, etproindeN X= H N
+A1,etNX—A1=HN÷nA
+ob triangula X Z V, M N X, M A
+ZXseuDNestadZV‚utMNad
+ut M A ad A I, et divisim D Nest a
+ANadNX—AlseuHN÷nA
+fitZV=DN><HN-}·-nAI)<
+Quare in corporis ascensu G T 2 = D N ² -1-
+DNxHN÷nA1><H N—n AN¹¹
+( 1 A N D N ¹¹
+etin descensu G T2 = D N2
+nA1><AN¹¹ D N><H N÷n A I><DN 2
+D Π ¹² ““ “““ A N ““ ).
+Jam vero si numerus n satis magnus fuerit, li-
+neae A H, A N, H N tam in ascensu quam in
+descensu corporis longiores sunt, et in ascensu
+ab A est fere D N aequalis A N, in descensu
+ver& D N quantum libet minor ipsa A N. Unde
+n A Ι >< D N
+-Ἆ-Γ = n A I
+et idea G T2=D N2÷ D NAxNH ΝΥ
+= D N2 -ξ- Η N2fere„ Est autem A H 2
+= ΑΝ2 -Ι- HN2: quareratio GTad AH
+¹in ascensu corporis ab A est fere aequalitatis,
+dum numerus n satis magnus supponitur, ac
+proinde non multum variatur densitas: in de-
+scensu ver& ad K, fit D N quantumlibet exigua
+n A 1>< Α Ν ¹¹
+,D R n
+vehementer crescit, et hinc tangens G T mul-
+tum variatur ubi numerus n magnus est. Con.
+tra fit, si numerus ille sit admodum exiguus.
+
+ 
+
+in ascensu ab A est fere
+
+ 
+
+respectu datae A N, et idedquantitas
+
+ 
+

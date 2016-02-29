@@ -1,0 +1,66 @@
+LIBER Sisenna] PRINCIPIA MATHEMATICA. 165
+
+vim generantem C D. Sed et (¹) ob similia triangula F m f, F g h, F D C,
+estsmadFmseuDdutCDadDF: etexaequo FgadDdutDK
+ad D F. Item F h ad F g ut D F ad C F; et ex aequo perturbate
+
+(¹¹¹) F h seu M N ad D d ut D K ad C F seu C M; (¹²) ideoque summa
+omnium M N >< C M aequalis erit summae omnium D d >< D K. Ad
+
+punctum mobile M erigi semper intelllgatur ordinata rectangula aequalis
+indeterminatae C M, quae motu continuo ducatur in totam longitudinem
+
+A a3 et trapezium ex illo motu descriptum sive huic aequale rectangulum
+A a >< {- a B (⁰) aequabitur summae omnium M N Χ C M, ideoque sum-
+
+mae omnium D d >< D K, id est, areae B K V T a. Q. e. d.
+Corol. Hinc ex lege resistentiae et arcuum C a, C Β differentia A a
+
+colligi potest proportio resistentiae ad gravitatem quam proxime.
+
+Nam 'si uniformis sit resistentia D K, figura Β K T a rectangulum erit
+sub B a et D K 3 et inde rectangulum sub ὲ Β a et A a erit aequale rect-
+angulo sub B a et D K, et D K aequalis erit ᾗ Α a. Quare cum D K
+sit exponens resistentiae, et longitudo penduli exponens gravitatiS, erit
+resistentia ad gravitatem ut ᾗ Α a ad longitudinem penduli3 omnino ut
+in Prop. XXVIII. demonstratum est.
+
+Si resistentia sit ut velocitaS, figura Β K T a ellipsis erit quam proxime.
+Nam si corpuS, in medio non resistente, oscillatione integra describeret
+
+longitudinem B A, velocitas in loco 'quovis D foret ut circuli diametro
+A Β descripti ordinatim applicata D E. Proinde cum Β a in medio re-
+
+(¹)l·* gb silvlnilz'assriangula, 8zlc. Sunt enim ³ punctum A perpendiculum A P = A C, jun.
+ἓῖἕῗὲέηςῖᾘίς Ἐξ) οἷθῗίἒῗὲῑὲίῗῃῗηὲῗῗὲἕζ ἕὲἷζᾛ ξ’. {i{5⁰2¹{ffssr325121152raif13e2pciu
+gulusf F m aequalis angulo C F D, quia si ex = M N >< H M3 ideoque si ordinata variabilis
+angulis rectis m F D, fF C subdu-
+
+‘catur communis angulus m F C,
+remanebunt anguli aequales f F m, P
+C F D, Tria igitur triangula F m f,
+vF h g et F D C aequales angulos han
+bent, suntque proinde similia.
+
+m *ι x .
+aeq(ua)lis gift} &Nvaeqfiiiltis sCt ἓξὲξ ¹
+C h, angulo h C g evanescente, est
+ἓὺΝτ-ΕἳΜ-Ο N=C F—
+
+(a) ²* Ide6que summa omnium
+Μ Ν >< C M, διο. Quoniam (per
+modo demonstrata) M N >< C M =
+D d >< D K, erit summa omnium A. Μ. N' a B
+M N >< C M aequalis summae om-
+nium D· d >< D K, modo simul incipiant simul. H M ducatur in totam longitudinem A a, erit
+que desinant. Incipit autem summa omnium trapezium A P b a aequale summae omnium
+D d·><- D K in B et desinit in a, et summa M N Χ C M ab A ad a· sed trapezium illud
+omgumqmnx c Mincipit in A, et ideasi est c A P-c a b='-1- c A2-{ c a2
+desugat m a, erunt summae illae aequales. = L (C A -ΙΓ C a χ (c²A —- C a) = ³ a B
+
+(⁰) ²* AEquabitun summae, &a Erigatur ad >< A a, ob C B = C A. Ergo, διο. ²
+
+L3
+
+  
+

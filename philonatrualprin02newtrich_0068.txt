@@ -1,0 +1,56 @@
+56 PHILOSOPHIAE NATURALIS [Mor. Com’ort⁸
+
+· qu& corpus eodem tempore in spatio non resistente omnem suum ascen-
+dendi motum amittere posset, ut triangulum A p D ad sectorem circula-¹
+
+rem A t D; sive ut recta A p ad arcum A t.
+
+ 
+
+E
+
+Corol. 5. Est igitur tempus, quo corpus in medio resistente cadendo
+velocitatem A P, acquirit, ad tempUS, quo velocitatem maximam A C in
+spatio non resistente cadendo acquirere posset, (⁸) ut sector A D T ad
+triangulum A D C: et tempus, quo velocitatem A p in medio resistente
+ascendendo possit amittere, ad tempus quo velocitatem eandem in spatio
+non resistente ascendendo posset amittere, (t) ut arcus A t ad ejus tangentem
+
+Ap.
+
+(⁸) *¹ Ut sector A D T ad triangulum A D C.
+Cum enim A P exponat velocitatem tempore
+
+que cum sit A P=AY=APD2ATD
+etAY: AC=ATDzadhancaream, erit'
+
+A T D in medio resistente acquisitam, sumatur
+A Y talis ut exponat velocitatem tempore eodem
+in medio non resistente productam, et erit per
+Corol. 2. A PadAYutAPD, ad ATD,
+cumque etiam A C exponat velocitatem maxi-
+mam, erit A Y ad A C ut tempus quo prior ce-
+leritas A Y in medio non resistente acquiri po-
+test, ad tempus quo velocitas maxima A C in
+medio etiam non resistente acquireretur, et cum
+tempus quo celeritas A Y acquiritur, exprimatur
+pet-aream ATD, eritA Yad A Cut ATD
+ad aream quae exponet tempus quo velocitas
+
+maxima in medio non resistente acquiritur, ita-
+
+ex aequo A P ε A C = A P D, ad hanc aream,
+sed sumpti communi altitudine D H est A P
+ad A C = tri. A P D-ad tri. A D C, ergo
+area quae exponet tempus quo maxima velocitas
+in medio non* resistente acquiritur, est area
+A D C. Unde sequitur quod corpus in medio
+resistente, velocitatem maximam A C acquirere
+cadendo non potest nisi tempore infinito. Chm
+enim fit A P = A C, coincidit D T cum hy-
+perbolae A T Vasymptoto D C, et sector A D T
+fit infinitus.
+
+(²) '¹‘ Ut arcus A t, ad qy‘us tangentem A 7²·
+Siquidem (per Cor. 4.) velocitas A p in medio
+

@@ -1,0 +1,111 @@
+LmER Samma] PRINCIPIA MATHEMATICA. 11
+
+sitis (ob triangula P r p, P M T similia) erit pinqua, ex punctis p, P demittantur ad axem
+P r : p r = P M ι Μ Τ, seu P F, ideoque C T perpendiculum p m secans Q P in r et per-
+rectangulum M m p r aequale erit rectangulo pendiculum P Μ ; 1³ Τ tangat logarithmicam in
+P F fr. Quare si area logarithmica A B P M P ; erit ob triangula p r P, P M T similia, p r
+divisa intelligatur in rectangula innumera ut (seu N n) z P r ..-.-..— P M (seu C N) : M T, et
+M p, rectangulum E F P Q divisum erit in to- (ex natura hyperbolae per Theor. 4. de Hyp.
+tidem rectangula ut F r correspondentibus Μ p, Lib. 1.) N Q: D G = C D : C N; ideoque
+
+aequalia, et proinde area logarithmica A B P M
+:equalis est recta-rigulo E F P Q. Q. e. d.
+
+Hinc spatimn logaritlzmz'cum A B P M est ut
+ordinatarum A B, P M dfferentia P Q, ob da-
+tam subtangentem T M (36.)
+
+Trilineum vero logarithmicum B Ρ Ω =
+ΡΩχΜΤ-ΑΜ >< BA; et producta
+A B ut rectae F P occurrat in C, erit trilineum
+logarithmicum B P C = A C >< C P— C B
+
+4⁶2. Corol. 1. Hinc spatium legaritlzmicum in-
+linit& protensum 0 0 Ρ M, quei parte cogaritlzmi-
+ca ad asymptotum
+M 0 continu& ac-
+cedit, duplum est
+trianguli P Τ Μ.
+Nam ob distan tiam
+infinitam M Ο eva-
+nescit ordinata AB,
+fitque spatium Ο ο
+Ρ Μ, aequale rec-
+tangulo T F P M,
+sub ordinata PM et
+subtangente M T
+contento-
+
+43. Corol. 2. T αη-
+
+gens P T (produc-
+ta si opus est) secet
+ordinatam A Β in
+I, et spatium loga· ,,
+rithmicwm B P C Η
+erit ut Β Ι inter .
+Iogavitlzmicam et tangentem intercepta. Nam ob
+triangulorum T F P, I C' P, similitudinem, est
+TFadFP, (seu A adMT) utCIadCP,
+et ideo AC>< CP=MT>< CI. Quare
+(41) rilineumB PC= AC Χ CP— MT
+><CB=MT>< I--MTXCB=
+M T >< Β 1. Est igitur, ob datam M T, tri-
+lineum B P C ut B I.
+
+44. Theor. VI. Asymptotis orthogonalibus
+C H, C 1) descripta sit hyperbata Q q G, et per
+punctum D in asymptoto CD datum, lugarithmiae·
+ca D p P axem habens C H productum ; per
+punctum D agatur ad hyperbolem ordinata D G,
+et per punctum alterum quodvis N ordinata
+N Q quae producta logarithmicae occurrat in P,-
+ert't area hyperbolica N Q G D, ad dignitatem
+hyperbolae seu ad rectangulum C D >< D G, in
+ratione rectae N P ad subtangentem legaritlzmi-
+σω.
+
+Agatur enim altera q p ipsi Q P infinite pro-
+
+C m M
+
+pgr corzpositiossenciiratiogug etfix'isequo N Ω ><
+n ε r = ς · r
+datas C D ἐξ Μ Τ, summa omnium {¹222ng
+lorum N Q Χ N n. in quae dividi potest area
+N Q. G D, hoc est, haec area ipsa est ad rectan-
+gul'um sub data G D, et summa omnium P r,
+seu tota recta N P, ut C D ad M T, proindeque
+NQGD >< MT=NP><GD><CD‚
+et hinc N QGD: GD Χ CD=NP:
+M T. Q. e. d.
+
+45. Corol. Ηὶπσ (ob datas M T, G D, C D)
+area hyperbolica N Q G D et proinde sector
+
+ 
+
+T
+
+C G Q ipsi (equalis (377. Lib. 1.) est ut recta ..
+N P productio ordinatae Q N, inter asymptotum
+hyperbolae C D et logarz'thmicam intercepta.
+
+46· Scholt’um. Cum Ill. Marchio Polenus in
+Epistola ad Hermannum Patavii an. 1729.
+edita, ita facilem et expeditam logarithmicae
+descriptionem organicam, pro ingenii sui saga-
+citate invenerit, ut curva illa sectionibus conicis
+haud difficilius construatur, cumque logarithmi-
+ca per lineas rectas id praestet quod hyperbola
+per sectores vel quadrilatera sua, in problema-
+tum constructionibus quae per areas hyperbolicas
+absolvuntur, loco hyperbolae non male usurpa-
+retur logarithmica; quamvis si problema ad me-
+rum calculum reducatur, aeque bene possint
+usurpari spatia hyperbolica, quam abscissae lo-
+garithmicae. Quomodo autem constructiones
+quae per spatia hyperbolIca fiunt‚*ad logarithmi-
+cam transferantur, pluribus exemplis ostendemus
+deinceps.-
+

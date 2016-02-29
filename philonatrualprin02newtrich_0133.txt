@@ -1,0 +1,59 @@
+LIBER Summa] PRINCIPIA MATHEMATICA. 121
+
+posit0„(¹) ut medii propositi densitas mediocris inter hos circulos ad medii,
+de quo egimuS‚ densitatem mediocrem inter eosdem quam proxime z sed
+et in eadem quoque ratione esse secantem anguli quo spiralis praefinita,
+in medio de quo egimuS‚ secat radium A S, ad secantem anguli quo spi-
+ralis nova secat radium eundem in medio proposito: (¹¹¹) atque etiam ut
+sunt eorumdem angulorum tangentes ita esse numeros revolutionum
+omnium inter circulos eosdem duos quam proxime. (¹¹) Si haec fiant pas-
+sim inter circulos binos, continuabitur motus per circulos omnes. Atque
+hoc pacto haud difficulter imaginari possumus quibus modis ac temporibus
+corpora in medio quocunque regulari gyrari debebunt.
+
+Corol. 9. Et quamvis motus excentrici in spiralibus (⁰) ad formam ovalium
+accedentibus peragantur 3 tamen concipiendo spiralium illarum singulas
+revolutiones iisdem ab invicem intervallis distare, iisdemque gradibus ad
+centrum accedere cum spirali superius descripta, (P) intelligemus etiam
+quomodo motus corporum in hujusmodi spiralibus peragantur.
+
+PROPOSITIO XVI. THEOREMA XIII.
+
+Si medii densitas in locis singulis sit reciproce* ut distantia locorum a centro im·-
+mobili, sitque vis centrz'peta reciproce ut dignitas quaelibet ejusdem distan-
+tice .- dico quod corpus gyrari potest in spirali quae radios omnes a centro
+
+illo ductos intersecat in angulo dato.
+
+Demonstratur eadem me-
+
+thodo cum Propositione su· Ο
+periore. Nam si vis cen-
+
+tripeta in P sit reciproce 3
+‘ut distantiae S P, dignitas ‘s
+
+quaelibet S P ¹¹ ’¹‘ ¹ cujus in- -P
+
+dex est n -1- l z (q) collige- X!
+tur ut supra, quod tempuS, ‘v α
+quo corpus describit ar·- Τ
+
+cum quemvis P Q 3 erit ut
+PQ Χ Ρ S ’μς etresis-
+
+ΚΓ
+
+(1) *¹ Ut medii proposui densitas (per Cor. 6. (⁰) ⁴* Ad formam ovalz‘um accedentibus, ἃς.
+hujus) supponendo spirales logarithmicas. per Sunt enim spitales quarum revolutiones singulae
+puncta A, B, C, D, in utroque medio descriptas. fere concentricae suut et ad formam circulorum
+
+(¹¹¹) ’¹‘ Atque} etiam utsunt,&c. Per Cor. 6. hujuS. accedunt3 aliarum revolutiones accedunt ad for-
+
+(“) ⁷* Si lzaec fiant passim inter circulos binos, mam ovalium centro spiralis pro ellipseos vel
+invenietur in medio regulari lex qua motus con· ovalis foco accepto.
+tinuabitur per circulos omnes, seu,·inter circulos (Ρ) * Intelligemus etiam (ut in Cor. 8.) quo-
+omneS‚ quemadmodum inventis prioribus seriei madh, &c
+regularis terminis, cognoscitur lex qua ina pro- (‘¹) * colligetur ut supra, διο. Quaecumque
+greditur, atque hoc-pacto, διε. euim sit vis centripeta‚ illa est ad vim resisten-
+

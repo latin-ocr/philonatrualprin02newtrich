@@ -1,0 +1,61 @@
+L113En secuso] PRINCIPIA MATHEMATICA.. 21
+
+PROPOSITIO 1v. PROBLEMA 11.
+
+a.-
+
+Posito quod vis gravitatis in medio aliqno similari uniformis sit, ac tendat
+perpendiculariter ad planum horizontis ; definire motum projectilis in eo-
+dem, resistentiam velocitati proportionalem patientis.
+
+E loco quovis D egrediatur projectile secundum lineam quamvis rec-
+tam D Ρ, et per longitudinem D P exponatur ejusdem velocitas sub ini-
+tio motus, A puncto P ad lineam
+horizontalem D C (X) demittatur per-
+pendiculum P C, et secetur D C in A,
+ut (5) sit D A ad A C ut resistentia
+medii, ex> motu in altitudinem sub
+
+Z
+
+initio orta, et vim gravitatis3 vel
+(²) (quod perinde est) ut sit rectangu-
+lum sub D A et D P ad rectangulum
+sub A C et C P ut resistentia tota sub
+initio motus ad vim gravitatis, Asymp-
+totis D C, C P describatur hyperbola
+quaevis G T B S secans perpendicula
+D G, A B in G et B; et compleatur
+parallelogrammum D G K C cujus
+latus G K secet A B in Q. Capiatur
+linea N in ratione ad Q B qua D C
+sit ad C P 3 et ad rectae D C punctum
+quodvis R erecto perpendiculo R T,
+
+quod hyperbolae in T, et rectis E H, G K, Ι) Ρ in Ι, t et V occurrat; in
+
+eo cape V r aequalem t—{J—Tss vel (ἢ) quod perinde est, cape R r aequalem
+
+ 
+
+⁴(¹) *² Demittatur perpendiculum PC', et quo- et cum fit D A ad A C ut resistentia medii ex
+mam D P exponit velocitatem projectionis C P motu in altitudinem ad vim gravitatis (per hy-
+exponet velocitatem verticalem‚ et D C velocita- pothesim)‚ erit per compositionem rationum et
+tem horizontalem, per Leg. Motfis Cor. 1. et 2. ex aequo D A >< D P ad A C Χ C P ut re-
+(Ὺ) ²* Ut sit D A ad A C ut resistentia, Bm.. sistentia tota ex motu projectionis ad vim gravi-
+aut‚ quod idem est (per Cor. 1. Ptop. III.) ut tatis.
+
+sit D· A ad A C ut velocitas verticalis C P ad (a) ¹* Vel quod perinde esc, cape R r aequalem,
+velocitatem maximam seu terminalem. &c. Com enim sit (per hyp.) N: Q B =
+
+(Ζ) * Vel (quodperinde est) ut sit rectangu- D C: C P, et D C: C P = D R: R V, ob
+lum, διο. Nam cum sit D P ad C P ut velo- triangula similia D R V, D C P; erit N: Q B
+
+citas tota projectionis ad velocitatem verticalem, . D R Χ Q Β
+ac prolude ex lege resistentiae ut resistentia tota = D R ² R V’ et ¹de⁰ R V = N ”
+
+sub initio adresistentiam ex motu in altitudinem, Sed rectangulum G E 1 t = G t >< G E =
+B 3
+
+ 
+

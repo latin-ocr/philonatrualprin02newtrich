@@ -1,0 +1,183 @@
+*LIBER Secum] PRINCIPIA MATHEMATICA.
+
+rectum in r, et in A, patet triangula n r N,
+g A R, similia esse, et propterea g R parallelam
+n N, seu tangenti per N ductae. Hinc cum A E
+sit aequalis a μ ‹13:- z ubiz = o (103) erit g E
+tangenti per L ductae parallela, sitque A g = a
+
+2
+estg E² = {3- -1— a ²= 4—5‘23 atque adedgE
+=2 ειν ὲ--2ΑΕ erithadAEute,
+ad 1, et ita sinus totus ad sinum anguli A g E,
+sive ad sinum anguli quem curva constituit cum
+minima ordinata A L, qui proinde est 500.
+
+208. Quoniam A R, in infinitum crescere
+ac decrescere potest si capiatur semper B R >
+B Ε, describetur curvae ramus L N D, qui con-
+cavitatem axi B C obvertit, et ab utroque axe
+A C, A g, in infinitum recedit; at si semper
+sumatur B R < B E. describetur alter curvae
+ramus L O, qui priori L D convexitatem offert,
+et ab utroque axe B C, B G, in infinitum ab-
+scedit3 curva igitur D L 'O punctum regressus
+habet in L, et solidum minimae resistentiae ex ejus
+circa axem A C revolutione genitum, ‘convexum
+vel concavum, et partim convexum, partim con-
+cavum essepotest.
+
+. 209. Quoniam d x = z d y
+
+a , erit areae curvae
+zydy
+a
+
+curvae VTsx—2ss'd'3'2 = QZ,
+
+a
+elementum superficiei a curva. circa axem A C
+
+rotata genitae = Q (si p
+
+sit semi-peripheria circulis, cujus radius est uni-
+tas) ; elementum solidi in eadem revolutione
+
+P3y²dy
+a
+
+ffi2pydygmerit ydy==
+ady' —ydy
+
+dy²><aa÷zz aa÷zz'
+Porrb si in his fluxionibus loco y, et d y, substi-
+tuantur ipsarum valeres qui ex aequationibus
+
+ 
+
+elementum y d x = ‚ elementum arcus
+
+ 
+
+ 
+
+ 
+
+; et resistentia superficiei
+
+ 
+
+descripti =
+
+ady²
+(1κῖψάγῖ-
+y dy sive ut
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v=—-—‘²²4³;:2²³²2etdy=³2332÷{az
+aadz
+
+ 
+
+habentur, fluens S. y d x, seu area
+
+4 z z
+curvae inveniri poterit algebraice, aliae ver& fluen-
+tes ab hyperbolae quadratura pendent.
+
+Sclzol· Quae ad solidum minimae resistentia:
+spectant, ea fere omnia mutuati sumus ex illm.
+Marchione Hospitalio, tum in Act. Lipsiens. an.
+1699, tum in Monum. Paris. ejusdem anni. De
+eodem solido plurima etiam dederunt celeb. viri
+Joh. Bernoull. in Act. Lips. an. 1699. 1700.
+Hermannus in Phoronomia‚ et Facio ad calcem
+Libri de Murorum Inclinatione, &c. Sed qui
+totam hanc Newtoni Propositionem maxima uni-
+versalitate pertractatam habere volunt, legant
+tractatum a clariss. Bouguero editum, et ab
+Academia Regia Parisiensi an. 1727. praemio
+condecoratam, cui titulus; De la mature des
+Vaisseaux, nec non Menum. Paris· an. 1733.
+
+207
+
+¹in quibus elegantissima et universalissima legitur
+ultimae scholii Newtoniani partis solutio. Rem
+a clariss. autore demonstratam hic observatu dig-
+nissimam judicamus, videlicet, solidum rotundum
+cujus constructionem mod& dedimus, in qualibet
+hujus so‘lidi directione et juxta quamlibet fluidi
+impulsionem, minimam omnium pati resisten-
+tiam, exceptis quibusdam casibus qui in naviga-
+tionis praxi vix unquam occurrunt, cum scilicet
+directio solidi majores angulos curn axe consti-
+tuit ; et quod mirum est, in his casibus, solidum
+illud quod erat minimae resistentiae et naviga.-
+tioni aptissimum, solidum maximae resistentiae et
+ad usum navigationis omnium minime idoneum
+evadit. Quae verd ad universalem solidorum in
+fluidis resistentiam pertinent, peti possunt ex
+aureo Joh. Bernoullii Libello qui inscribitur:
+Essai d’une Nouvelle Theorie dela manoeuvre
+des Vai‘sseaux, et ex Hermanni Phoronomia.
+210. Lemma. Splzaera est ad cylindrum cir-
+cumscriptum ut duo ad tria. Sphaera generatur
+per revolutionem semi-circuli A H B circa dia-
+metrum A B, et cylindrus sphaerae circumscrip-
+tus per revolutionem rectanguli A 'C D B, cuj'us
+latera A C, B ’1) circuli radio sunt aequalia.
+Ductis ordinatis infinite propinquis P M, p m,
+
+ 
+
+dicantur A C = r, semi-peripheria A H B =
+p, A P = x, P p = d x, et quia circulorum
+areae sunt in ratione duplicata radiorum, erit
+quadratum radii C A, seu r r, ad aream circuli
+A H B. nemperp, ut M ΡΖ, seu &rx—xx
+ad aream circuli radio P M descripti, quae ideo
+p x x
+
+r
+elementi P M m p(i circa A B genitum, erit
+p x x x
+
+r
+solidum ex rotatione segmenti circularis A M P
+
+px3‚etfactaAP=AB‚
+
+seu x = 2 r, sphaera ῗοζει habetur = 4 p r r --
+
+8 4 , . .
+-Ξ- p r r = Ξ p r r. Sed cyllndrus sphaerae cn·-
+
+cumscriptus est factum ex area circuli radio A C
+descripti in cylindri altitudinem A B, seu est
+2 p r r. Quare sphaera est ad cylindrum circum-
+
+erit 2 p x — 3 et hinc solidumex rotatione
+
+ 
+
+ 
+
+2 p x d x -- ‚ sumptisque fluentibus,
+
+ 
+
+ortum, erit px x —
+
+scriptum ut ἒ p rr ad 2 p r r, id est, ut4ad 6,
+sive ut 2 ad 5. Q. e. d.
+

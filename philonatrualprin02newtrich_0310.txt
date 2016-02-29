@@ -1,0 +1,81 @@
+298
+
+PHILOSOPHIAE NATURALIS [MouCORPOR-,l
+
+SECTIO IX.
+
+De motu circulari fluidorum.
+
+HYPOTHESIS.
+
+Resistentiam‚ quae oritur ex deficta lubricitatis partium fluidi, caeteris
+paribus, proportionalem esse velocitati, quei partes fluidi separantur
+
+(e) ab invicem.
+
+PROPOSITIO LI.
+
+THEOREMA XXXIX.
+
+Si cylindrus solidus infinite* longus in fluido uniformi et infinito circa axem
+positione datum uniformi cum motu revolvatur, et ab hujus impulsu solo
+agatur fluidum in orbem, perseveret autem fluidi pars unaquaeque uni or-
+miter in motu suo ; dico quod tempora periodica partium fluidi sunt ut
+
+ipsarum distantiae ab axe cylindri.
+
+Sit A F L cylindrus uniformiter circa axem S in orbem actus, et cir-
+
+culis concentricis B G M, C H N, D I Ο, Ε Κ Ρ, &c. distinguatur
+
+fluidum in orbes cylindricos innumeros concentricos solidos ejusdem cras-
+situdinis. Et quoniam homogeneum est fluidum, impressiones conti-
+
+guorum orbium in se mutuo factae erunt (per Hypothesin) (³) ut eorum
+
+ἑο) * Ab invicem. Resistentia quae oritur ex
+de ectu lubricitatis partium fluidi, caeteris pari-
+bus, est semper eadem in spatiis aequalibus‚ quae-
+cumque fuerit mobilis velocitas3 cum in omni-
+bus spatiis aequalibus idem defectus lubricitatis
+superandus sit. Est igitur haec resistentia, cae-
+teris paribus, ut spatium quod mobile describit,
+hoc est, dato tempore, ut velocitas. Quia vei-6
+partes contiguae quae simul pari velocitate mo-
+ventur, sese mutuo non atterunt3 capienda hic
+est velocitas partium relativa, qua partes sepa-
+rantur ab invicem. Sed de hac Hypothesi vide
+scholium sequens.
+
+(²) 526. ¹* Ut eorum translationes ab invicem
+et superficies contiguae, &c. Si superficies con·
+tiguae nulla velocitate relativa inter se moveren-
+tur, aut si essent perfecte lubricae, nulla soret
+earum frictiox at si superficies sint asperae et
+alia super aliam incedat, nascetur ex partium at-
+tritu resistentia, quae, dato tempore et caeteris
+
+paribus, velocitati* superficierum relativae pro-
+
+portionalis est (per Hyp..) Unde si superficies
+contiguae, homogeneae et aequalis ubique asperi-
+tatis sese viribus aequalibus premant, et praeterea
+superficies quae super alias sibi contiguas ince-
+dunt, aequales sint3 resistentiae ex attritu dato
+tempore genitae proportionales erunt translatio-
+nibus superficierum contiguarum ab invicem,
+cum hujusmodi translationes sint spatia velocitaff
+tibus relativis dato tempore descripta. Si verti
+translationes illae seu velocitates relativae super-
+ficierum contiguarum ponantur aequales3 resistens
+tiae, caeteris paribus, erunt ut superficies conti—
+guae quae sese mutuo atterunt. Quare si nec
+superficies contiguae, nec earum velocitates re-
+lativae seu translationes ab invicem aequantur3
+resistentiae‚ caeteris paribus, erunt in ratione
+composita ex ratione superficierum contiguarum
+et ratione translationum ab invicem dato tem·
+pore factarum. Impressiones vero contiguorum
+orbium in se mutuo factae, sunt ut resistentiae
+quibus producuntur? ’
+

@@ -1,0 +1,136 @@
+LIBER Sncmsmgj PRINCIPIA MATHEMATICA.
+
+166. Corol· 6. Data¹ vi centripetzi et resisten-
+tia ac densitate medii, inveniri potest aequatio ad
+trajectoriam Z P V quam corpus projectile circa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+127
+
+poris velocitas tum resistentia et medii densitas in
+loco quovis P. Quoniam p p = e y, erit 2 p d p
+e d y L 2 p p — ιζ’-γ
+
+ι--
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+centrum virium C describit. Sit, exempli gratia, Ξ e d γ’ d p = 2 p ' d p — e d y - d y ²
+medium uniforme, resistentia ut quadratum ve· = —- a p d y — 2 a ο hinc
+locitatis et vis centripeta = 2„ et (164.) erit* unde fit (158) v v .- y ¹² d P - y ¹¹ ““ ¹
+
+8 —C2q2dp ,ἀ , ὴΞῑΞ-οῑςῖγῦἀρ verbhabeturvdv=(¹—¹3)„-²-²-9-y,atqueide6
+§7¹ -ἑ, 3112·ss sd y, ι eoque υ — a p 3 d y , pro corporis descensu (158) J-Q
+
+2 ks 2 k s c 2 2 == d ·- d
+et ΒΑΓ-ἴε p =L. 21³³de Ι); an—(2a-na)4s—}yJ-e''y·
+capiantur utrinque fluxiones, sacta d y constante, ἰ’ —y-n-ZTT‘- - “——Jffl’
+et fiet (26) 2 kbd S (= ’ζῇ-ἓξὲξ) et pro ascensu r = Q?
+ndy ddp ssdp , . , y PT x
+= y -1- d p - p (notum ΜΙΡΡθῐΠ· resrstentla igitur est semper ut-l—sC-ff-issx 3 ΡΟΥΥΟ
+mus (40), quantitatis cujusvis logarithmicae L. z est (per Hyp.) r=k v 2= ρ ἲ μή = <2 a-na)><
+fluxionem esse Q). Hinc vero habetur 2 k S b b y ἦ· ’
+. z dy dy Mynyssey,vel.-(na—2a)vyny4—1ey
+=L.y¹¹-}-L.dp—5L.p—L.—‘,ubi—, θ’ y
+. . , . 2135 Q quare erit medii densitas k, ut ν y y2- e y
+
+est quantitas constans, ideoque snt -ῑ- = L.y ¹¹ y
+-Ι- L· ΞΗ- L· p 3 = L. Q,— y '³ il p, et hinc seu ut PPCTz· Et simili modo in ellipsi et hy-
+
+Qs ᾱᾶ n d ι P ³ d y . ’ perhola invenitur medii densitas ut P ΤΞ. At
+h υ = y ——93 aequatio ad trajectonam· P C
+
+ 
+
+³ d
+167. δἐὴξῖ. S)i curva V P Z sit sectio conica
+cujus umbilicus C axis major c semiaxis minor e,
+
+eey
+
+erit (276. Lib. 1.) pro ellipsi p p = c — y
+
+ 
+
+‚ pro
+
+e e y
+c ÷ y'
+rectum axis dicatur 4 e, erit (per Lem. XIV.
+Lib. Ι.) p p = e y. Unde facile est superioris
+Problematis solutiones ad sectiones conicas trans-
+ferre. Sit V P Z parabola, vis centripeta g =
+
+ 
+
+hyperbola p p = et pro parabola, si latus
+
+ 
+
+2
+ᾖ, resistentia r = k ἶ) , et quaeratur tum cor-
+
+in circulo fit P T = o, ideoque medii densitas
+et resistentia nulla. Evanescit quoque resisten—
+tia, si n ,τε- 2, id est, si vis centripeta sit ut qua·
+dratum distantiae reciproce. quo casu sectiones
+conicae, ut Lib. I. demonstratum est, in medio
+non resistente describuntur. Si n est numerus
+binario minor, sectiones comcae per descensum
+describi possunt3 per ascensum vero si n, binario
+major. Tandem ubi est n = l, hoc est, vis cen-
+tripeta distantiae P C, reciproce proportionalis,
+velocitas in parabola sicut et in spirali logarith
+mica uniformis est.
+

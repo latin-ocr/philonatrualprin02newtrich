@@ -1,0 +1,78 @@
+128
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. Conpon.
+
+SECTIO V.
+
+De densitate et compressione fluidorum, deque lzydrostaticci. (³¹²)
+
+Definitio Fluidi.
+
+Fluidum est corpus omne, cujus partes cedunt vi cuicunque illatae, et cedendo
+
+facile moventur inter se.
+
+PROPOSITIO XIX.
+
+THEOREMA XIV
+
+Raida· homogenei et immoti, quod in vase quocunque immoto clauditur et
+undique comprimitur, partes omnes ( seposita condensationiS‚ gravitatis,
+et virium omnium centripetarum consideratione) aequaliter premuntur un-
+dique, et sine ,omni motu a pressione illa orto permanent in locis suis·
+
+C'as. 1. In vase sphaerico A B C claudatur et uniformiter comprimatur
+fluidum undique: dico quod ejusdem pars nulla ex issa pressione movebi-
+
+tur.
+
+Nam si pars aliqua D moveatur, necesse est ut omnes hujusmodi
+
+partes ad eandem a centro distantiam undique consistenteS, simili motu
+
+(³⁵¹) 168. Hydrostatica' est scientia pressionum
+quas fluida vel ipsorum partes in se mutuo vel
+in corpora solida exercent.
+
+169. Fluidum lzomogeneum dicitur, cujus
+densitas est uniformis, adeo ut nimirum aequalis
+materiae quantitas sub voluminibus aequalibus
+ubique per totam fluidi massam contineatur,
+fluidum heterogeneum appellatur cujus densitas
+uniformis non est·
+
+170. Gravitas specifica corporis est ratio pon-
+deris ejusdem ad volumen; ita ut corpora ejus-
+dem gravitatis specificae dicantur quae sub aequa-
+libus voluminibus aequale pondus habent; spe-
+cifice graviora vel leviora quae sub aequalibus
+voluminibus majus vel minus pondus continet;
+quare cum densitas sit ratio massae ad volu-
+men corporis (2. Lib. Ι.) ubi pondera sunt ut
+massae, gravitates specificae sunt ut densitates
+
+171. Lemma. Presstones quas corpora quoevis
+in se motu& exercent, fiuntjuoetd directiones com-
+muni plano contingenti perpendiculares, et per
+punctum contingentiae eorumdem corporum tran·-
+
+muggrpus N vi qualibet secundum directionem
+
+F C urgeatur, tangatur-que in D a corpore M3
+’ producatur F C ut plano A B quod utrumque
+corpus contingit in D occurrat in H, dueta per
+
+D recta D C ad planum A B perpendiculari,
+vis* qua corpus N urgetur, exnonatur per lineam
+C H, et haec (per Leg. Mot. Cor. 9.) resolvi
+poterit in vires aequipollentes C D et D H. Sed
+
+ 
+
+corpus M minim& premitur vi D H secundum
+directionem plani contactus agente; quare sola
+vi C D ad planum A B normali et per punctum
+contact0s D transeunte premitur. Q. e. d.
+

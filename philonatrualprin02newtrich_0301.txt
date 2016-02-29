@@ -1,0 +1,97 @@
+L1BERSECUND.] PRINCIPIA MATHEMATICA. 289
+
+autem temporibus itus et reditus unius eundo latitudines suas conficiunt,
+hoc est, spatia temporibus proportionalia percurrunt3 et propterea sunt
+aequiveloceS.
+
+Cas· 3. In mediis igitur densitate et vi elastica paribuS, pulsus omnes
+sunt aequiveloces. - Quod si medii vel densitas vel vis elastica intendatur,
+quoniam vis motrix in ratione vis elasticae, et materia movenda in ratione
+densitatis augetur 3 (t) tempus, quo motus iidem peragantur ac prius,
+‚ augebitur in subduplicata ratione densitatis, ac diminuetur in subduplicafffi
+
+ratione vis elasticae.
+
+Et propterea velocitas pulsuum erit in ratione com-
+
+posita ex ratione subduplicata densitatis medii inverse et ratione subdu-
+
+Q. e. d.
+
+plicata vis elasticae directe.
+
+Haec Propositiopulterius patebit ex constructione sequenti.
+
+PROPOSITIO XLIX. PROBLEMA XI.
+
+Datis medii densitate et vz' elastz‘cd, invenire velocitatem pulsuum.
+
+Fingamus medium ab incumbente pondere pro more a'eris nostri com-
+primi ς sitque A altitudo medii homogenei, cujus pondus adaequet pondus
+incumbenS, et cujus densitas eadem sit cum densitate medii compressi, in
+
+quo pulsus propagantur. Constitui
+
+(t) Tempus, quo motus iidem peragantur, &c-
+Tempus quo motus per aequalia spatia peragun-
+tur est in ratione composita ex subduplicata ra-
+tione materiae movendae directe et subduplicata
+ratione vis metricis inverse (per Cor. 5. Prop.
+XXIV.) ide6que in hoc tertio casu, tempus,
+manente spatio descripto, augebitur in subdupli-
+cata ratione densitatis, ac diminuetur in subdu-
+plicata ratione vis elasficae, et propterea velocitas
+quae est ut spatium directe et tempus inverse,
+(ob datum spatium per Hyp.) erit in ratione
+composita ex ratione subduplicata densitatis me-
+dii inverse, et ratione subduplicatfi vis clasticae
+directe3 sed datis medii densitate et vi clasticfi,
+velocitas pulsuum, utcumque varietur spatium,
+data est, (per Cas. 1. et 2.) ergo velocitas pul-
+suum erit semper in ratione composita ex ratione
+subduplicata densitatis medii inverse et ratione
+subduplicata vis elasticae directe.
+
+318. Ex hac Propositione patet cur soni om·-
+nis generis, gravis et acutus, intensus et remis-
+sus, pari velocitate in eodem ae're propagentur.
+Nam sonorum diversitas, quoad grave et acutum,
+a nurnero pulsuum qui in aete tempore dato ex-
+citantur, pendet 5516) ; at (per hanc Prop.)
+pulsus akiris, seu p ures seu pauciores dato tem-
+pore producantur, eadem semper velocitate dif-
+funduntur et dato tempore datum spatium con-
+
+VoL. 11. T
+
+autem intelligatur pendulum, cujus
+
+ficiunt: soni ver& in eodem ae‘re producti eo in-
+tensiores sunt, manente tono, quo majus est spa-
+tium quod a'e‘ris particulae eundo et redeundo
+describunt dato tempore; ut si chorda musica
+validius pulsetur, majores vibrationes dato tem-
+pore peragit, majoresque oscillationes particula-
+rum a'e'ris excitat, et sonus intensior percipitur,
+licet tonus idem maneat et proinde pulsuum la-
+titudo ac velocitas non mutentur. Cum ergo
+tanta sit velocitas lucis ut per atmosphaeram in
+instanti quoad sensum propagetur (per schol. ad
+Prop. XCVI. Lib. I.) ; si sonus et lux eodem ³
+puncto temporis excitentur, uti in machinis bel-
+licis flamma et fragor producuntur simul, et spec-
+tator spatium quo a corpore resonante distat,
+tempusque quod inter luminis et soni percep-
+tiones intercedit, dimediatur, soni velocitas in-
+notescet. Atque eo modo in variis regionibus
+varia observata est velocitas soni, etin Anglia ea
+celeritate ferri, Flamstedio et Halleyo visum est,
+qua pedes Londinenscs plus minus 1142, Pari·
+sienses verb 1070, tempore minuti unius secun.
+di percurreret. Quia ver-‹³› densitas et vis elasti-
+ca a‘e'ris in variis Terrarum locis, diversisque anni
+tempestatibus in eodem loco mutantur, inde
+quoque mutari oportet soni velocitatem. Diu
+creditum est, observantibus Mersenno, Gassen-
+do, et Academicis Florentinis, sonum neque
+

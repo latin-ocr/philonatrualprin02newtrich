@@ -1,0 +1,70 @@
+196 PHILOSOPHIAE NATURALIS [Mor. CORPOR.
+
+duobus A et B, et altera duo F et G in tertio C ; sitque velocitas corporis
+D ad velocitatem corporis E, et velocitas corporis F ad velocitatem cor-
+
+poris G in subduplicata ratione virium T ad vires V: resistentia corporis
+D erit ad resistentiam corporis E, et resistentia corporis F ad resistentiam
+corporis G, (¹⁷) in velocitatum ratione duplicata; et propterea resistentia
+corporis D erit ad resistentiam corporis F ut resistentia corporis E ad
+resistentiam corporis G. Sunto corpora D et F aequivelocia ut et corpora
+E et G3 et augendo velocitates corporum D et F in ratione quacunque,
+ac diminuendo vires particular-um medii B in eadem ratione duplicata,
+(g) accedet medium B ad formam et conditionem medii C pro lubitu, et
+idcirco resistentiae corporum aequalium et aequivelocium E et G in his
+mediis, perpetuo accedent ad aequalitatem, ita ut earum differentia evadat
+tandem minor quam data quaevis. Proinde cum resistentiae corporum D
+et F sint ad invicem ut resistentiae corporum E et G, accedent etiam hae
+similiter ad rationem aequalitatis. Corporum igitur D et F, ubi velocis-
+sime moventur, resistentiae sunt aequales quam proxime ε et propterea cum
+resistentia corporis F sit in duplicata ratione velocitatis, erit resistentia
+corporis D in eadem ratione quam proxime.
+
+(¹¹) Corol. 3. Corporis in fluido quovis elastico velocissime moti eadem
+fere est resistentia ac si partes fluidi viribus suis centrifugis destituerentur,
+seque mutuo non'fugerent: si modo fluidi vis elastica ex particularum
+viribus centrifugis oriatur, et velocitas adeo magna sit ut vires non habeant
+satis temporis ad agendum. ὅ
+
+Corol. 4. Proinde cum resistentiae similium et aequivelocium corporum,
+in medio cujus partes distantes se mutuo non fugiunt, (¹) sint ut qua·
+drata diametrorum ; sunt etiam aequivelocium et celerrime motorum
+corporum resistentiae in fluido elastico ut quadrata diametrorum quam
+proxime.
+
+Corol. 5. Et cum corpora similia, aequalia et aequivelocia, in mediis
+ejusdem densitatiS, quorum particulae se mutuo non fugiunt, sive particulae
+illae sint plures et minores, sive pauciores et majores, in aequalem materiae
+
+quantitate-m temporibus aequalibus impingant, eique aequalem motus
+
+D movetur se fugiunt, qualiscumque supponi-
+
+(ἲ) * In velocitatum ratione duplicatd. (Ex
+tur; corporum D et F ubi velocissime moventur,
+
+demonstratis initio Corol. hujus.)
+
+(⁸) ²* Accedat medium B, διε. Si enim velo-
+citates corporum D et F, quam maxime auge-
+rentur vires particularum medii B, manentibus
+viribus medii A et velocitate corporis E quam
+maxime decrescerent, quia est semper vis medii
+A ad vim medii B ut quadratum velocitatis cor-
+poris D ad quadratum velocitatis corporis E.
+
+(¹¹) ¹* Corollarium 3. Patet per Cor. 2. in
+
+quo vis T, qua particulae medii A in quo corpus-
+
+resistentiis manentibus aequalibus quam proxime,
+licet medii C in quo corpus F movetur, particu-
+1ae viribus centrifugis prorsus destituantur. Pa-
+tet etiam ex eo quod supponatur vires non habere
+satis temporis ad agendum, unde casus redit ad
+eum in quo vires illae nullae sunt.
+
+(¹) ⁹¹⁵ Sint ut quadrata diametrorum. Per 2.
+partem dem. Prop. hujus, ob datas corporum
+velocitates et medii densitatem datam.
+

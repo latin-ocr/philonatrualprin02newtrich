@@ -1,0 +1,60 @@
+mesecusn] PRINCIPIA MATHEMATICA. · ' 179
+
+quibus data motus pars amitteretur. Tabularum subsequentium prior
+exhibet numerum oscillationum quibus pars octava motus totius cessa-
+vit: secunda numerum oscillationum quibus ejusdem pars quarta amissa
+
+fuit.
+
+Descensus primus 1 2 4 8 16 32 64
+Ascensus ultimus ἐ 2} 37}- 7 14 28 56
+Numerus oscillat. 226 228 193 140 9οὲ 53 30
+
+Descensus primus > 1 2 4 8 16 .32 64
+Ascensus ultimus ἓ, Ιὲ 3 6 12 24 48
+Numerus oscillat. 510 518 420 318 204 121 70
+
+In tabula priore seligendo ex observationibus tertiam, quintam et sep-
+timam, et exponendo velocitates maximas in his observationibus particu—
+
+latim per numeros 1, 4, 16 respective, et generaliter per quantitatem V
+1
+
+ut supra: &merget in observatione tertia ἐξ = A -Ι- Β’ -Ι- C, in quinta
+
+53=4A÷SB÷16Qinseptim3335= 16A ÷e4ss÷256G
+Ξ
+
+Hae vero aequationes reductae dant A = 0, 001414, B: 0, 000297,
+C = 0, 000879. Et inde prodit resistentia globi cum velocitate V moti
+
+in ea ratione ad pondus suum unciarum 26ὲ, quam habet 0, 0009 V -Ι-
+
+0, 000208 V} ÷ Ο, 000659 V ² ad penduli longitudinem 121 digitorum.
+. Et si spectemus eam solummodo resistent-iae partem quae est in duplicata
+ratione velocitatis, haec erit ad pondus globi ut 0, 000659 V 2 ad 121 di-
+gitos. Erat autem haec pars resistentiae in experimento primo ad pondus
+globi lignei unciarum 572⁷& ut 0, 002217 V ² ad 121 ε (²) et inde fit resis-
+tentia globi lignei ad resistentiam globi plumbei (paribus eorum velocita-
+tibus) ut 573⁷? in 0, 002217 ad '26ss in 0, 000659, id est, ut 73 ad 1. Dia-
+metri globorum duorum erant 6} et 2 digitorum, et harum quadrata sunt
+ad invicem ut 47ὲ et 4, seu 112175} et 1 quamproxime. Ergo resistentiae
+globorum aequivelocium erant in minore ratione quam duplicata diame-
+trorum. (a) At nondum consideravimus resistentiam fili, quae certe per-
+
+(z) Et inde-fit resistentia. Est enim (ex (ἔξω.) (²) 184. At nondum consideravimus, &c-
+0, 0022!
+
+ 
+
+ 
+
+resistentia globi lignei 573⁷}- Χ ¹2¹ ; et PROBLEM Α.
+
+resistentia globi plumbei 26} >< 0’0f201659, ide6- 1²¹3 ῐθῐὲῧῑζζθῑᾷὲζζξῑζῃζ ‘fssstemfam {11‘'.‘³¹¹³¹.“? ³? 330·
+que resistentia globi lignei ad resistentiam globi nigtrilglobi quadrag!cgszltiltliltxcfftgcltaus e la-
+Plumbei ut 5727? Χ 0² 002217 ad 25} Χ Filum cylindricum homogeneum A B, circa
+o,000659 id est, 77} ad 1. - punctum A, oscilletur‚ sitque ejus longitudo
+
+M2
+

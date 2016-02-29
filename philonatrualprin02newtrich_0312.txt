@@ -1,0 +1,102 @@
+300 PHILOSOPHIAE NATURALIS [Moruconpon.
+
+rentiarum, (θ) hoc est, motus toti angulareS, ut respondentes summae linea-
+rum A a, B b, C e, D d, E e, id est, si ad constituendum medium unifor-
+
+miter fluidum, orbium numerus
+augeatur et latitudo minuatur in
+infinitum, ut areae hyperbolicae his
+summis analogae A a Q, B b Q,
+CcQ, Dd Q, EeQ, διο. Et
+(f) tempora motibus angularibus
+reciproce proportionalia erunt
+etiam his areis reciproce propor-
+tionalia. Est igitur tempus perio-
+dicum particulae cujusvis D reci-
+proce ut area D d Q, hoc est
+(per notas curvarum quadraturas)
+(g) directe ut distantia S D.
+Q. e. d.
+
+(¹²) Corol. 1. Hinc motus angulares particularum fluidi sunt reciproce
+
+ut ipsarum distantiae ab axe cylindri, et velocitates absolutae sunt
+aequales.
+
+Corol. 2. Si fluidum in vase cylindrico longitudinis infinitae continea-
+
+ 
+
+tur, et cylindrum alium interiorem contineat, revolvatur autem cylindrus
+uterque circa axem communem, sintque revolutionum tempora ut ipso-
+
+rum semi-diametri, et perseveret fluidi pars unaquaeque in motu suo:
+
+DE
+
+(e) *¹ Hoc est, motus toti angulares. Quo-
+
+ 
+
+niam solo cyIIndri A F L impulsu agitur flui-
+dum in urbem (per Hyp.)‚ necesse est ut motus
+angularis partium fluidi, crescente earum distan-
+tia ab axe cylindri, continuo decrescat, ac tandem
+ad distantiam infinitam evanescat. Unde motus
+totus angularis puncti A seu orbis A F L est
+omnium maximus, et motus totus angularis
+puncti cujuslibet C aequalis est summae omnium
+differentiarum motuum angularIum punctorum
+D, E et sequentium in infinitum (106. Lib. 1.);
+ideoque motus toti angulares sunt ut responden-
+tes summae linearum A a, B b, C c, D d, E e,
+&c- in infinitum.
+
+(f) ³¹⁶ 528. Tempora periodica motibus angu-
+laribus reciproc& proportionalia. Motus angu-
+lares sunt ut anguli descripti directe et tempora
+quibus describuntur inverse (526) 3 et propterea
+si anguli descripti capiantur aequales quatuor
+rectis, ut totus circulus describatur et tempora
+fiant temporibus periodicis aequalia, motus an-
+gulares erunt ut tempora periodica inverse.
+
+proportionalem, momentum illud est ut S D 2,
+
+et (per Cas. 4. Lem. 11. Libri hujus) area
+
+D d Q, est ut -S-lss quae quantitas negativa
+
+prodit, quia area D d Q abscissae D S non ad-
+jacet, sed ad partes contrarias vergit in infinitum.
+
+Est igitur tempus periodicum particulae cujus-
+1
+
+SD’
+
+ 
+
+vis D reciproce ut hoc est, directe ut
+
+SD.
+
+(¹¹) ⁴* Corol. 1. Ex demonstratis, motus an·
+gulares partium fluidi sunt reciproce ut tempora
+periodica, hoc est, reciproce ut illarum distantiae
+ab axe cylindri. Velocitates ver& absolutae, ut
+pote uniformes, sunt ut circumferentiae descrip-
+tae, seu ut distantiae ab axe cylindri directe et
+tempora periodica inverse, hoc est, 'ut distantiae
+directe et distantiae inverse, ide6que sunt in ra—
+tione aequalitatis. Hinc vero (per Cor. 5. Prop.
+1V. Lib. 1.) vires centrifugae particularum
+
+(g) ¹* Direct& ut distantia S D. Areae D d Q aequalium fluidi sunt reciproce ut ipsarum dis-
+
+momentum est D d >< D E; et ideo, ob ordi-
+natam D d quadrato abscissae S D reciproce
+
+tantiae ab axe cylindri; et propterea vis qua tota
+superficies cylindrica nititur ab axe cylindri rc-
+

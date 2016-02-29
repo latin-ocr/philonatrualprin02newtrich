@@ -1,0 +1,83 @@
+’ ιιΒΕΒ simum] PRINCIPIA MATHEMATICA. 219
+
+signavimus, non solum ratione colligitur, sed etiam per experimenta no-
+tissima jam descripta manifestum est.
+
+, Cas. 5. ’ Eadem est aquae effluentis velocitas, sive figura foraminis sit
+circulariS, sive quadrata vel triangularis aut alia quaecunque circulari
+aequalis. Nam velocitas aquae effluentis non pendet a figura foraminis,
+sed oritur ab ejus altitudine infra planum K L.
+
+Cas. 6. Si vasis A B D C pars in-
+ferior in aquam stagnantem immergatur
+et altitudo aquae stagnantis supra fun-
+dum vasis sit G R: velocitas quacum
+aqua quae in vase est, effluet per foramen
+E F in aquam stagnantem, ea eritquam
+aqua cadendo et casu suo describendo
+altitudinem I R acquirere potest. Nam
+pondus aquae omnis in vase quae inferior
+est superficie aquae stagnantis, substine-
+bitur in aequilibrio per pondus aquae ι
+stagnantis, ideoque motum aquae descendentis in vase minime accelerabit.
+Patebit etiam et hic casus per experimenta, (¹³) mensurando scilicet t-em-
+pora quibus aqua effluit.
+
+(⁰) Corol. 1. Hinc si aquae altitudo C A producatur ad K, ut sit A K
+ad C K in duplicata ratione areae foraminis in quavis fundi parte facti,
+
+ 
+
+ad aream circuli A B: velocitas aquae effluentis aequalis erit velocitati
+quam aqua cadendo et casu suo describendo altitudinem K C acquirere
+potest.
+
+(d) Corol. 2. Et viS, qua totus aquae exilientis motus generari potest,
+
+(⁵) ¹* Mensurando scilicet tempora quibus
+aqua effluit, et quantitates aquae iisdem tempori-
+bus effluentia
+⁷ (⁰) ⁸* Corol. 1. Patet per not. 275. et cas. 2.
+ac 5.
+
+’ (⁰) ’¹‘ Corol. 2. De hujus Corollarii veritate
+dih multumque disputatum est inter Comitem
+Riccatum, Danielem Bernoullium, Petrum An-
+tonium Michelottum, J acobum J urinum, alios-
+que eruditissimos viros. Cum enim in prima
+Principiorum editione,‘Newtonus, nondum ob·
+servata contractione venae, statuisset, vim qua
+totus aquoe exilientis motus generari potest,
+aequalem esse ponderi cylindricae columnae aquae,
+cujus basis est foramen E F, et altitudo G 1, et
+in secunda editione, habita ratione venae con-
+tractae, vim illam duplam fecisset, priorem vis
+‘illius mensuram adversus Comitem Riccatum et
+J urinum tuebatur cum Michelotto Daniel Ber-
+noullius, quorum Dissertationes videre est in
+Exercitationibus Mathematicis quae an. 1724.
+
+ό
+
+Venetiis editae sunt. Verum Daniel Bernoul-
+lius paragr· 9. Sect. XIII. Hydrodynamicae
+posteriori sententiae Newtoni ita suffragatur:
+“ Ista sententia a me olim et ab aliis fuit im-
+pugnata, ab aliis rursus confirmata. Nunc au-
+tem postquam hanc aquarum motarum theoriam
+meditatus sum, lis ita dirimenda mihi videtur ut
+cum aquae ad motum uniformem pervenerint,
+quae quidem hypothesis est Newtoni, tunc recte
+altitudine 2 G 1, vis illa definiatur, sed abinitio
+fluxus, ubi velocitas adhuc nulla est, vis simplici
+altitudini G I respondeat, moxque crescente
+velocitate, simul vis aquam ad effluxum animans
+crescat, et tandem ad eam magnitudinem exsur-
+gat quam Newtonus assignavit ..... Recte etiam
+ill. Riccatus, cum quo mihi de hoc argumento
+res erat, interrogatus, unde vis illa duplae aqua-
+rum altitudini conveniens oriri possit, cum ob-
+turato orificio, gutta eidem imminens vi simpli-
+cis altitudinis urgeri manifeste appareat, respon-
+dit distinguendum esse statum quietis a statu
+

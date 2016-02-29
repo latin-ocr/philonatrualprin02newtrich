@@ -1,0 +1,85 @@
+PHILOSOPHIAE NATURALIS
+
+156 [Mor. Gomon..
+
+simae iisdem temporibus peraguntur ac in medio non resistente, quam
+proxime. Earum ver6 quae in majoribus arcubus fiunt, tempora sunt
+paul6 majora, (d) propterea quod resistentia in descensu corporis qua
+tempus producitur, (e) major sit pro ratione longitudinis in descensu
+descriptae, quam resistentia in ascensu subsequente qua tempus contrahi-
+tur. Sed et tempus oscillationum tam brevium quam longarum nonnihil
+produci videtur per motum medii. (f) Nam corporibus tardescentibus
+pau16 minus resistitur, pro ratione velocitatis, et. corporibus acceleratis
+pauli) magis quam iis quae uniformiter progrediuntur: idque quia medium,
+eo quem a corporibus accepit motu, in eandem plagam pergendo, in priore
+casu magis agitatur, in posteriore minus3 ac proinde magis vel minus cum
+corporibus motis conspirat. Pendulis igitur in descensu magis resistit,
+in ascensu minus quam pro ratione velocitatiS, et ex utraque causa tempus
+
+producitur.
+
+PROPOSITIO XXVIII. THEOREMA XXIII.
+
+Si corpori funependulo in cycloide oscillantz' resistitur z‘n ratione momento-
+rum temporiS, erit ejus resistentia ad vim gravitatis ut excessus arctis
+descensu toto descripti supra arcum ascensu subsequente descriptum, ad
+penduli longitudinem duplicatam.
+
+Designet B C arcum descensu descriptum, (ζει arcum ascensii descrip-
+tum3 et A a differentiam arcuum: et stantibus quae in Propositione XXV.
+
+= T ÷ x: T -Ι- y, unde per compositionem
+rationum invenitur v² A B — m v A A B --
+
+vaBB÷m2AABB(siveV2-A‘BT-x‘n‘v“m'f3
+><1-¹-¹¹-33-)adv²AB-va2B= Τ·
+
+Τ -ξ- y, itaque in primo termino neglecto — Ἓξ
+
+(quod infinite parvum supponitur ob exiguitatem
+arcus B ut et quantitatis m respectu v) fiet
+v²AB-vaAB:v²AB-vaAB=.-T:T·{··y;
+est ergo T = T -ᾗ- y, sive tempus in medio non
+resistente idem ac 111 medio resistente quam pro-
+xime.
+
+Sed oscillatioues in medio non resistente sunt
+isochronae, hinc ergo oscillationes breviores in
+medio resistente ad has quam proxime accedentes
+caeteris sunt magis isochronae. Q. ε. d.
+
+(d) ⁴* Propterea quod resistentia in descensu,
+διο. Quo major est resistentia, e6 minor fit,
+caeteris paribus corporis descendentis velocitas,
+et ide6, manente descensus longitudine, tempus
+per resistentiam producitur3 et contra, qu6 ma-
+jor est resistentia, 06 citius extinguitur velocitas
+corpori insita in ascensu.
+
+(⁶) '¹‘ Major sit pro ratione longitudinis. Lon-
+gitudo in descensu descripta semper major est
+quam longitudo descripta in ascensu subsequente,
+si medium resistit ; cum longitudinesfillae in me-
+dio non resistente sint aequales (92. Lib. 1. ).
+
+(f) ²* Nam corporibus tmdesccnfibus, seu quo-
+rum velocitas continuo decrescit, ut fit in corpo-
+rum ascensu, paulo minus resistitur, pro ratione
+velocitatis3 et corporibus acceleratis, seu descen-
+dentibus, paulo magis resistitur quam iis quae
+uniformiter progrediuntur. In priore enim casu,
+medium eo quem a corporibus accepit motu,
+quemque aliquandiu ob inertiam materiae con-
+servat, in eamdem plagam pergit cum corporibuS,
+et ob validiorem ab initio motus continue de·-
+crescentis acceptam impressionem magis agitatur,
+ac proinde magis conspirat cum corporibus motis,
+minoremque iis resistentiam objicit. At in se-
+cundo casu cum motus perpetuo acceleretur,
+medium ex prioribus ictibus non satis velocem
+motum accepit, et ide6 ejirs celeritas novis im-
+pulsibus continuo augenda est ut possit cum
+corporibus motis conspirare; hincque corporibus
+acceleratis resistit magis quum uniformiter pro-
+gredientibus Pendulis igitur in descensu magis
+

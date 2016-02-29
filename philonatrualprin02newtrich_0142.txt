@@ -1,0 +1,49 @@
+130 ’ PHILosoPfflAE NATURALIs [Mor. Gomon.
+
+fluidi cujuscunque G H Ι, quod undique premitur aequaliter, partes omnes
+se mutuo premunt aequaliter, et quiescunt inter se. Q. e. d.
+
+Cas. 6. Igitur si fluidum illud in vase non rigido claudatur, et undique
+non prematur aequaliter3 cedet idem pressioni fortiori, per Definitionem
+Fluiditatis.
+
+Cas. 7. Ideoque in vase rigido fluidum non sustinebit pressionem for-
+tiorem ex uno latere quam ex alio, sed eidem cedet, idque in momento
+temporis, quia latus vasis rigidum non persequitur liquorem cedentem.
+Cedendo autem urgebit latus oppositum, et sic pressio undique ad aequa-
+litatem verget. Et quoniam fluidum, quam primum a parte magis pressa
+recedere conatur, inhibetur per resistentiam vasis ad latus oppositum ; re· ⁴
+ducetur pressio undique ad aequalitatem, in momento temporis, sine motu
+locali: et subinde partes fluidi, per Casum quintum, se mutuo prement
+aequaliter, et quiescent inter se. Q. e. d.
+
+Corol. Unde nec motus partium fluidi inter se, per pressionem fluido
+ubivis in externa superficie illatam, mutari possunt, nisi quatenus aut figu-- q
+ra superficiei alicubi mutatur, aut omnes fluidi partes intensius vel remis· “
+sius sese premendo difficilius vel facilius labuntur inter se.
+
+” PROPOSITIO XX. THEOREMA XV.
+
+(b) Si fluidi sphoerici, et in aequalibus a centro distantiis homogenei‚ fundo
+sphaerico comentrico incumbentis partes singulae versus centrum totius gra-
+
+vitent <; sustinet fundum pondus cylindri, cujus basis aequalis est superficiei
+fundi, et altitudo eadem quce fluidi incumbentis. ⁴
+
+Sit D H M superficies fundi, et A E I superficies superior fluidi.
+Superficiebus sphaericis innumeris B F K, C G L distinguatur fluidum
+in -orbes concentricos aequaliter crassos3 et concipe vim gravitatis agere·
+solummodo in superficiem superiorem orbis cujusque, et aequales esse
+actiones in aequales partes superficierum omnium. Premitur ergo super-
+
+ficies suprema A E vi simplici gravitatis propriae, qua et omnes orbis su-
+
+(b) 172. Si fluidi sphaerz'ci, &a Fluidi quie· lelam et, (ex Definitione) fluidum secundnm hanc
+scentis superficies ad gravitatis directionem per- directionem movebitur, contra Hyp. Erit igi-
+pendicularis est ubique, et ideo si vis gravitatis tur pars quaelibet superficiei ad gravitatis direc-
+ud centrum unum dirigatur, sphaerica est. si tionem perpendicularis: et quoniam nulla est alia
+enim superficiei fluidi pars aliqua ad gravitatis superficies, praeter sphaericam, quae hanc habeat
+directionem inclinata sit, resolvatur vis gravitatis proprietatem, ut lineoe vomnes ipsi perpendicula-
+in duas vires. quarum una directionem habeat res ad centrum unum concurrant, superficies illa
+superficiei fluidi perpendicularem, altera paral- fluidi sphaerica erit. Q. e· d.
+

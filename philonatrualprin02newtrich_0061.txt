@@ -1,0 +1,63 @@
+Lmen Secutum] PRINCIPIA MATHEMATICA. 49
+
+esse cum methodo Slusii tum nondum communicat& 3 subjunxi: Hoc est
+unum particulare vel Corollarium potius methodi generalis, quoe extendit se
+citra molestum ullum calculum, non modo (¹²) ad ducendum tangentes ad quas-
+vis curvas sive geometricas sive mechanicas vel quomodocunque rectas lineas
+
+’ aliasve curvas respicienteS, verum etiam ad resolvendum alia abstrusiora proble-
+
+matum genera de (⁰) curvitatibus, (P) areis, longitudinibus, (q) centris gravi-
+tatis curvarum, ‘3⁶0- neque (quemadmodum Huddenii methodus de maximis et
+minimis) ad solas restringitur aequationes illas quce quantitatibus surdis sunt
+immunes. Hanc methodum intertexui alteri isti qud aequatz‘onum exegesin
+instituo reducendo eas ad series irffinitas. Hactenus epistola. Et haec ul-
+tima verba spectant ad tractatum quem anno 1671. de his rebus scripse· η
+ram. Methodi vero hujus generalis fundamentum continetur in Lemmate
+
+praecedente. (†)
+
+. PROPOSITIO vm. THEOREMA VI.
+
+Si corpus in medio uniformi, gravitate uniformiter agente, recta ascendat vel
+descendat, et spatium totum descriptum distinguatur in partes oequales,
+inque principiis singularum partium (addendo resistentiam medii ad vim
+gravitatiS, quando corpus ascendit, ’er subducendo ipsam quando corpus
+
+Ὃ ’ descendit) investigentur vires absolutoe; dico quod vires illae absolutce sunt
+
+in progressione geometricd.
+
+Exponatur enim vis H
+gravitatis per datam li-
+neam AC 3 resistentia per
+lineam indefinitam A K3
+vis absoluta in descensu
+corporis per differentiam
+K C; velocitas cotjporis
+per lineam A¹ P, quae sit
+
+  
+
+Δ media proportionalis in· C · Ι K I A 1 k 1 ‘1 P
+
+(¹¹) 0 Ad ducendum tangentes (150. 156. (q) ¹* Centris gravitatis. (66. Lib. Ι.)
+
+⁷ Lib. Ι.) vide Marchionis Hospitalii Analysim (†) In praecedentibus editionibus istud scho-
+
+infinite patvorum, ubi methodus issa tangentium lium hoc modo se habebat.
+
+fuse et perspicue exponitur. , In litteris quae mihi cum geometra peritissimo
+(⁰) * De cuv-vitatibus. (216. Lib. Ι.) G. G. Leibnitio annis abhinc decem ‘intercede-
+(Ρ) ’“ Areis, longitudinibus, διε. Haec plurimis bant, cum significarem me compotem esse me-
+
+exempns, tum 10· tum 20· libro contentis mani· thodi determinandi maxima et minima³ ducendi
+
+ι, ξ).
+{³
+
+fest} sunt. Vide tractatum Newtoni de quadra· tangentes, et similia peragendi, quae in terminis
+tura curvarum. surdis aeque ac in rationalibus procederet, et
+
+von. ΙΙ. D
+

@@ -1,0 +1,50 @@
+e *a* -π r· *affirm* μγ
+
+lem SECUND] PRINCIPIA ΜΑΤΗΕΜΑΤΙΟΑυ 13
+
+PROPOSITIO Ι. THEOREMA I.
+
+Corpori8‚ cui resistitur in ratione velocitatis, motus ex resistentia amissus
+est ut spatium movendo consectum.
+
+Nam cum motus singulis temporis particulis aequalibus amissus sit ut
+velocium, hoc (²².) est, ut itineris confecti particula, erit, componend0‚ mo-
+tus toto tempore amissus ut iter totum. Q. e. d.
+
+Corol. Quare si corpus, gravitate omni destitutum, in (¹³) spatiis liberis
+sola vi insit& moveatur 3 ac detur tum motus totus sub initio, tum etiam ’
+motus reliquus post spatium aliquod confectum: (0) dabitur spatium to-
+tum quod corpus infinito tempore describere potest. Erit enim spatium
+illud ad spatium jam descriptum, ut motus totus sub initio ad motus illius
+partem amissam.
+
+LEMMA Ι.
+
+Quantitates differentiis suis proportionales sunt continue proportionale&
+
+Sit A ad A —- B ut B ad B — C et C ad C —- D, &a et convertendo
+fiet A ad But Β ad Cet Cad D, διο. Q. e. d.
+
+PROPOSITIO Π. THEOREMA 11.
+
+Si corpori resistitur in ratione velocitatis, et idem 30Ζᾶ vi insita per medium
+similare moveatur, sumantur autem tempora aequalia: velocitates in prin-2
+capiis singulorum temporum sunt in progressione geometrica, et spatia sin ι
+gadis temporibus descripta sunt ut velocitates.
+
+Cas, 1. Dividatur tempus in particulas aequales; et si ipsis par-
+ticularum initiis agat vis resistentiae impulsu unic0, quae sit ut veloci-⁴
+
+(²) ²* Hoc est, ut itineris conficti particula ratione velocitatis.) cnm ergo motus ad ex-
+(12) ob datum temporis momentum (ex hyp.) stinctionem usque amissus, sit ipse motus totus,
+
+(b) ⁴* In spatiis liberis, id est, in quibus nul· et motus amissi sint ut spatia movendo confecta
+lum aliud est obstaculum praeter medii resisten- '(per Theor.) erit motus totus ad motfis partem
+tiam velocitati proportionalem. amissam post datum spatium descriptum, ut
+
+(ο) ³* Dabitur spatium totum quod corpus in· spatium ad exstinctionem usque motus descrip-
+fim'to tempore describere potest, hoc est, usque ad tum ad illud datum spatium. Unde liquet spa-
+motus exstinctionem. (Ostendetur autem infra, tium quod corpus ad motus usque extinctionem
+in nota f, infinitum tempus requiri ut motus describit finitum esse, cum datam habeat ratio.
+omnis extinguatur, quando resistitur motui in nem ad spatium finitum.
+

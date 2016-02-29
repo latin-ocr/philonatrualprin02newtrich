@@ -1,0 +1,67 @@
+238 PHILOSOPHIAE NATURALIS [M0T.C0R1>on.
+
+PROPOSITIO XXXIX. THEOREMA XXXI.
+
+Globi, per fluidum in canali cylindrico clausum et compressum uniformiter
+progredientis, resistentia es't ad vim, qud totus ejus motus, interea dum
+octo tertias partes diametri suce describit, vel generari possit vel tolli, in
+ratione quoe componitur ea¹ *ratione ori cii canalis ad excessum hujus ori-
+ficii supra dimidium circuli maximi globi, et ratione duplicatd ori cii
+canalis ad excessum hujus opificii supra circulum maximum globi, et ratione
+densitatis fluidi ad densitatem globi quamproxime.
+
+Patet per Corol. 2. Prop. XXXVII. procedit vero demonstratio
+(a) quemadmodum in Propositione praecedente.
+
+Sclzol ium.
+
+In Propositionibus duabus novissimis (perinde ut in Lem. V.) suppono
+qubd aqua omnis congelatur quae globum praecedit, et cujus fluiditas auget
+resistentiam globi. Si aqua illa omnis liquescat, augebitur resistentia
+aliquantulum. Sed augmentum illud in his Propositionibus parvum erit et
+negligi potest, propterea quod convexa superficies globi totum fere offi-
+cium glaciei faciat.
+
+PROPOSITIO XL. PROBLEMA IX.
+
+Globi, in medio fluidissimo compresso progredientis, invenire resistentiam
+per phaenomena.
+
+Sit A pondus globi in vaCUO, B pondus ejus in medio resistente, D
+diameter globi, F spatium quod sit ad ᾗ D ut densitas globi ad densitatem
+
+ide6que dimidium motum amittet quo tempore longitudinem duarum ipsius diametrorum de-
+percurreret uniformiter octo tertias diametri suae; scripserit. Q. e. d.
+
+sed illud spatium uniformiter percursum est ad
+spatium percursum velocitate per resistentiam
+
+decrescente ut 'Ji-li} (sive -}) ad logarithmum e
+
+tabulis desumptum quantitatis
+
+ 
+
+A B (sive ξ)
+multiplicatum per 250258509, et ille logarith-
+mus est .5010300‚ productum ergo erit .6981,
+
+διε. ideo 1. ad .6931, &a ut} D, ad 1.84852><
+J), quod quidem paulo minus est quam 2 D,
+lde& globus in fluido ejusdem densitatis dimi-
+diam sui motus partem prius describet quam
+
+(³) ²* Quemadmodum in Propositione praece-
+dente. Demonstratio eadem manet, quse in nota
+281. adjungenda tantum haec sunt: resistentia
+autem cylindri est ad hanc vim quam proxime in
+ratione quae componitur ex ratione orificii canalis
+ad excessum hujus orificii supra dimidium αἰνή
+culi maximi globi, et ratione duplicata orificii
+canalis ad. excessum hujus orificii supra circu-
+lum maximum globi, et ratione densitatis flui-
+di ad densitatem globi (per Corol. 2. Prop.
+XXXVII.); et resistentia globi aequalis est
+resistegtiae cylindri, per Lem. V. Vl. VII.
+Q. e. .
+

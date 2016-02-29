@@ -1,0 +1,86 @@
+200
+
+PHILOSOPHIAE NATURALIS [Mor. cosmon.
+
+nuandos aptiores sunt. Ut si base circulari C E B H, quae centro O, ra-
+dio O C describitur, et altitudine O D, construendum sit frustum coni
+
+ 
+
+C B G F, quod omnium eadem basi et altitudine constructorum et secun-
+
+dum plagam axis sui versus D progredientium frustorum minime
+
+vae K B A circa C A geniti erit ad resistentiam
+basis ipsius, seu circuli centro C et radio C K
+descripti, ut solidum ex rotatione figurae K Q H E
+circa C I genitum, ad cylindrum rotatione rec-
+tanguli C K G Ῐ circa eandem C Ι facta descrIp-
+tum. Producatur enim H B ad L, ut sit B L
+= C 13 ex puncto L demittatur ad B D per-
+pendicularis LVD, etex Dad B L perpendicularis
+D M3 et eodem modo quo supra ,(190) patet
+efficaciam particulae medii ad movendum solidum
+totum K B A secundum plagam incidentiae suae
+L B esse ad efficaciam particulae ejusdem secun-
+dum eandem rectam in basim circularem K C,
+perpendiculariter in P ad cylindrum qui rota-
+tione rectanguli C K G I describitur movendum
+
+ 
+
+in plagam eandem, ut est L D 2 ad L B ², seu
+etiam ut est L M ad L B; scd (per constr.)
+C1=LB‚ etobangulum SI C=DBL
+et angulum Ι S C = B D L, est etiam C T seu
+P H = L M; quare solidum quod a rectis
+omuibus P H, occupatur, erit ad solidum quod
+a rectis omnibus P V = C 1, occupatur, aut
+quod idem est, solidum ex rotatione figurae
+C K Q H E circa C 1, erit ad cylindrum cx
+
+rotatione rectanguli C K G 1 genitum, ut re-
+sistentia solidi quod figura C K B A circa C A,
+rotata describit, ad resistentiam baseos circularis
+quam describit recta C K quae eadem est cum
+resistentia cylindri cujuslibet ejusdem basis, quia
+superficies cylindri quam recta K G rotando
+circa A Ι describit, nullam resistentiam patitur,
+secundum directionem motus ipsi K G‚paralle-
+lam. Q. ea d.
+
+193. Ex constructione liquet, si recta quae
+curvam K B A tangit in A sit ad axem C A
+normalis, punctum E coincidere cum puncto 1,
+et si recta tangens curvam K B A, in K per-
+pendicularis sit ad K C, punctum Q in quo
+curva E H secat latus K G coincidere cum
+puncto Κ.
+
+194. Ex puncto B demittatur ad C A· per-
+pendicularis B R, dicaturque C Ι = a, A R
+=X‚BR=HT=CP=y,HP=CT
+= z, B N = d x, N n perpendicularis ad B L
+curvaeque occurrens in n = d y, ac proinde
+B n 2 = d x 2 -Ι- d y 2. Et quoniam triangu-
+la B n N, 1 C S, similia sunt (per constr.) erit
+Bn22Nn2=CI2: CS²=C12 CT,
+boc estdx2÷dy22 dy²=a=z. Etprop-
+tereaady2=zdx2÷zdy2‚formu1aper
+quam ex data aequatione ad curvam K B A, in-
+veniri potest aequatio ad curvam alteram E H Q
+et contra; nam quoniam C P = y, si loco d x
+eruatur ex aequatione cnrvae K B A ejus valor
+in y et d y habebitur aequatio quae continebit z,
+y et d y sive C P, P H et fluxionem P C, cum ·
+constantibus.
+
+195. Ducta sit ordinata p h alteri P H infi-
+nite propinqua, et si radius sit ad peripheriam
+
+, circuli ut unitas ad numerum p, erit p y peri-
+
+pheria circuli quem linea Ρ C circa axem C 1,
+rotando describit, ideoque annulus cylindricus
+quem arcus P H h p in eadem convolutione
+

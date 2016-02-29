@@ -1,0 +1,146 @@
+284·
+
+mutabuntur, dum in portiones ulteriores medii
+celeritates primo receptae propagantur, ideoque
+
+tota vibratione absoluta numerus particularum
+
+agitatarum duplus erit ejus quem in dimidia vi-
+bratione notaveramUS‚ pars dimidia remotior est
+plane aequalis illi de qua primo actum est et si-
+militer constituta, pars citerior vero negativam
+celeritatem obtinebit et dilatationem; ejus cite-
+rioris partis portio remotissima a fibra primum
+celeritatis fibrae regredientis gradum habebit, et
+portio fibrae proxima ultimum (quietem nempe),
+media portio medium, hoc est retrocedet ea ipsa
+celeritate qua medium ulterioris partis procedit
+et dilatationes illis celeritatibus negativis corre-
+spondebunt‚ ideoque in medio illius proximae
+portionis maxima erit dilatatio ut et maximus
+regressus.
+
+Secundus Casus. Quod si singula tempuscula,
+quibus durantibus velocitas fibrae uniformis fin-
+gitur, aequalia non sint, eei-dem ratione intelli-
+gentur effectus fibrae in partes medii, nisi quod
+portiones medii quae singulis successivis velocita-
+tis gradibus gaudent nou sint aequales, sed (per
+not. 19.) sint sicut tempora quibus durantibus
+singulae illae velocitates in fibra permanserunt.
+
+Tertius Casus. Quamvis autem fibrae velocitas
+nullo tempusculo uniformis maneat sed continuo
+acceleretur, eodem tamen modo fibra aget in
+medium ac si revera velocitas ejus cresceret per
+intervalla temporis, et durante tempusculo quam
+minimo (sed finito) uniformis maneret; idque
+propterea quod intervalla inter particulas medii
+sunt finitae quantitates non vero infinite parva;
+nam per notas 4. et 5. nullus motus ex puncto A
+in punctum B transire potest, nisi punctum A
+processerit finita quantulacumque quantitate,
+ideoque, nisi fibra quae urget punctum A velo.
+citatem finitam in eo generaverit (ut fert hypo-
+thesis Problematis not. 9.) ; pari ratiocinio punc-
+tum B non sentiet incrementa velocitatis puncti
+A, nisi postquam incrementum finitum velocita-
+tis in eo genitum fuerit (not. 5. et 20). Ergo
+fibra agit in medium quasi singulo tempuscula
+(aequali vel inaequali) ejus velocitas uniformis
+perstitisset3 intelligitur ergo effectus vibrationis
+fibrae in a'elrem per primum et secundum casum
+hujusce demonstrationis. Q. e. i. f
+
+25. Totum autem spatium cujus particul
+commotae suerunt durante integra fibrae vibra-
+tione a Newtono pulsus vocatur, et si vibratione
+absoluta fibra quiesceret, semper ulterius propa-
+garetur ille pulsus; nam totus ille pulsus (mo-
+mento quo absolvitur vibratio) divisus intelliga-
+tur in portiones totidem quot temporis intervalla
+in vibrationis duratione fuerunt assumpta, quae
+temporis intervalla facilitatis ergo aequalia sup-
+ponantur, singula portio medii eam velocitatem
+habebit quam habuit chorda in momento ipsi re·
+spondenti, ultima portio sive remotissima a fibra
+eam habebit celeritatem quam fibra habuerat primo
+instanti, penultima portio eamceleritatem habet
+quam fibra habuit secundo instanti, διο. ; sequen-
+ti γετὸ tempusculo ultima portio pulsus ad no-
+vam portionem sibi aequalem et ulteriorem suam
+velocitatem propagabit (hujus 21.) dum ipsa
+suscipiet penultimae portionis celeritatem, penul-
+
+PHILOSOPHIAE NATURALIS [Mo'r. Conpon.
+
+tima ver& portio celeritatem antepenultimae‚ δια,
+postea altero temporis intervallo ad alteiam no-
+vam portIOnem ulteriorem prima celeritas propa-
+gabitur‚ et secunda celeritas in prima portione
+novi istius pulsus generabitur, sicque deinceps:
+novus ergo pulsus formabitur plane similis priori
+aequaliter extensus, aequali celeritate in singulis
+partibus donatus (semota ut dixi consideratione
+partium circumquaque positarum remque consi-
+derando quasi de partibus in linea recta positis
+unice ageretur).
+
+26. Ipse autem primus pulsus penitus quies-
+cit quando in secundum totus transiit si nulla
+nova chordae agitatio succedat, nam celeritas
+portionis pulsus quae fibrae proxima est succes-
+sive ad sequentes portiones transit dum novus
+pulsus formatur, sed celeritas ejus portionis fibrae
+proximae est ultima fibrae celeritas quae in hac
+hyp. est quies, sed ubi pulsus secundus totus
+formatus est, celeritas portionis pulsus quae fibrae
+proxima erat ad initium secundi pulsus est trans-
+lata et per omnes partes pulsus primi successive
+transiit, ideoque in quiete eas constituit in qua
+permanserunt nulla succedente nova agitatione.
+
+27. Quod :i chorda novam vibrationem faciat,
+ut evenit, restituetur primus pulsus aequalis prae-
+cedenti qualiscumque sit ejus vibrationis velocitas
+initialis, nam dividatur totius vibrationis hujusce
+tempus in totidem partes aequales partibus in
+quas tempus primae vibrationis divisum fuerat,
+quod fieri potest cum vibrationes sint isochronae,
+istae partes temporis aequales erunt iis quae in
+praecedenti vibratione assumptae fuerunt3 dato
+autem tempore numerus particularum compres-
+sarum est semper idem qualiscumque sit veloci-
+tas (n. 19. hujusce). Ergo siquidem singulo
+instanti dato totidem partes comprimuntur, toti-
+demque sunt instantia data in vibrationibus iso-
+chronis, pulsus ad totidem particulas in quavis
+vibratione isochrona extendetur.
+
+28. Si per velocitatem pulsus intelligatur
+(cum N ewtono) distantia ad quam pulsus exten-
+ditur divisa per tempus quo pulsus ad eam dis·
+tantiam pervenit, dico pulsus iu eodem medio
+esse omnes aequiveloces' quaecumque sit fibrae
+pulsum producentis vibratio: id jam liquet de
+vibrationibus isochronis iu quibus tempore unius
+vibrationis ad totidem partes pulsus propagatu'r‚
+ideoque aequale spatium aequali tempore percur-
+rit, postea vero idem pulsus similiter propagatur,
+sed id pariter verum est de vibrationibus etero-
+chronis3 dividantur enim inaequalia vibrationum
+tempora in totidem utrinque tempuscula mini-
+ma quae totis temporibus sint proportionalia, nu·
+merus partium compressamm singulis tempus-
+culis diversis sunt illis tempusculis proportionales
+(n. 19. hujusce) ideoque totis vibrationum tem-
+poribus proportionales, sed in singula vibratione
+totidem tempuscula assumpta sunt, ergo totus
+numerus partium quae singulum pulsum con-
+stituunt est proportionalis tempori vibrationis.
+Sed distantia ad quam pervenit pulsus est sem-
+per numero partium proportionalis· Ideoque
+distantia ad quam pervenit pulsus est tempori
+vibrationis proportionalis, sed velocitas pulsus est
+distantia ad quam pervenit divisa per tempus quo*
+

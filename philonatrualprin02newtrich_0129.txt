@@ -1,0 +1,109 @@
+,aa-vaghvgcffi-pnpsss' ,
+
+Lim-„n Saeuum] PRINCIPIA MATHEMATICA.
+
+117
+
+ad vim centripetam, et vice versa ex data illa proportione datur spi-
+
+ralis·
+
+Corol. 4. Corpus itaque gyrari nequit in hac spirali, (Ζ) nisi ubi vis re-
+
+sistentiae minor est quam
+dimidium vis centripetae.
+(ὅ) Fiat resistentia aequalis
+dimidio vis centripetae, et
+spiralis conveniet cum li-
+nea recta P S, inque hac
+recta corpus descendet ad
+centrum ea cum velocitate,
+quae sit ad velocitatem, qua
+probavimus in superioribus
+in casu parabolae (Theor.
+
+X. Lib. I.) descensum in
+
+ 
+
+medio non resistente fieri, (b) in subduplicata ratione unitatis ad nume-
+
+rum binarium.
+teS, atque ideo dantur.
+
+(⁰) Et tempora descensus hic erunt reciproce ut velocita-
+
+datur specie triangulum P S Ο (ex dem.) et inde scribentis velocitas in eodem loco P aequalis est
+datur ratio Ο S ad Ο P, et vice versa data hac velocitati quacum corpus in medio non resis-
+
+ratione. datur specie triangulum rectangulum
+P S O, et hinc datur angulus P O S aequalis an-
+gulo Q P S quem spiralis cum radio continet,
+ideoque datur spiralis. Iis enim datis et assumpto
+ut libet radio S P, dabitur subtangens spiralis lo·
+garithmicae, seu tangens anguli Q P S, et hinc
+dato angulo quovis P S R, dabitur radius S R
+cum puncto R. in spirali (153).
+
+(ι) ¹* Nisi ubi vis resistentioe minor est, &c.
+cnm enim vis resistentiae sit ad vim centripetam
+ut ξ Ο S ad O Ρ, et ad dimidium vis centripetae
+ut ἦ Ο, 8- ad ἑ Ο P, seu ut Ο S ad O P, sitque
+trianguli rectanguli P S O (Lem. 111.) crus Ο 8
+minus hypothenusa 0 Ρ, manifestum est vim re-
+sistentiae minorem esse dimidia vi centripeta.
+
+(⁸) ³¹⁵ Fiat resistentia aequalis dimidio vis cen-
+tripetoe, διε. Ide6que O S aequalis O P, et
+puncto O in infinitum abeunte, fiet O Pperpen-
+dicularis ad S P, et angulus P O S ipsique aequa-
+lis angulus Q P S quem spiralis continet, cum
+radio P S evanescet, convenietque proinde spira-
+lis cum linea recta P S.
+
+(b) * In subduplicatd ratione unitatis. Nam
+(in‘Theor. X. Lib. Ι.) corporis in medio non re-
+sistente recta cadentis velocitas in loco quovis P
+aequalis est velocitati qua corpus ad distantiam
+dimidiam a centro, seu ad distantiam ᾗ S P cir-
+culum describere potest, et (per Cor. 1. hujus)
+corporis in medio resistente spiralem seu rectam
+P S cum qua spii-alis convenire supponitur de-
+
+tente gyrari potest in circulo ad integram dis-
+tantiam S Ρ. Sed velocitates corporum diver-
+sos circulos describentium (in hypothesi qudd
+vires centripetae sunt reciproce ut quadrata ra·
+diorum) sunt inter se reciproce in radiorum ra-
+t10ne subduplicata (pro convers. Cor. 6. Prop.
+IV. Lib. 1.) adedque velocitas in circulo cujus
+radius S P est ad velocitatem in circulo cujus
+radius ἑ S P, ut 4! ἦ ad 4! l, sive ut 1 ad
+μ 2, erit ergo velocitas corporis in medio re-
+sistente per rectam P S descendentis ad veloci-
+tatem descendentis in medio non resistente pcr
+rectam eandem et in eodem loco P existentis, ut
+
+ladff2. Q.e.d.
+
+¹* Observandum ver& qndd velocitates initiales
+utrinque debent esse secundnm legem quae in
+reliquo motu obtinet, hoc est velocitas initialis
+in medio resistente esse debet aequalis celeritati
+qua corpus ad eamdem a centro distantiam in
+medio non resistente circulum describeret, et ve-
+locitas initialis in medio non resistente aequalis
+esse debet velocitati qua corpus ad dimidiam a
+centro distantiam in medio non resistente in cir-
+culo revolveretur.
+
+Quoniam itaque velocitas corporis in medio
+non resistente descendentis datur (per Theor.
+X. Lib. Ι.) dabitur etiam velocitas in medio re-
+sistente descendentis.
+
+(ο) ²* Ει tempora descensiis, hierem-nt reciproce
+ut velocitates, atqu& ide& dantur. Nam momenta
+
+113
+

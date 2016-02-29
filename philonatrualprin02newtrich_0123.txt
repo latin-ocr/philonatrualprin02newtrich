@@ -1,0 +1,139 @@
+ 
+
+ 
+
+met Sisenna] PRINCIPIA MATHEMATICA.
+
+les 49),
+
+R
+igit
+
+(1
+H
+ur
+R
+P ÷QR÷
+
+-Ι- R H, διο. id est, ut longitudo spiralis ad to-
+
+triangula evanescentia P F Q, Q G R,
+X διε. similia sunt triangulo P S T, est
+PT: PS=PQ2 PF=QR2 QG
+X: R H, διο. et composite P T: P S . . -Σ
+Q nx, &c.=1>F-{-QG eth¹¹¹⁶2¹tem³=y><hb·
+
+Ι111
+
+L. h = L. ἑ, adeoque h÷=—²-; y={-,
+y y h-„-
+
+154. Hinc si manentibus radiis S P seu a, et
+
+tum radium P S. Quare longitudo spiralis S V vel S Ι seu y, ade6que et L· ᾖ, mutetur
+
+sequatur tangenti P T. Est autem ubique tan-
+gens P T ad radium correspondentem P S, in
+ratione data, ob triangulum P T S specie datum
+(149) et ob triangula T P S, P Ο S, (per constr.)
+similia, est etiam Ο Ρ ε Ο S = P T : P S, seu
+ut longitudo spiralis ad radium.
+
+152. Hinc quoque patet quod si centro S et
+radio quovis V S describatur circulus secans spi-
+ralem in V et radium P S, in I, pars spiralis
+P V erit ad partem P Ι radii P S, ut tangens
+P Τ ad totum radium P S. Quare si, manen-
+tibus circulorum radiis S P, S I, mutetur ut..
+cumque angulus T P S, quem spiralis seu ipsius
+tangens continet cum radio P S, longitudo spi-
+ralis tota ad centrum usque S, sicut et longitudo
+inter duos circulos radiis S P, et S Ι descriptos
+comprehensa, erit ut spiralis tangens P T, seu
+ut secans anguli T P S. Ostendimus (151)
+longitudinem spiralis aequalem esse tangenti P T,
+et partem spiralis PV, inter praedictos circulos con-
+tentam, esse ad tangentem P T, iuratione ‘P Ι ad
+P S, quae (per Hyp.) data est; manente autem ra-
+dio seu sinu toto P S, est P T secans anguli P T S.
+
+153. Dicantur radius
+constans P S = a, sub-
+tangens S T = b, arcus
+quilibet circuli P C vel
+P C L P -ξ- P C, vel
+2 P C L -P -f- P C = x,
+correspondens spiralis ra-
+dius S X = y, qui cres—
+cente arcu x decrescit, erit .
+ob triangulorum X K V,
+P S T similitudinem P S:
+S T= X K: V K, et
+ob sectores S V K, S D C
+similes, S K sive S X:
+S C seu P S = V K :
+D C, ideoque ex aequo
+SX:ST=XK: DC3,
+id est, y: b=.—d y:
+b d y, hinc
+
+ 
+
+sumptis fluentibus x = Q
+-- b L. y, et quia ubi
+x=o,f1ty=a, erit
+Q=bL· a, etidefix=b1a a—bL. y=
+
+b L. {²73 si itaque datus fuerit radius y cum arcu
+
+circulari x, seu angulo P S C dabitur b subtan-
+
+gens anguli spiralis, est enim b = -}-. Si vero
+
+L..-
+¹ datus sit tum arcus x tum subtangensy b dabitur
+
+radius 53 ponatur enim* L. h,= 1 et erit ἒξ- ><
+
+utcumque angulus T P S, quem spiralis cum
+radio continet, arcus circularis P D vel x, com-
+prehensus inter radios S P et S V D, erit sem·
+per ut subtangens spiralis S T, seu b, quae, ma-
+nente radio seu sinu toto P S, est ut anguli
+T P S tangens.
+
+155. Iisdem positis, hoc est, manentibus ra..
+diis S P sive a, et S I sive y, et utcumque rnu-
+tato angulo T P S, numerus revolutionum spi-
+ralis inter circulos P D Z P, et I V N I centro ,
+S et radiis datis S P, S V vel S I descriptos est ς
+ut tangens S T anguli T P S, quem spiralis cum
+radio continet. Sit enim c circumferentia cir-
+culi P D Z P, et n numerus integer vel fractus
+
+revolutionum spiralis a puncto P ad punctum V
+inter circulos P D Z P, et Ι V N 1, eritn(153)
+
+nc=x=bL.-?-;ethincn=-{-><L.—;-.
+
+Quare ob datas c, ἔ et y, (per Hyp.) erit n ut b,
+id est numerus revolutionum inter circulos datos
+ut subtangens spiralis S T, seu ut tangens angu-
+li T P S, quem spinalis cum radio continet.
+
+ 
+
+156. spiralis post infinitos sibi super-impod-
+tos gyros comprehendit cum radio P S spatium
+duplum trianguli P S T. Iisdem enim positis
+quae num. 155. curn sit (fig. pag. praeced.) P S
+(a): S T (b)-=X K (--dy): V K:—
+ιἶὲἶ, erit sector S V K seu S V X = —y Ziy
+etasumptis fluentibus, sector S P V = Q, —
+b 2
+ἐς
+
+ 
+
+3 quia vero evanescente sectore S P V, fit
+

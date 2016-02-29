@@ -1,0 +1,126 @@
+Lmen Samma] PRINCIPIA MATHEMATICA. 175
+
+temporis conjunctim) easdem fore, quamproxime, in utraque curvat
+-(†) deberent enim differentiae illae in cycloide augeri, una cum resistentia,
+in duplicata circiter ratione arcus ad chordam, ob velocitatem in ratione
+illa simplici auctam3 et diminui, una cum quadrato temporis, in eadem
+duplicata ratione. Itaque ut reductio fiat ad cycloidem, eaedem sumendae
+sunt arcuum differentiae quae fuerunt in circulo observatae, velocitates vero
+maximae ponendae sunt arcubus vel dimidiatis vel integris, hoc est, nume-
+ris ᾖ, 1, 2, 4, 8, 16 analogae. Scribamus ergo in casu secundo, quarto
+et sexto, numeros, 1, 4 et 16 pro V3 et prodibit arcuum differentia
+
+¹ A†B÷Cincasusecmd03-2-:4A48B-l—16Cin
+
+ἶ ...-
+35ss
+
+——-—
+
+21
+
+casu quart03 et -8- = 16 A -1- 64 B -Ι- 256 C in casu sexto· Et ex his
+
+92
+*aequationibuffi (¹) 3per debitam collationem et reductionem analyticam, fit
+A = 0, 0000916, Β = O, 0010847, et C = 0, 0029558. Est igitur dif-
+
+ferentia arcuum ut 0, 0000916 V -Ι- Ο, 0010847 V ἓ -Ι- O, 0029558' V ²:
+et propterea cum (per Corollarium Propositionis XXX. applicatum ad
+
+hunc casum) resistentia globi in medio arcus oscillando descripti, ubi ve-
+
+locitas est v, (m) sit ad ipsius pondus A ut 11,- A inf-,⁷6 B v {- ss} c v 2 ad
+
+valore S. ι-ΙΧὲΞη---ῖῖ sit ergo arcus L B = a,
+
+peripheria circuli cujus diameter est 1 sit p, erit
+
+Mm ap Mm
+'Vh-:¹:3² ,κὴ-..κ
+
+..1. Ξ-4-7-1-1, sed 4! h est aequalis chordae L B,
+Mm
+
+ex natura circuli, quae si dicatur c, erit S. -ῖ-Χ
+
+ 
+
+ 
+
+ 
+
+sive S.
+
+ 
+
+ 
+
+...ap
+
+ 
+
+-a-P.
+
+2c
+
+lzffl=l><c:ax-g-siveestbtempus
+
+4c
+
+Unde tandem estb: t=2: ΞΖ
+
+descensus per diametrum vel per chordam quam-
+libet ad t tempus descensus per arcum in ratione
+
+composita ex ratione diametri 1 ad -Ξ- sive qua· ,
+
+drantem peripheriae‚ et ex radone chordae c ad
+arcum a. Q. e. d.
+
+(ἱ) * Quae sunt ut resistentia. et quadratum
+temporis conjunctim (per Cor. 3. Lem. X. ).
+Resistentia enim considerari potest ut vis quae
+retardationem producit, et differentia arcuum ut
+spatium quod corpus vi ina mediocri ac constante
+sollicitatum describeret. Hinc arcuum differen-
+
+tiae erunt quam proxime ut resistentia direct& et 11
+
+quadratum temporis conjunctim.
+(†) '¹' Deberem dgfferentioe in cycloide augeri
+ιιηὰ cum resistentia in duplicat& circiter ratione,
+
+Prima aequa-
+
+ 
+
+arcus ad chordam ob velocitatem in ratione illd
+simplici auctam, quia scilicet pars maxima resis-
+tentiae est ut quadrata velocitatum.
+(¹) *¹ Per debitam collationem.
+
+tio eug-1- = 2><¹12l = A -ι- Β 4 C.
+secunda divisa per 4. esu—Ji = A -1- 2 Β -Ι- 4 C,
+et tertia divisa per 16. εειὲἐ =A=l=4 B÷16 C.
+Ex his autem aequationibus facile eruuntur va-
+lores litterarum A, B, C, si fractiones 7³}2' ἦ,
+et ἐ ad decimales reducantur.
+
+(¹¹²) ³* Sit ad ipsius pondus. A V est pars
+differentiae arcuum genita per resistentiae partem
+
+illam quae est ut velocitas B V ἓ, pars differen-
+tiae arcuum genita per resistentiae partem quae
+est in sesquiplicata ratione velocitatis3 et C V ²
+pars differentiae arcuum producta per resistentiae
+totius partem quadrato velocitatis proportionalem
+(per Cor. 4. Prop. XXXL). Sed (per Cor.
+Prop. XXX.) si resistentia sit ut velocium, est
+
+E— A V ad longitudinem penduli ut corporis
+
+oscillantis resistentia in puncto medio arcfis des-
+cripti ad ejusdem pondus; si resistentia sit ut
+velocitatis quadratum, resistentia illa in puncto
+

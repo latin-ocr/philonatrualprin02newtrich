@@ -1,0 +1,179 @@
+Lmen Securum] PRINCIPIA MATHEMATICA. 81.
+
+ratione, et A I minuetur in ratione illa duplicata. (g) Augetur vero pro-
+
+portio resistentiae ad pondUS‚ ubi vel gravitas specifica sub aequali magni-
+
+tudine fit minor, vel medii densitas major, vel resistentia, ex magnitudine ’
+
+. diminuta diminuitur in minore ratione quam pondus
+(¹¹) Reg. 4. Quoniam densitas medii prope verticem hyperbolae major
+
+ 
+
+(Β) 121. * Augetur vero proportio resistentia
+ad pondus, &c- Corpus specifice gravius vel
+levius dicitur, quod sub aequali volumine majus
+vel minus ¹pondus habet quam alterum corpus
+quocum comparatur3 et ideo gravitas specifica
+corporis, volumine dato, est ut ipsius pondus ab-
+solutum, id est, data gravitate acceleratum, ut
+corporis massa (per defin. 7. et not. 5. Lib. Ι.)
+At, dato volumine, massa est ut densitas (2.
+Lib. I.); quare gravitas specifica corporis est
+ipsius densitati proportionalis. Augetur itaque
+proportio resistentiae ad gravitatem motricem seu
+ad corporiS pondua tum ubi manentibus corpo-
+
+ris volumine‚ figura et velocitate ac medii densi-
+
+tate, manenteque proinde resistentia, gravitas
+specifica fit minor3 turn ubi, caeteris paribus,
+medii densitas augetur, quo casu medii resisten-
+tia crescit cum densitate, et corporis pondus in
+fluido densiori et specifice graviori magis suble-
+vati minuitur3 tum ubi resistentia ex magnitu-
+dine corporis diminuta, diminuitur in minori ra-
+tione quam pondus. Ex quibus liquet tertiam
+regulam determinandis motibus corporum variae
+magnitudinis et densitatis accommodatam esse.
+122· Lemma. Data curva A G K, invenire
+
+nfinimam tangentium G T. Quoniam (exddgm.
+
+inExemp.4.)XY2=GT2=A2÷—><
+A2—-2dnbb-1-nnb4· hujusquant‘itgtis,
+eB¹¹—¹ A2¹¹'
+
+ 
+
+ 
+
+¹ in qua si detur curva A G K, soia est variabilis
+A, fluxio ponenda est nihilo aequalis (48.).
+
+‚Brevitatis causa dicantur l -ί- ἓ-ἓ. = f, 2 d ἓ b b
+
+ 
+
+=2g‚nnb4=h‚etA=x;eritGT2-=
+fxx-egx1—”4hx—2¹³;et sump-
+tis «fluxionibus, ο = 2fxdx -ι- n—-l χ
+2gx—”dx-2nhx—2n—1dx. Di-
+vidatur aetjuatio tota per 2xdx‚ et fieto= f -{-
+n—lgx—¹²—1-nhx-2²¹-2;etmul.
+tiplicando perx2²¹÷2,fx2¹¹÷2÷n—1
+gxn÷¹=nh, unde eruitur, ut fitin reso·
+lutioue aequationum secundi graduS, x ¹² ÷ ¹
+=—V (n-¹)²gg-1-4'11hf—(11--=¹)g‚
+2f
+
+ 
+
+ 
+
+ 
+
+ 
+
+et hinc habetur 1
+,=(Q)n-÷z
+
+Quare si loco x substit2ugtun hic ipsius valor in
+aequatione GT=V f x x—2 g x 1-¹²-{·-h x -2 ¹²,
+obtinebitur minima tangentium. Q. e. i.
+
+125. Corol. Si curva A G K sit hyperbola
+conica, erit index n = 1. et ideo n — 1 ..τ ο,
+
+Vox.. ΙΙ.
+
+ 
+
+et x == rb ξ. Unde invenitur G T 2 =
+
+ῑᾶἓ-Ξὲ-Ρ--ιῇ--τῖὖἙῨ-Ξὲ--ᾞΧ
+f
+
+vee÷dd—2dbb=2bb><Q],‘
+
+ 
+
+Quia vero (Exemg. 4.) d: e = V Z :eX Z =
+*XN2MN,acproindedd2ee=XN2:
+MN2‚etcomponendodd÷ee:ee=
+XN2÷MN2,seuMX2:MN2,atque
+Vee-ff-dd MX di XN
+
+e ‘=MN’‘³’{=·M‘N
+Q=MX—XN. Praeterea
+
+e MN
+
+(Exemp. 4.) est V G=Db-}, A Ι =-.. AEbN
+
+hinc 2 A I >< Α N= 2bb. Erit igitur minimae
+2 A Ι >< A N
+M N
+
+ 
+
+adeo
+
+ 
+
+ 
+
+ς erit
+
+ 
+
+ 
+
+‚et
+
+tangendum quadratum G T ² =
+
+χΙιῖῑςῖ-Π.
+
+(¹¹) ’ἕ Reg. 4. Quoniam densitas in loco quo..
+vis G est reciproce ut tangens G T, quae prope
+verticem hyperbolae minor est quam in loco A ;
+manifestum est densitatem medii prope verticem
+hyperbolae majorem essequam in loco A. Den-
+sitas in loco A dicatur K, in loco G per quem
+ducitur tangentium minima G T, dicatur B;
+eteritK: B= G T: AH‚ethincK÷B:
+K=GT÷AH2 GT,et-I-<{’—B=K=
+G T -ξ- A H K -Ι- Β
+
+2 ⁴ , 2
+densitas mediocriS, si tangens A H foret omnium
+maxima, sicuti G T (Hyp.) est omnium mini-
+ma; et ideo, ut medii densitas sere tanquam
+uniformis haberi posset, augenda esset densitas in
+G T÷A H
+ad minimam tangentium G T. Verum quia
+tangens A H non est omnium maxima, sed tan-
+gentes aliae ad partes curvae versus K ductae ma-
+jores sunt ; densitas in A augenda est in ratione
+G T -Ι- A H
+ad G T, ut medium tanquam uniforme fere
+censeatur. Atque hoc pacto errores oriundi ex
+eo quod medium in loco A densius supponatur,
+corrigentur fere aliis erroribus qui nascuntur ex
+eo quod in G medium rarius fingatur quam pro
+ratione curvae A G K.
+
+F
+
+ 
+
+: G T. Esset autem
+
+Ain ratione semisummae tangentium
+
+ 
+
+paulo majore quam *semisummae
+

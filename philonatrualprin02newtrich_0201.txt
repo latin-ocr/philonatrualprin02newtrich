@@ -1,0 +1,98 @@
+LIBER Sisenna] PRINCIPIA MATHEMATICA.
+
+189
+
+pyxidis plenae resistentiam totam A 4 78 Β ut 77 ad 78, et divisim
+A ÷ B ad 77 B, ut 77 ad 1, indeque A -Ι- Bad But 77 Χ 77 ad 1,
+
+agere hic necessum non est; si enim corpus in tempus quo describitur A M = t, A P = x,
+linea recta A C ad horizontem B C utcumque A M = s, P p =-.. Μ n = d x, et M m = d s.
+
+inclinata ascendat vel descendat, resistentia et
+
+A
+
+B c
+
+celeritas in quibuscumque locis et spatium de-
+scriptum ac tempus quo descriptum est, definiun-
+tur per Prop. ΙΙΙ. Sect. L, 8. et 9.
+Sect. 11., 15. et 14. Sect. ΙΙΙ. ac per
+notas iisdem locis adjunctas. Cum enim
+vis gravitatis secundum directionem
+A B urgentis sit ad ipsius partem quae
+agit juxta directionem A C, in data ra-
+tione lineae A C ad A Β, seu in data
+ratione sinus totius ad sinum anguli
+inclinationis A C B; si loco vis gravi-
+tatis horizonti perpendicularis adhibea-
+turin calculis et constructionibus pars
+illius data quae secundum directionem
+A C agit, constructiones calculique in
+citatis locis non mutantur. Superest
+igitur ut corporis in curva linea asten-
+dentis aut descendentis motum definin-
+mus.
+
+Descendat primum corpus eloco dato
+A per curvam A M, ducatur verticalis
+A P, ad quam ex punctis M, et m, in-
+finite propinquis demittantur perpendi.
+cula M P, m p, et ex M ad p m per-
+pendiculum M n. Gravitas constans
+secundum directionem verticali A P
+
+ 
+
+Jam vero M m, est ad M n, seu d s ad d x, ut
+vis gravitatis g ad ipsius partem in directione
+
+gdx
+
+M m agentem quae ideo erit = 3 subdu-
+
+ 
+
+d s
+catur vis resistentiae r, et vis residua qua corpus
+in loco M, juxta directionem M m urgetur, erit
+
+—ng-r. Unde(18)fitgdx—rds=
+
+d s
+v d v. Hujus autem aequationis fluens ita sumi
+debet ut evanescentibus x et s evanescat quoque
+v si velocitas corporis in loco A nulla sit, et fiat
+v ·.-= c, si velocitas corporis in A, sit = c.
+Simili modo si corpus e loco dato A per arcum
+A M ascendat, et omnia ut modo supposuimus
+maneant, erit (18) g d x -Ι- rd s = — v d v,
+cujus aequationis fluentem ita sumi oportet ut
+positis x et s = o, fiat v, aequalis velocitati in
+loco A datae. ’
+
+ 
+
+*dns
+
+ΞΙ,μ
+M
+
+ 
+
+Si abscissa x in verticali B C per cuwae A C D
+punctum infimum C ducta capiatur, sitque
+B P = x, et caetera maneant ut supra, erit adhuc
+pro corporis descensu g d x — r d s = v d v ;
+at pro ascensu per arcum C μ si data sint puncta
+A et B, dicaturque C μ. vel A C μ = s, erit
+—gdx41ds=—vdv‚ seuadhucgdx
+— r d s = v d v, quia crescente s decrescit x et
+contra. Si vero dicatur C P = x et C M = s,
+quia hae quantitates respectu aliarum B P, et
+A M negativae sunt, fiet pro descensu - g d x
+÷rds=vdv, seugdx—rds-e-vdv,
+
+parallelam semper agens sit = g, resistentia in et pro ascensu si dicatur C μ. = s erit g d' x -ι-
+loco M = r, velocitas corporis ibidem = v; r d s == — v d v quarum aequationum altera in
+

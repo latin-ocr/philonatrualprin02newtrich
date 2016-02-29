@@ -1,0 +1,163 @@
+*In eadem autem hypothesi vis motrix puncti
+C, hoc modo determinatur, est vis repulsiva
+puncti B ad vim repulsivam puncti D ut D c ad
+bcsiveutA Β- Cc, ad A B—B b-1-Cc,
+ergo vis motrIx puncti C ad vim repulsivam
+puncti D, ⁸ut Bb-eccadA B—Bb÷
+C c.
+
+Haec vis repulsiva puncti D est ad vim elasti-
+cam ut A B ad A Β -» C c, denique vis elasti-
+ca ad vim moventem punctum B iu primo casu,
+ut A Β — A a, ad A a, ideoque ex oequo vis
+
+motrix puncti C, ad vim moventem'punctum B
+in primo casu ut
+
+Bb-ecc AB—Bb42cc
+AB }ad{ AB—Cc
+AB—Aa Aa
+
+Ut vero determinetur motus puncti B in isto
+casu (qui pro vero haberi potest ob exiguitatem
+motus puncti D qui negligitur) concipiatur P M
+ad P Q ut
+
+AB—Aa÷Bb Aa—2Bb÷Cc
+AB—Bb÷cc}ad{AB
+Aa AB—Aa
+etidemPM adPXut
+Ass-Bb40c Ab-ecc
+AB—Cc }ad{AB
+Aa AB-Aa
+
+curvae quae transibunt per Q et X erunt loci vi-
+rium motricium puncti Β et puncti C, areae
+1 P Q, l P X erunt ut velocitates per illas vires
+dato tempore I P genitae, et si sumantur ordi-
+natae T V et T Y, tales ut T S, T V, T Ysint
+ut areae I PM, 1PQ, 1PX‚areaeFTV‚
+F T Y erunt ut spatia Β bet C c ι sit ergo
+T V= Ax2÷ssx³-}-Cx4 Dx⁵‚ &c.
+etTY=0x4÷Pa⁵ Ra⁶,&c.
+eritTV d x=A x2dx÷Bx³dx÷Cx4dx
+-ξ- D x 5 d x, διο.
+Tde=Ox4dx†Px⁵dx
+
+unde integrandO, est area F T V = A x 3
+
+ 
+
+[ὦ
+
+ 
+
+PHILOSOPHIAE NATURAL'IS [Mo'r.C0RP0n.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1314 cxs Dx⁶
+4 -Ι- 5 ·-}- 6 ‚&c.=Bb
+et F Τ ΥΞΟζς-ι-Ρξσ,8ω.--οο
+
+fluxioautem TV= 2Axdx-}-
+÷4Cx³dx÷5Dx4dx‚&c.
+EtfluxioTY=40x³dx÷5Px4dx,&c.
+
+sxd.x
+
+arm&
+
+SBx2dx
+
+Erat autem fluxio T S =
+
+ἑψῖψὲψὲω)
+a a2 a 3 a4‘’ ⁰
+Sed PMad PQ, utfluxioTSadfluxionem
+TeY'PMad PXutfluxio Ts qd fluxionem
+ggg’fluxio T S ad fluxionem T V ut
+AB—Aa413b Aa—2Bb-1-
+AB—Bb40c}ad AB
+Aa AB-Aa
+et eadem fluxio T S ad fluxionem T Y ut
+AB—Bbq-cq {Bb—ecc
+AB-Cc ad AB
+Aa S A B—Aa.
+
+ 
+
+Cc
+
+In his proportionibus multiplicatis extremis et
+mediis et terminorum collatione facta, invenien-
+tur lineae TV et T Yet areae FTV etF TY,
+sicque tempora quibus acquiruntur velocitates
+T V, T Y et spatia descripta dum acquiruntur,
+obtineri poterunt, calculum istum proliXissimum
+in compendio exhibebo; primo invenitur quod
+fluxio ΤΞ >< A B >< A B— Aa=sm²xdx,
+est praeterea A a ·— 2 B b -ι- C c' aequale
+
+2 A 2 Β 2 C — O
+
+ωΧ-ι-*-ῖΧ3--ἶκ4- 5
+-2D—Px⁶‚&c. estqueBb—ecc=
+
+6
+}x³÷}x⁴÷C-J52⁰,x⁵÷n'}²px
+
+&c. quae series multiplicata! per s m ² x d x dant
+facta extremorum in utraque proportione.
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+σθ
+
+Ut habeantur sacta mediorum, in prima proportione est A B — B b -Ι- C C Χ Α a =
+
+Ax³ Bx4 C-O
+
+D P
+
+m¹)<(m³†*†*-'-*”·- -··-·-——- Χ 5--ζ-Χσὴ ducaturin AB—Aa÷Bb=
+
+” 3 4 5
+Ax³ Bx4
+
+ma-mx÷·÷-3 ÷ 4
+
+ 
+
+ 
+
+,ι-
+
+Cx⁵
+
+ 
+
+b
+Dx
+6
+
+-Ι- fit
+
+ 
+

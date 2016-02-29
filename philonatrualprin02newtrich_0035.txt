@@ -1,0 +1,92 @@
+Lmen Samma] PRINCIPIA MATHEMATICA. 23
+
+hoc est, ut linea R r. Ipso autem motus initio area R D G T (f) ae-
+qualis est rectangulo D R Χ Α Q, ideoque linea illa R r (seu
+
+Q‘fiffl) tunc est ad D R ut A B-A Q seu Q B
+
+ad N, id est, ut C P ad D C3 atque ideo ut motus in altitudinem ad mo-
+tum in longitudinem sub initio. Cum igitur R ι· semper sit ut altitudo,
+ac D R semper ut longitudo, atque R r ad D R sub initio ut altitudo ad
+longitudinem: necesse est ut R r semper sit ad D R ut altitudo ad lon-
+gitudinem, et propterea ut corpus moveatur in linea D r a F, quam
+punctum r (g) perpetuo tangit. Q. e. d.
+
+(f) '⁸ AEqualis est rectangulo, διε. Nam coin-
+
+cidente puncto t cum G, evanescit T t respectu (g) = A B (h) ² G Dn= ᾖξ’ et R c (θ- Χ),
+
+ 
+
+ 
+
+ 
+
+ἓςέἒῧξ ἒ ξ’ἓιὲἓὲυωῦαὲγζὲοῗθὲῗ. R D G Τ : A C (g) = A B (h) t R T = effi-hx, ide6que⁴
+D(A) eg? adlkrlgtd‘? reisiqsiigezrcitia ⁴31?‘1‘1111tii1ixnv‹ilrttiitciiffi Q Β = A B — G D = e h ’θ’ g h, et arem
+ῑξξρὲξὲξῑεςῑςέΕῑῑῗὲῑΐξῆἓῆςέἒέἒῑρὲῖῗῖῗ R n e τ R Τ
+hujus), quo etiam tempore percurrit corpus lon- χ d x = g h d x, ac proinde area R 1) G T
+gitudinem D A, et ideo ad maximam suam al- e—-x
+
+titudinem a perveniet ubi erit· in perpendiculo = g h· S· *ἐξ-Ἰ Proeterea (per consuo). est
+A B a, et postea semper appropinquat ad asymp- e — x
+
+toton P C (per Cor. Prop. ΙΙ.) Per punctum
+quodvis trajectoriae r agatur r T horizontali D C
+parallela et verticali C P occurrens in T, verti-
+calis M m ipsi R r infinite propinqua secet r T
+in n et tangentem r L seu curvam in m: et
+quoniam motus corporis in loco r per arcum r m
+dividi potest in motum horizontalem r n et verti-
+calem n m, erit velocitas horizontalis ad vertica-
+lem ut r n ad n m, et ad obliquam secundum
+tangentem curvae ut r n ad r m. Sed ob simili-
+tudinem triangulorum r n m, r T L, est r n :
+m n=1 Tvel RC:T L, etrn2rm=
+
+ 
+
+P
+
+R C ε τ’ L. Quare cum R C sit ut velocitas
+horizontalis corpori in loco r residua ex veloci·
+tate D C quam sub initio motus habebat in loco
+D (per Cor. Prop. II.); erit T L ut velocitas
+verticalis corpori residua ex velocitate initiali
+C P, et r L ut velocitas obliqua in arcu r m ex
+duabus r T et T L composita. Est itaque ve..
+locitas et proinde resistentia corporis in puncto
+quovis trajectoriae r ut curvae tangens r L.
+
+55. Hinc per datum trajectoriae punctum r D R M A F C
+duci potest tangens r L. Nam velocitas verti- ”
+calis L T in loco r est ad velocitatem verticalem
+C P in loco D, ut rectangulum R B ad rectan-
+gulum D B (vide figuram textus) sive ut R A
+
+ 
+
+ 
+
+ 
+
+ad D A (per Prop. II.); ide6que L T = eh--gh DRXAss-RDGT
+
+CP>< ΒΑ ⁴- f ‚eth=y=-—-—-.-—..---N ,
+DA .' EstetDRxAB=hx. Quareerity=
+
+' 56. Ex superiori constructione facile deduci· f ¹ f g d Χ ·
+
+tur aequatio ad trajectoriam D r a F. Positis ““ >< S' ⁰ ESt enam (per
+
+ 
+
+ 
+
+enim D P = b' D C = ρ’ C P ²² f’ A C = ΞοζὲῐΞ) ΠἏ-δθὲΘ-ςεαῖἰῦεριι gut resisten-
+
+ε’ A B Ξ h’ R r = y‘ ef D R = Χ, erit (Per tia medii ex motu in altitudinem ad vim gravi-
+
+Ἥκω.. 4um. de Hyperb· le· I·) D C (e) : A C tatis, ct ideo per Cor. Ι. Prop. 111. ut velocitas
+Β 4
+

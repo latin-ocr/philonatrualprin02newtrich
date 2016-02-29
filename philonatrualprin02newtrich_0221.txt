@@ -1,0 +1,78 @@
+LIBER Secund] PRINCIPIA MATHEMATICA. 209
+
+Cas. 2. Ponamus quod particulae medii in globum vel cylindrum
+, incidentes non reflectantur3 et cylindrus in‘cidendo perpendiculariter in
+particulas simplicem suam velocitatem ipsis communicabit, ideoque re7
+sistentiam patitur duplo minorem quam in priore casu, et resiste-ntia globi
+erit etiam duplo minor quam prius,
+
+Cas. 3. Ponamus quod particulae medii vi reflexionis neque maxima
+neque nulla, sed mediocri aliqua resiliant aglobo 3 et resistentia globi erit
+in eadem ratione mediocri inter 'resistentiam in primo casu et resistentiam
+
+Q. e. i.
+
+Hinc si globus et particulae sint infinite dura, et vi omni
+
+in secundo·
+
+Corol. 1.
+elastica, et propterea etiam vi omni reflexionis destituta: resistentia globi
+erit ad vim qua totus ejus motus vel auferri possit vel generari, quo tem—
+pore globus quatuor tertias partes diametri suae describit, ut densitas me·-
+dii ad densitatem globi.
+
+Corol. 2. (¹³) Resistentia globi, caeteris paribus, est in duplicata ra-
+tione velocitatis. ⁴
+
+Corol. 3. (†) Resistentia globi, caeteris paribuS‚ est in duplicata ratione
+
+diametri.
+Corol. 4. Resistentia globi, caeteris paribuS, est ut densitas medii.
+Corol. 5. Resistentia globi est in ratione quae componitur ex dupli-
+
+cata ratione velocitatis et duplicata ratione diametri et ratione densitatis
+medii.
+
+Corol. 6. Et motus globi cum ejus resistentia sic exponi potest. Sit
+A B tempus quo globus per resistentiam suam uniformiter continuatam
+totum suum motum amittere potest. Ad A B erigantur perpendicula
+A D, Β C. Sitque B C motus ille totUS, et per punctum C asymptotis
+
+(ὓ) ” Resistentia globi, caeteris paribus, esc in motibus qui uniformes, saltem quam proxime,
+duplicat& ratione velocitatis. ³* Sint globi aequa- censentur, ergo resistentiae momentaneae sunt
+⁴es in eodem medio moti diversa cum velocitate3 bis ut velocitates, hoc est in ratione duplicata ³
+
+motus totus uniuscujusque est ad motum ab ipso
+communicatum tempore quo duas tertias suae
+diametri percurrit, ut densitates globorum ad
+densitates mediorum, ideoque ex hypothesi in
+eadem ratione, ergo etiam velocitas unius est ad
+velocitatem alterius ut motus ab illis communi-
+cati temporibus quibus duas tertias suarum dia-
+metrorum (aequales quippe longitudines) per-
+currunt. Dividuntur illa tempora in partes mi-
+nimas utrinque aequales, et quia resistentia sin-
+, gulis momentis, ejusdem globi respectu, unifor-
+
+velocitatis.
+
+(†) ¹* Resistentia globi, caeteris paribus, est in
+duplicat& ratione diametri. ³* Sint globi aequi-
+veloces‚ aeque densi, in eodem medio moti, sed
+diversae sint earum diametri, fingantur duo cy-
+lindri ejusdem cum iis diametri, et etiam aequi-
+veloces et aeque densi, resistentiae quas patientur
+cylindri singulis momentis erunt ut numerus
+partium in quas incurrunt, illi vero numeri par-
+tium sunt ut quadrata diametrorum: sed facile
+liquet resistentias cylindrorum et globorum aequi-
+
+mis censetur, resistentiaemomentaueae erunt di· velocium, ejusdem diametri, in eodem medio esse
+recte ut motus amissi et inverse ut tempora qui· in data ratione, ergo ut resistentia unius cylindri
+bus amittuntur, sed motus amissi sunt ut velo· ad resistentiam alterius. ita resistentia unius globi
+citates directe et tempora sunt inverse ut veloci- ad resistentiam alterius, sunt ergo globorum re-
+tates, quia aequales longitudines percurruntur sistentiae ut quadrata diaenetmrum.
+
+Vct. 11. O
+

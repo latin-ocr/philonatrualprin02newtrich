@@ -1,0 +1,119 @@
+‘jv V R, posito sinu toto D V.
+
+‘⁶2 inQ, est Q Ζ’ .-.·- P C (71.); liquet in eo
+
+Limen Sisenna] PRINCIPIA MAVTHEMATICA,
+
+utDNseuDRathseuET,ide6que ET
+—DRX DZ
+
+ter “2123ng E M abscissa, et M H ordinata
+
+ 
+
+, et propterea E T semidiame-
+
+ 
+
+hyperbolae T H o, cujus semidiameter conjugata
+
+ἐξ aequatur D R. Haec itaque hyperbole occursu
+νὴ suo cum logarithmIca D H o determinabit punc-
+
+tum H, ex quo si demittatur ad D P perpendi-
+'⁴ culum H V secans D Z in L, dabuntur D V et
+
+H L aequalis V r, ideoque dabitur etiam V R =
+V r 4 R r. His autem datis, datur an-
+gulus elevationis P D C, cujus sinus est
+
+75. Si. vero quaeratur angulus projec-
+tionis P D C, ut corpus per punctum R
+in horIzontali D C datum transeat, fiet
+R r = e = o, et aequatio ad hyperbolam
+
+b b x x
+
+-Ι- e = z· In constructione vero coinci-
+det punctum E cum puncto D, et T cum
+t, caeteris manentibus ut supra. Et quia
+si per hyperbolae et logarithmicae intersec-
+tionem H ducatur recta D H secans ΡΟ
+
+evadet =cc÷zz,oby=z
+
+ 
+
+casu esse Q Z sinum anguli elevationis
+P D C, existente radio seu sinu toto D P.
+Observandum porr'o est, quod si in his con-
+structionibus hyperbola logarithmicam nus-
+quam attingat, problema est impossibile,
+quod si eam bis secet, anguli* duo satisfa-
+ciunt· Patet quoque datam semper esse
+&tionem diametrorum hyperbolae, ubicumque
+situm sit-punctum r, vel R; est enim D R ad
+Ρ-ἓῇὲΡ-Β-Ξ in ratione data D P ad D Z.
+
+Vox.. 11.
+
+ 
+
+’ 33,
+
+74. Angulus elevationis P D C maximae om.
+nium amplitudini horizontali conveniens ita de-
+terminatur. Per punctum D ducatur D X ipsi
+D P perpendicularis quae sit ad D P ut est D P
+ad P Z ; jungatur Z X logarithmicam secans in
+H, et ex D per H ducatur recta D H secans
+P O in Q; erit Q Z sinus anguli quaesiti, exis-
+tente sinu toto D P. Sit enim D R amplitudov
+horizontalis maxima = c, D V := v, V R =
+V r = z, et erit ob angulum D R V rectum
+v v - z z = c c, et sumptis fluxionibus 2 v d v
+—-·- 2 z d z =2 cdc=o (48),ide6quevdv=
+b av
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+zdz, Sed(69.)z=aLb —v—-ff =aLb—
+aL.b—v— εἷ’-Ι, et sumptis fluxionibusdz=
+adv adv avdv ,
+
+b—v— b :bb—bv* Quareerit zdz
+:332de: vdV‚ et ideo az=bb —
+
+bv, acproinde DP (b) t P Z (a)=HL(z):
+P V (b -- v); verum ob triangulum D V L,
+D P Z similitudinem est D P: D Z = P V:
+Z L; unde per compositionem rationum et ex
+aequoDP2: PZ><DZ= H L:ZL, et
+quia D Ρ2 = D X >< P Z (per constr.), erit
+D X ε D Z = H L ι L Z. Quapropter punc-
+tum H per aequationem a z = b b— b v deter-
+minatum perpetuo tangit lineam rectam X Z;
+cumque idem punctum in logarithmica esse
+oporteat ut determinetur maxima amplitudo
+D R, si per intersectionem H rectae X Z et lo-
+garithmicae D H o ducatur recta D Q secans
+P Oin Q, habebitur Q Z sinus anguli P D C
+(73) maximae amplitudini D R convenientis.
+
+Q. e. d,
+
+75«. J am si oporteat curvam regularem descri-
+bere per data quotlibet puncta transeuntem, uti
+possumus generali methodo, quam Newtonus in
+arithmetica universali tradidit, quamque deinde
+

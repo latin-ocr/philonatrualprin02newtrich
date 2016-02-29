@@ -1,0 +1,119 @@
+18
+
+spatium r l n t.
+in ascensu· Q. e. d.
+
+(Ρ) Et similis est demonstratio.
+
+PHILOSOPHIAE NATURALIS [Mor.Com³on.
+
+Q. e. d. Et (P) similis est demonstratio motus expositi
+
+Resolvatur tem reliquam usque ad lineam E B, sive est
+
+-enim rectangulum D B in rectangula innumera area D G q K ad aream G E k q ut A C ad
+
+D k, K l, L m, M n, &c. quse sint ut decremen-
+ta velocitatum aequalibus totidem temporibus
+iacta, et erunt, nihil, D k, D l, D m, D n, διο.
+
+   
+
+Εἵεῐηιη
+
+Α
+
+ut velocitates totae amissae in principio singulo-
+
+rum temporum aequalium. Quia igitur totum
+rectangulum D B, exponit (per hyp.) velocita-
+tem corporis et resistentiam medii velocitati pro-
+portionalem initio ascensus, rectangula A Ε,
+A k, Al, A m, A n, &c. exponent velocitates
+residuas, resistentiasque medii initio singulorum
+temporum aequalium. Fiat A C, ad A K, sive
+rectang. A'H ad rectang. A k, ut vis gravitatis
+ad resistentiam principio temporis secundi, et vi
+gravitatis addatur resistentia (quod gravitas et
+resistentia corporis ascendentis motum retardent)
+et erunt D E H C, Kk H C, LlHC‚
+M m H C, &c.‚ ut vires absolutae quibus corpus
+in principio singulorum temporum retardatur,
+atque ideo (per Mot. Leg. 2. v-el per not. 18.)
+ut decrementa velocitatum, id est, ut rectangula
+D k, K 1, L m, M n, &c., et propterea (per Lem.
+1. Lib. II.) in progressione geometrica. Quare
+si rectae K k, L l, M m, N n, &c., oc·
+
+currant hyperbolae in q, r, S, t, &c. s„
+erunt areae D qu, qu L, LrsM‚
+M s t N, &c. aequales, ideoque tum
+temporibus, tum viribus gravitatis sem-
+per aequalibus analogae.
+
+Erigatur in medio partis D K per-
+pendicularis usque ad E B, erit area
+D Gq Kadaream GEkq utpars
+ejus perpendicularis ad hyperbolam
+ordinata ad ejus partem reliquam us-
+que ad E B, sed (per Theor. IV. de Α
+Hyperbola,) ea ordinata ad hyperbo-
+lam est ad A B sive ad totam perpendicularem,
+ut A C ad ejus ordinatae abscissam, ide6que di-
+videndo, est ea ordinata ad perpendicularis par-
+
+   
+   
+
+portionem abscissae inter A et perpendicularem,
+et assumpta-communi altitudine A Β, ut rectan-
+gulum A H ad rectangulum sub A Β et por-
+tione abscissae inter A et perpendicu-
+larem, ide6que area D G q K ad
+aream G E k q ut vis gravitatis ad
+resistentiam sive velocitatem residuam
+in medio temporis primi, cumque vis
+gravitatis sit ubique eadem et areae
+D G q K, q K L r, ubique aequaleS,
+areae G E'k q, k q r l, &c. erunt sem-
+per ut resistentiae in singulis tempori-
+bus sive ut velocitates, ideoque ut
+spatia singulis tempusculis descripta,
+ac per consequens areae totae G E n t,
+erunt ut spatia toto tempore G D N t
+descripta, dum areae A B N n erunt
+ut velocitates in fine eorum temporum
+residuae.
+51. Si asymptoto A Z descripta sit
+c logarithmica quaevis 1. S T, ad asymp-
+totum versus Z accedens, et ordinata
+A L exponat velocitatem corporis
+initio motfis, abscissaeque A H, A K, exponant
+tempora; erunt (50) ordinatae H S, K T, ut
+velocitates residuae elapsis temporibus A H,
+A K, et ide& ducta per punctum L recta L Q,
+asymptoto A Z parallela, et ordinatas productas
+H S, K T secante in P, Q, erunt P S, Q T ut
+velocitates amissae, atque etiam ut spatia descrip-
+ta, temporibus A H, A K, vel L P, L Q.
+Ducta ordinat-a, h S, alteri H S, infinite pro-
+pinqua, spatium velocitate uniformi A L, tem-
+pusculo h H descriptum in vacuo, erit ad spa-
+tium eodem tempore cumyelocitate H S, con-
+fectum in medio resistente, ut rectangulum H P
+Χ Η h, ad rectangulum S H >< Η h, seu aream
+H S s h (12) et ide& si totum tempus A H in
+particulas innumeras ut hH divisum sit, erit
+spatium cum velocitate A L, in vacuo descrip-
+tum toto tempore A H, ad spatium eodem
+tempore percursum in medio resistente ut rec-
+
+101?
+
+h H 12 Z
+
+tangulum A Pad aream logarithmicam A L S H ;
+sed area A L S H, aequalis est rectangulo sub-
+
+. tangentis logarithmicae in P S, (39) et ideo si¹
+

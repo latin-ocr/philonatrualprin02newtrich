@@ -1,0 +1,120 @@
+4<›
+
+Corol. 5, Et vice versa, si datur
+proportio resistentiae ad datam
+quamvis vim centrip etam ; (†) datur
+tempus A C, quo vis centripeta re-
+sistentiae aequalis generare possit
+velocitatem quamvis A B: et inde
+datur punctum B per quod hyper-
+bola asymptotis C H, C D, descri-
+bi debet; (⁶1) ut et spatium A B G D,
+quod corpus incipiendo motum
+suum cum velocitate illa A B,
+
+PHILOSOPHIAE NATURALIS [Mo'r. Conpon.
+
+H
+
+ 
+
+C AKL M T
+
+tempore quovis A D, in medio similari resistente describere po-
+
+test,
+
+quas dato tempore producunt (13. Lib. Ι.) et
+ideo erit resistentia prima ad gravitatem ut ve·
+locitas quam producit vis centripeta uniformis
+cui resistentia illa aequalis supponi potest. ad ve-
+locitatem quam vis gravitatis eodem tempore
+generat.
+
+(†) Datur tempus A C quo vis resistentioe aequa-
+lis generare possit velocitatem A B. Si enim de-
+tur vis quaedam centripeta‚ dabitur tempus quo
+velocitatem A B generare potest: tempora
+autem quibus diversae vires centripetae eamdem
+velocitatem generare possunt, sunt inverse ut
+illae vires; ergo si datur ratio vis centripetae cui
+resistentia est aequalis ad aliam vim datam, da-
+bitur ratio temporis uo haec vis velocitatem
+A B generare potest a tempus quo vis cui re-
+sistentia est aequalis eam velocitatem generat,
+hoc est datur tempus A C. “
+
+(q) ³* Ut et spatium A B G D. His enim
+datis, datur tum area A B G D, tum rectangu-
+lum A B >< Α D, tum spatium quod corpus
+tempore A D, cum data velocitate uniformi A B,
+describeret in medio non resistente, ideoque cum
+sit ABxAD, ad A B G D, ut spatium
+tempore A D et velocitate A B in medio non
+resistente descriptum ad spatium eodem tempore
+descriptum in medio resistente (per Cor. 2.)
+hoc spatium dabitur.
+
+81. Scholium. Hujus propositionis construe-
+tio ad logarithmicam reduci facile posset, sed id
+relinquimus lectoris arbitrio, generalis proble-
+matis quod sequitur, solutionem analyticam tra·
+dituri ut inventionis fons ipse aperiatur.
+
+PROBLEMA.
+
+82. Definire motum corporis solii vi insita
+lati in medio quod resistit in ratione compositfi
+ex simplici ratione densitatis medii, et quavis ra-
+tione multiplicata celeritatis mobilis.
+
+E loco A egrediatur corpus cum velocitate
+dat-‘2⁴1 c et tempore t describat rectam A M = s,
+sitque ejus velocitas in M = v densitas medii in
+eodem loco = k, et resistentia r erit (17. )kr d s
+
+v ¹¹»
+
+ 
+
+— v d v. Ponatur resistentia r = a„ ‚
+
+⁹ k v ¹¹ d s
+
+α’·
+=-vdv,ethinckds=-a⁸v1-—”dv.
+Per punctum M, erigatur ad A M, perpendicu-
+lum M P quod exponat medii densitatem k in
+
+sitque a quantitas data, et habebitur
+
+ 
+
+Ι)
+
+  
+
+A M m
+loco M, sitque D P p curva quam punctum P
+perpetuo tangit, et erecto altero perpendiculo
+m p priori M P infinite propinquo ut sit M m
+=ds, erit elementum Μ Ppm=kds=
+— a ¹¹ v ¹ - '¹ d v, sumptisque fluentibus, area
+A D Ρ Μ ξ §.ze-¹¹12:
+2 — 11
+
+nescente area A D P M, evanescit quoque s, et
+Q ''⁸'- a n c α -” n ’Β x
+, et ldeo
+
+; quia vero eva·
+
+fitv=c,erito= 2—11
+
+constans Q= aflc2—”,a¹t¹queita A D PM
+n -, n n .—
+8 c 2 - a v 2 . Porro si densi-
+
+— n
+tas k, seu P ἔα, est' ut functio quaevis spatii de·
+

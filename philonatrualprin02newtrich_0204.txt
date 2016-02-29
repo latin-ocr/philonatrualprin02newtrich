@@ -1,0 +1,122 @@
+192
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. CoRPoR.
+
+quoniam particularum situs sunt similes et vires proportionaleS, (ἵ) vires
+totae quibus particulae correspondentes agitantur, ex viribus singulis agi-
+tantibus (per legum Corollarium secundum) compositae, similes habebunt
+determinationes, perinde ac si centra inter particulas similiter sita respice-
+rent3 et erunt vires illae totae ad invicem ut vires singulae componentes,
+hoc est, ut correspondentium particularum¹ diametri inverse, et quadrata
+
+velocitatum directe: et propterea efficient ut correspondentes particulae
+
+figuras similes describere pergant.
+
+(ἵ) ¹* Vires totae quibus particulae correspon-
+dentes agitantur similes habebunt determinationes,
+et erunt ad invicem ut correspondentiam particu-
+larum diametri inverse et quadrata velocitatum
+directe.
+
+¹* Particula A inter duas S et P, et particula
+a inter duas 5 et p sint similiter sitae, et quecum-
+que celeritate in directione similiter posite par-
+ticulae illae A et a ferantur, trahanturque vel fu-
+gentur illae particulae A 'et a ὲ particulis S et P,
+5 et p per vires quae sint ut diametri particularum
+correspondentium inverse sive ut lineae homolo-
+gae inverse, et quadrata velocitatum directe, dico
+prime quod directio vis compositae trahentis parti-
+culas A et a similiter posita erit in utroque syste-
+mate, nam anguli S A P et 5 a p, quos faciunt
+vires agenteS, ex hypothesi aequales sunt, vis
+autem composita sequetur diagonalem quae faciat
+angulos cum directione utriusque vis componentis
+quorum sinus sint reciproce ut vires agentes, per
+naturam virium compositarum, sit ea diagonalis
+hic A M, illic a m, erit ergo sinus anguli S A M,
+
+A a
+f 5³²? .....
+NJ ἔ
+
+ad sinum anguli P A M, inverse ‘ut vis particu-
+1ae S ad vim particulae P sive directe ut lineae
+homologae S A et P A (nam quoniam de unico
+corpore A nunc agitur ratio quadratorum velo-
+citatum hic nihil mutat) pariter sinus anguli s a m
+est ad sinum anguli p a m ut s a ad p a3 sed est
+S A ad P A sicut 5 a ad p a ex hypothesi, ergo
+anguli aequales S A P et s a p in eadem ratione
+secantur per lineas A Μ, a m, ideoque anguli
+S A Metsam, MAPetmapsuntaequale5‚
+ergo directio vis compositae trahentis particulas
+A et a in singulo systemate similiter est posita.
+Q. erat 1.
+2. Vires illae compositae erunt ut particula-
+Eum diametri inverse et quadrata velocitatum
+irecte
+
+(¹¹) Haec ita se habebunt (per Corol.
+
+A N quae vim particulae S exprimat, ducaturque
+N M, parallela A P, et ex M ducatur M R
+parallela A S, flet parallelogrammum A N M R,
+in quo M R = A N, et angulus A M R =
+ang. M A N, ideoque A N ad A R ut sinus
+anguli M A R ad sinum ang. M A N, sive ut
+P A ad S A, hoc est ut vires particularum S et
+P, ide6que A R exprimet vim particulae P, et
+A M exprimet vim compositam ex viribus S et
+P. Sumatur in as lineola a n, quae sit ad A N,
+ut a s ad A S inverse, et ut quadratum velocita-
+tis in a ad quadratum velocitatis in A directe,
+ductisque n m et m r parallelis lineis a p, a 5
+erunt a n et a r ut vires particularum 5 et p, et
+a m exprimet vim ex iis compositam.
+
+Sed ob similitudinem triangulorum A N M,
+anm est A Nad A M sicutanadam‚ sive
+vis particulae A, ad vim compositam ex particu-
+lis S et P, ut vis particulae a ad vim compositam
+ex particulis 5 et p, ideoque vicissim, vis parti·
+culae A ad vim particulae a ut, vis composita ex
+vi particularum S et P, ad vim compositam ex ·
+viribus particularum 5 et p; sed vis particulae A
+est ad vim particulae a, inverse ut particularum
+diametri, et directe ut velocitatum quadrata ex
+hypothesi, ergo vires compositae suntin eadem
+ratione. Q. es d.
+
+Idem ratiocinium ad vires compositas ex plu-
+ribus particulis extendetur. Unde vires τοίω,
+&c.
+
+(¹²) * Haec ita se habebunt (per Cor. 1. et 8.
+Prop. IV. Lib. 1.). Aut quod idem est per
+hoc Lemma.
+
+189. Lemma. Si corpora duo A, a, circa
+centra immota S, s, projiciantur secundum di-
+rectiones A D, a d, quae cum distantiis A S et
+a 5 aequales angulos D A S, d a s constituunt, et
+urgeantur viribus acceleratricibus centra illa S,
+s respicientibus, quae semper sint inter sc ut
+quadrata velocitatum corporum directe et distan-
+tiae a centris inverse, corpora illa figuras similes
+circa centra S et 5 describent, similesque et pro-
+portionales figurarum illarum partes temporibus
+proportionalibus percurrent.
+
+In projectilium directionibus capiantur partes
+quam minimae A D, a d distantiis A S, a 5 pro-
+portionales. Jungantur S D, s d et corpora A,
+a temporibus quibusvis T, t describant arcus
+A B, abqui lineas S D, sd attingunt. Su-
+mantur arcus A F, a b qui eodem tempuscula
+
+Secetur utcumque in directione A S lineola descripti sint, et dlicta F G parallela S D, erit
+

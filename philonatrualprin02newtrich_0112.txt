@@ -1,0 +1,105 @@
+100
+
+Corol. Si centro D semi-diametro D A
+per verticem A ducatur arcus A t similis
+arcui E T, et similiter subtendens angulum
+A D T: velocitas A P erit ad velocitatem,
+quam corpus tempore E D T, in spatio
+non resistente, ascendendo amittere vel
+descendendo acquirere posset, ut area trian-
+guli D A P ad aream sectoris D A t; ides)-
+(ὃ) Nam ve-
+locitaS, in medio non resistente, tempori,
+
+que ex dato tempore ¹datur.
+
+PHILosoPfflAE NATURALIS [Mons. CORPOR.
+
+ 
+
+atque ideo sectori huic proportionalis est3
+
+in medio resistente est ut triangulum 3 et in medio utroque, ubi quam mi-
+nima est, accedit ad rationem aequalitatiS‚ pro more sectoris et trianguli.
+
+(⁵) * Νοπι velocitas in medio mm resistente corpori velocitas sit A P, erit ut sector hyper-
+(25. Lib Ι.) tempori atque adeo sectori E D T, bolicus D Ε Τ; nam velocitatis decrementum
+
+et proinde sectori D A t, proportionalis est ; in
+medio resistente est ut A P, seu ob datam B D
+ut ὲ Β D Χ A P; sive ut triangulum A D P;
+et in medio utroque ubi quam minima est,
+nempe initio descensus e quiete vel in fine ascen-
+sfis accedit ad rationem aequalitatis ob resisten-
+tiam evanescentem, evanescente velocitate, pro
+more sectoris D A t et trianguli D A P co‘eun-
+tibus punctis t et P cum puncto A.
+
+139. Quoniam ubi in corporis descensu B P
+fit = B D, angulus B D P semi-rectus evadit,
+et recta D P asymptotus hyperbolae aequilaterae
+B E T, manifestum est quod corpus e quiete
+cadendo nonnisi finitam velocitatem infi-
+nito tempore possit acquirere. Erit enim
+velocitas tempore infinito acq1·isita B D
+—-· A B. Si verb corpus verticaliter deor-
+sum datii cum velocitate projiciatur, vel
+iila velocitas maximae seu terminali B D
+— A B aequalis est, et in hoc casu eorpus
+motu uniformi descendit ob resistentiam
+gravitati aequalem3 vel terminali minor
+est, et corporis cadentis motus perpetu&
+acceleratur, donec infinito tempore veloci-
+tatem maximam acquir-au vel tandem ter-
+minali major est, tumque corporis motus
+perpetuo retardatur, donec infinito tem-
+pore elapso ad velocitatem terminalem re-
+ducatur; hoc autem casu sic absolvitur
+constructio.
+
+Sit A a velocitas datae projectionis terminali
+major, A P velocitas perpetui) decrescens, A P2
+42 Β A Presistentia, et Β D2 — A B 2 vis gra-
+vitatis3 existente anguio D B A recto; et sica
+piatur B R = B D, compleaturque quadratum
+D B R F, ac centro D et vertice principali F
+describatur hyperbola rectangula F E T V, se-
+cans rectas Da, D P et D Q, in E, T, V;
+tempus descensus ab initio usquequo residua
+
+t
+
+ὓ]
+
+P Q, in data temporis particula factum eique
+proportionalis area D P Q est ut excessus re·-
+sistentiae supra gravitatem (18), id est, ut A P ²
+4213AP÷AB2-BD2‚seuBP2-.
+BD2; et area DTV estadaream DPQ,
+ut D T2 ad DP2, ideoque ut G T2‚ (seu
+GD2—BD2) adBD2, et ut GD2ad
+B P2, et divisim, ut B D2 ad B P2—B D2.
+Quare cum area D P Q, sit ut B P2--B D2,
+erit area D T V ut datum B D 2. Crescit igi-
+tur area E D T, uniformiter singulis temporis
+particulis aequalibus per additionem totidem da-
+tarum particularum D T V, et propterea tempori
+
+QRAB
+
+Ρχζν,
+Β.»
+
+GP D
+
+descensus proportionalis est. Coincidente vero
+puncto P, cum R, et ide& recta D P, cum
+asymptoto D R, velocitas A P terminali A R
+seu B D — A B aequalis evadit, et sector D E T
+infinitus, proindeque tempus etiam infinitum fit.
+Q. e. d.
+
+140. Hinc etiam si centro D, semi-diametro
+D a, per verticem ρ, ducatur arcus hyperbolicos
+a t similis arcui E T, et similiter subtendent}
+

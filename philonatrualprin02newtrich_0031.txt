@@ -1,0 +1,100 @@
+Limen Sisenna] PRINCIPIA MATHEMATICA. 19
+
+Corol. l. Igitur velocitas maxima, quam corpus cadendo potest acqui-
+rere, est ad velocitatem dato quovis tempore acquisitam, ut vis data gra-
+vitatis, quii corpus illud perpetuo urgetur, ad vim resistentiae, qu& (q) in fine
+temporis illius impeditur.
+
+Corol. 2. Tempore autern aucto in progressione arithmeticfi, summa
+velocitatis illius maximae ac velocitatis in ascensu, atque etiam earundem
+differentia in descensu (r) decrescit in progressione geometrice.
+
+Corol. 3. (⁵) Sed et differentiae spatiorum, quae in aequalibus temporum
+differentiis describuntur, decrescunt in efidem progressione geometricii.⁴
+
+assumpta sit A L subtangenti mqualis, est area Quare tempore aucto in progressione arithmetica,
+A L S H, aequalis rectangulo A L >< P 83 summa velocitatis maximae ac velocitatis in ascen-
+Quare in hac hypothesi, erit spatium prius ad su residuae decrescit in progressione geometricfx.
+posterius ut L P, ad P S. Simili modo in descensu corporis patet quod
+
+(q) '¹‘ Infine temporis illius impeditur. Est crescentibus temporibus (vid. fig. notae super.)
+enim velocitas dato tempore, A B r L acquisita, A B qK, A B r L, A B s M, &c., in progres-
+ad velocitatem alio quovis tempore A B t N ac sione arithmetice, abscissae C A, C K, C L,
+quisitam, ut rectangulum A l ad rectangulum C M, δια, decrescunt in progressione geometri-
+A n, sive ut linea data A L, ad lineam A N, (ex αἱ (380. Lib. L), sed abscissae illae sunt ut dif-
+ferentiae velocitatis maximae quam exhibet
+linea A C et velocitatis acquisitae quam
+exponit linea A K, vel A L, vel A Μ,
+&c·‚ crescente igitur tempore in progres-
+sione arithmetica, differentia velocitatis
+maximae, et velocitatis dato quovis tem-
+pore in descensu acquisitae, decrescit in
+progressione geometrica. ffinc si summa
+illa in ascensu et differentia in descensu
+numeris exprimantur, erunt tempora ut
+eorum numerorum logarithmi.
+
+(³) '¹‘ Sed et differentiae spatiorum.
+Nam si iu ascensu corporis capiantur
+tempora D Gq K, K qu, LrsM,
+M s t N, διο. (vid. fig. prim. pag. prce-
+ced.) aequalia, erit spatium primo tem-
+pore descriptum ut G E k q = D K ><
+D E-D Gq K; spatium tempore secun-
+dem), et ideo velocitas corporis cadentis cum do descriptum ut q k 1 r = K L >< 1) E —
+are& A B t N, seu cum tempore continuo crescit. K q r L (sive quia K q r L = D G q K) =
+Sed coincidentibus puncto N cum puncto C et K L >< D E — D G q K, et itai de caeteris.
+
+   
+
+Π
+
+  
+
+[ιξΙῐ ΙΕΕ
+
+Ati KLXMN ‘²'
+
+ordinat& N t cum asymptoto C H, area A B t N
+infinita evadit, hoc est, tempus fit infinitum et
+velocitas maxima3 Quare velocitas maxima quae
+etiam terminalis dicitur, est ad velocitatem dato
+quovis tempore AB r L, acquisitam ut A C ad
+A L, seu ut rectangulum A H, ad rectangulum
+A 1, hoc est, (ex dem·) ut vis gravitatis a'd vim
+resistentiae in fine temporis A B r L.
+
+ζ’) * Decrescit in progressione geometrica. In
+ascensu corporis temporibus D G q K, D G rL,
+D G s M, διο. in arithmetici progressione cres-
+centibus, abscissae C D, C K, C L, &c in pro·
+gressioue geometrica decrescunt (580. Lib. Ι.)
+sed singulae abscissae illae sunt (ex dem.) ut
+summa velocitatis maximae quam exponit linea
+
+· C A, et velocitatis residuae quam exponit linea
+
+A K vel A 1„ vel A M, δια, in fine temporis
+D Gq1{,vcl DGrL, vel DGs M, &c.
+
+Quare differentia spatiorum primo et secundo
+tempore descriptorum est ut D K >< D E —
+KL><DE, id est, ob datam DE‚utDK
+— K L; et simili argumento differentia spatio-
+rum secundi et tertii temporis est ut K L.—
+L M; differentia spatiorum tertii et quarti tem-
+poris ut L M — M N. Erunt igitur differen-
+tiae spatiorum quae in aequalibus temporum dif-
+ferentiis describuntur ut differentiae D K —
+KL, KL - L‘M, LM-MN‚ &c., sed
+(ex dem.) termini D K, K L, L M, M N,
+&c.‚ decrescunt ut termini progressionis geome-
+tricae D C, *K C, L C, M C, διο. Ergo differ·-
+entiae DK—KL, KL—LM, L Μ --
+Μ N, &c.‚ decrescunt ut D K, K L, L M,
+M N, &c.‚ seu ut termini progressionis geome-
+trIcae D C, K C, L C, M C. διε. Eadem est
+demonstratio pro descensu.
+
+132
+

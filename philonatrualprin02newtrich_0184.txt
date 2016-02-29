@@ -1,0 +1,120 @@
+172
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. CORPOR.
+
+bus sunt in duplicata ratione arcuum descriptorum quam proxime, in mi-
+
+noribus vero paulo majores quam in ea ratione; et propterea (per Corol.
+2. Prop. XXXI. Libri hujus) resistentia globi, ubi celerius movetur, est
+in duplicata ratione velocitatis quam proxime 3 ubi tardius, paulo major
+
+quam in ea ratione.
+
+(g) Designet jam V velocitatem maximam in oscillatione quavis, sintque
+A, Β, C quantitates datae, et fingamus quod differentia arcuum sit A V -Ι-
+B V ᾗ· -1- C V ². (¹¹) Cum velocitates maximae sint in cycloide ut semisses
+
+oscillatione mediocri per primam, omnes illae
+differentiae erunt ut 1. 3 2-7107 3 9.5o72‚ 36. 9577 ς
+141.8578; 5428965.
+
+Quadrata vero arcuum sunt ut 1, 4, 16, 64,
+256, 1024. unde ex eorum numerorum inspec-
+tione liquet differentias quae in minoribus oscilla-
+tionibus observatae sunt esse ad eas quae in ma-
+joribus arcubus observantur in majore ratione
+quam duplicata arcuum 3 in majoribus vero oscil-
+lationibus rationes illarum differentiarum ad ra-
+tionem duplicatam arcuum magis accedunt, ut
+enim arcus in progressione dupla fuere sumpti,
+ratio duplicata arcuum proximorum est ratio 1
+ad 4. jam vero 9.5o72 est non multo major 4.
+parte numeri 86. 957 7, iste autem ad 4. partem
+numeri 141.8378, magis accedit, propius adhuc
+iste accedit ad quartam partem numeri 5428965.
+Unde inter arcus magnos, motus amissos iu du-
+plicata fere ratione arcuum sive velocitatum sumi
+posse deducitur. .
+
+Idem manifestius patebit si dividantur hi nu-
+meri qui arcuum differentias exprimunt per ip-
+sorum arcuum rationes, habebuntur enirn 1. ς
+1.355:3; 2.3788; 4.6197; 8.8648; 16. 9655, qui
+si resistentiae forent ut quadrata velocitatum, de-
+berent esse ut ipsi arcus ᾗ, 1, 2, 4, 8, 16. Sed
+ex ipsa inspectione liquet minores differentias
+majoribus numeris exprimi quam ipsi arcus, ma-
+jores vero fere iisdem. Si vero supponeretur re-
+sistentiam non tantum esse in ratione duplicata
+velocitatum, sed etiam partem aliquam aliunde
+quam ex mera inertia materiae oriundam, esse ut
+velocitas, ideoque cum hae quantitates mox in·
+ventae sint quotientes differentiarum arcuum per
+velocitates divisarum, hae quantitates constarent
+parte constante et alia parte velocitati sive arcui
+proportionata.
+
+Sumatur itaque prima quantitas l, et ordine con-
+feratur cum secunda, tum cum tertia, cum quarta,
+ἃς. supponaturque‘illas constare duabus partibus
+altera velocitati proportionata altera constanti,
+v. gr. sit prima quantitas l = a -1- x secunda
+1.3558 = 2 a ''l-¹² iis ita binatim calculatis ut
+eruatur valor aet x, quantitas constans x, in sin-
+gulo calculo eadem non invenietur, sed varii isti
+obtinebuntur valeres hoc ordine .6447 ; ..54043
+.4829 ; ‚4757 3 .4849, qui decrescunt ordine quo-
+dam regulari (ultimo excepto ob aliqualem exi-
+guum errorem), unde liquet, rationem differen-
+tiarum arcuum, non esse partim in ratione du-
+plicata ipsorum arcuum, et partim in eorum ar-
+
+cuum ratione simplici, sed his adJungi debere
+rationem aliquam intermediam quam sesquipli-
+catam arcuum assumit Newtonus‚ quod cum ex-
+perimentis propius consentit.
+
+(g) ¹* Designet jam V velocitatem maximam,
+sive quantitatem velocitati maximae proportiona-
+lem, z'n oscillatione quavis, sintque A, B, C quan-
+titaces constantes, quarum valores per experimen-
+ta determinabuntur3 et fingam us quod resistentia,
+seu differentia arcuum ipsi proportionalis (Prop.
+XXX L), sit partim ut velocitas, partim ut ve-
+
+locitatis quadratur} et partim ut velocitatis dig-
+
+nitas cujus index ξ, et proinde supponamus quod
+arcuum differentia sit A V -ξ- Β V ξ -1- C V2,
+
+c.
+
+(¹²) * Czim velocitates maximni, &c. Corpus
+pendulum in medio non resistente oscilletur in
+cycloide S B R Q, sitque A punctum suspen-
+sionis, et R punctum infimum ac medium arcfis
+totius S R Q. Centro A et radio A R descri-
+batur arcus circuli M T R N, in quo corpus
+idem, vel aliud simile et aequale oscilletur in
+eodem medio non resistente. Sit T R arcus
+circularis aequalis arcui cyc101dis t R, et R B
+arcus quam minimus cycloidi et circulo commu-
+nis (465. Lib. L). Jam si corpus e locis T et
+
+ 
+
+B successive cadat in circulo, erit ipsius veloci-
+tas maxima in R descensu per arcum T R ac-
+quisita, ad velocitatem descensu per arcum B R
+acquisitam, ut chorda T X R ad chordam arcus
+R B (88. Lib. 1.), aut, quod idem est (per
+
+Lemma VI 1. Lib. L), ut chorda T X R ad arcum ’
+
+cycloidis B R; et velocitas descensu per arcum
+B R acquisita in R est ad velocitatem maximam
+descensu per arcum cycloidist Β R acquisitam,
+ut arcus B R ad arcum t B R seu arcum circuli
+

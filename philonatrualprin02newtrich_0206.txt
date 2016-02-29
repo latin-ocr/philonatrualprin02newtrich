@@ -1,0 +1,72 @@
+194 PHILOSOPHIAE NATURALIS [Moneonpon.
+
+Est enim eadem ratio partium majorum systematis utriusque atque par-
+ticularum.
+
+Corol. 2. Et similes et similiter positae systematum partes omnes
+quiescant inter se: et earum duae, quae caeteris majores sint, et sibi mutuo
+in utroque systemate correspondeant, secundum lineas similiter sitas
+simili cum motu utcumque moveri incipiantz' hae similesin reliquis syste-
+matum partibus excitabunt motus, et pergent inter ipsas tem-poribus pro-
+portionalibus similiter moveri3 atque ideo spatia diametris suis propor-
+tionalia describere.
+
+PROPOSITIO XXXIII. THEOREMA XXVII.
+
+Iisdem positis, dico quod systematum partes majores resistuntur in ratione
+composita eoe duplicatd ratione velocitatum- suarum et duplicatd ratione
+diametrorum et ratione densitatis partium systematum.
+
+Nam resistentia oritur partim ex viribus centripetis vel centrifugis
+quibus particulae systematum se mutuo agitant, partim ex occursibus et
+reflexionibus particularum et partium majorum. Prioris autem generis
+resistentiae sunt ad invice-m ut vires totae motrices a quibus oriuntur,
+(Ζ) id est, ut vires totae acceleratrices et quantitates materiae in partibus
+correspondentibus; hoc est (per Hypothesin) ut quadrata velocitatum
+directe et distantiae partiCularum correspondentium inverse et quantitates
+materIae inpartibus correspondentibus directe: ideoque cum distantiae
+particularum systematis‘unius sint ad distantias correspondentes particU«
+larum alterius, ut diameter particulae vel partis in systemate priore ad
+diametrum particulae vel partis correspondentis in altero, (a) et quantitates
+materiae sint ut densitates partium et cubi diametrorum3 resistentiae sunt
+ad invicem ut quadrata velocitatum et quadrata diametrorum et densitates
+
+partium systematum.
+
+Q. e. d. (b)
+
+(²·) ⁸¹ Id est, ut vires totoe acceleratrices et quan·
+titates materiae (per Def. 8. Lib. L).
+
+(³)* Et quantitates materiae sim, διο. Quan-
+titates materiae sunt ut densitates et volumina
+partium conjunctim (2. Lib. L), et ob partium
+similitudinem, volumina sunt ut cubi laterum
+homologorum, seu diametrorum, ideoque quan-
+titates materiae sunt ut densitates partium et cubi
+diametrorum.
+
+(b) ⁴ Posteriomts generis nascentiae, διο. Si enim
+vires reflexionum supponantur aequales, resisten-
+tiae sunt ut numeri reflexionum seu occursuum3
+et si numeri reflexionum aequentur, resistentiae
+sunt ut vires reflexionum correspondentium3
+
+Posterioris generis resistentiae sunt
+
+unde, conjunctis his rationibus, resistentiae quae
+ex particularum et partium majorum occursibus
+et reflexionibus oriuntur, sunt semper ut re-
+flexionum correspondentiam numeri et vires con-
+junctim. Numeri autem reflexionum‚ caeteris
+paribus, sunt ad invicem ut velocitates partium
+correspondentium directe, et, caeteris paribus,
+sunt inverse ut spatia inter particularum et par-
+tium correspondentium occursus seu reflexiones
+intercepta, id est, inverse ut partium correspon-
+dentium diametri, ide6que numeri rcffleaiomcm
+sunt ad invicem ut velocitates partium correspon-
+dentium direct& et earumdem diametri inverse.
+
+Et vires resia-:tionum sunt ut motus quantitates
+

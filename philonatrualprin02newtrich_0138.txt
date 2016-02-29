@@ -1,0 +1,258 @@
+126
+
+(158.) ex data corporis velocitate invenitur tum
+vis centripeta, tum resistentia et medii densitas.
+
+vRvpy = vpvddyp3 unde habetur
+vis centripeta g; datis autem vi centripeta et
+celeritate, invenitur tum resistentia r, tum medii
+densitas k, ut supra (158).
+
+161. Exemplum sit in spirali hyperbolica cu-
+jus haec est proprietas ut si per centrum C eriga-
+tur ad radium C P, perpendicularis C X tan-
+genti P X per P ductae occurrens in X sit sub-
+
+tangens ina C X constans. Velocitas sit ut
+
+ 
+
+Est enim g =
+
+ 
+
+ 
+
+tangens P X, et resistentia r ut densitas meldii {t
+. v Ι
+
+. quadratum velocitatis conjunctim, hoc est r== -ff- ,
+
+dicaturque C X, c, et ideo P X = 4! yy-{—c c,
+atque (per Hyp.) v = Q
+
+quantitas data. Erit ob triangula C P T,
+X P Csimilia‚ PX (M yy†cc):CX
+(c) = P C (y) : C T (p), et ideo p =
+
+c y c 3 d y
+
+ 
+
+ 
+
+‚ et e,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v ‚dp= ‚etffyy—PP
+yy†⁰⁰ yy-f-cc}
+εΔ-ἷ--. Quarefiet(160)g=vvddp=
+μνη-ΗΘ p y
+
+—; id est, vis centripeta ut distantiaPC reciproce.
+{uia νθτόνῦεἶ-Ξχ (yy÷cc) eritvdv=
+
+eeydy
+
+cc
+
+vdvv‚yy-,—,-pp4Q-;gg=
+
+ydy 2 ζ
+
+eeyy 4 e :exyL-l-—Cj
+
+>cc4l2yy4-cc ..yyy-fi-cc ccffyy-f-cc
+e
+
+= ᾗ Χ V y y -Ι- c c, adeoque resistentia ut
+
+et propterea pro corporis descensu r =
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tangens P X, seu υξ velocitas. Cum igitir} sit
+¹2⁶0 >«yy÷ ψεῖ-εχ
+«l y ly -ι- c c, erit densitas medii k =
+
+r=kv²=
+
+ 
+
+ 
+
+ 
+
+seu reciproce ut tangens P X
+
+“A-'‘²‘’ ἲ
+
+Myr-bec
+
+sive reciproce ut velocitas.
+
+162. Cor-ol. 9. Data medii densitate et con-
+cessis flgurarum quadraturis, dabitur vis centri-
+peta et corporis velocitas. Est enim (27. et 160 )
+
+PHILOSOPHIAE NATURALIS [Moneonposs. '
+
+vdv†vvpdp=—rds= kvgds
+
+et dividendo per v m, et multiplicando per p 2-m,
+fitp2-mv1-mdv-1-v2—-fflp1 -mdp=
+
+k p ² - ¹¹¹ d s . . .
+- b ‚ et sumptis utrumque fluentibus
+
+habetur, 2
+
+Skpz—mds'd' 2—m—
+. b ,reoquev -(m—2) ><
+
+S· k p 2 — “¹ d S . · ..
+W, Quare si densltas medu k,
+
+sit ut functio quaevis distantiae P C a centro C,
+inveniri poterit fluens S. k p ² -· ¹¹⁸ d s aut alge-
+braice aut per figurarum quadraturam, et loco
+
+ydy
+
+ 
+
+ 
+
+(158)
+
+ 
+
+ 
+
+ 
+
+(26). Inventa
+
+ 
+
+d s, scribi potest ὲ·-
+
+ 
+
+autem velocitate v,4‹)lbt÷rn{tur xiispcentripeta g per
+vvdp=vvy(160).
+.1³.d y ,ΚΡ . .
+163. Corol. 3. S1 m superiori Corollario sit
+m = 2, id est, resistentia ut densitas et quadra·
+tum velocitatis conjunctim, crit :3 —— m = o, et
+aequatiop² -· mv ¹—¹¹¹ dv†v2 - mp¹—-m dp
+
+. . (1 v
+m hanc mutabitur ,Τ
+
+ 
+
+aequationem g =
+
+ 
+
+kp2-mds
+—kds
+
+÷——= b,
+habetur L.v -l-L· p=- S.
+
+kds
+—S. b
+
+v, et hinc habetur g ut supra.
+
+164. Corol. 4. sit in hypothesi Corol. 5. den-
+sitas medii k uniformis, velocitas corporis in loce
+dato v = c, et perpendiculum p in eodem loco
+
+k s
+
+=q datae, erit L.v=—-ff--L.p-{-Q‚et
+
+ 
+
+ 
+
+unde sumptis fluentibus,
+
+kgietLa=
+
+-— L. p, ex qua aequatione invenitu·
+
+ 
+
+ 
+
+quia in loco V, fit s = o, v = c, p = q, erit
+
+Q=L.c÷ L. q= L. cq. EthincL.v=
+L S—q-—l-K-g. Ponatur L.h= 1, utsit L. v=
+ks
+
+ἴ χ L. h = L. ἑὲ. Unde. de-
+
+k—s-
+
+1..AE—
+p
+
+ 
+
+ 
+
+ducitur v ‚=
+
+ 
+
+ 
+
+ 
+
+:3
+p 125·bC⁰;i⁰l·y5· In his autem omnibus inve-
+niri potest tempus per aequationem d t -,. (3-5,
+
+v
+ds
+
+’seu t= s. -ν- (13).
+

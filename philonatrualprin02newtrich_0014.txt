@@ -1,0 +1,128 @@
+2 PHILOSOPHIAE NATURALIS
+
+[Mo'r. μ(ἶοῑιῑὊῐῑι.
+
+quuntur‘hypotheses non aegre referri plerumque tentiam ex tenacitate data, vi illi gravitatis aequa-
+
+possunt ad determinationes motuum quas aliae
+priores hypotheses (de quibus ab initio actum
+est) suppeditant, quod deinceps ostendemus.
+
+8. Si medium in quo corpus movetur per-
+fecte fluidum sit, hoc est, partibus constet op-
+time laevigatis nullaque tenacitate cohaerentibus,
+quae proinde vi cuicumque illatae cedant, et ce-
+dendo facillime moveantur inter se, sola ea con-
+sideranda est resistentia quae ex medii reactione
+ortum ducit, estque illa ut densitas medii et
+quadratum velocitatis mobilis dati conjunctim.
+Haec enim resistentia (per Motfis Leg. 2. et 5.
+Lib. 1.) est ut quantitas motus dato tempusculo
+communicati ; sed data mobilis velocitate, quan-
+titas molfis communicati est ut quantitas fluidi
+tempusculo dato movenda, hoc est, ut densitas
+medii; data autem medii densitate, quantitas
+motus communicati est ut quantitas fluidi dato
+tempusculo dimovenda, et ut velocitas qua quan-
+u'tas illa fluidi movetur conjunctim, et quantitas
+fluidi dato tempusculo dimovenda velocitati mo-
+bilis proportionalis est, corpus enim duplo velo-
+cius altero, duplo majus spatium in fluido per·
+curret, sicque duplo pluribus particulis occurret.
+Quare data densitate medii, resistentia est ut
+quadratum celeritatis mobilis, atque ade& si
+neque fluidi densitas, neque mobilis celeritas
+data sit, erit resistentia ut medii densitas et qua-
+dratum velocitatis conjunctim, atque haec est re-
+sistentia quae ortum ducit ab inertia particularum
+fluidi quas corpus motum e loco dimovet et quae
+in velocioribus motibus sola fere observatur.
+
+9. Altera resistentia quae ex tenacitate partium
+fluidi uniformis nascitur, constans est, aut quod
+idem est, temporis momento proportionalis, ea'm-
+que in tardissimis motibus sensibilem faciunt ex-
+perimenta. Si enim partium fluidi cohaesio sit
+ubique eadem, vi quadam determinata opus est
+ut partes illae separentur, corporique transitum
+praebeant, quacumque demum velocitate illud
+feratur, et ide& vis illa resistentiae cum vi gravi-
+tatis uniformi, quae corporis ascendentis motum
+retardat, conferri potest. Nam corpora duo si-
+milia etlaequalia cum pari velocitate e locis C etc
+
+Ι
+
+ 
+
+per lineas C E, c e, ad rectam C c normales pro-
+jiciantur, et in locis aeque altis A et a, B et b,
+D et d, «Sco. aqualem patiantur resistentiam3
+corpus quidem C resistentiam experiatur a vi
+gravitatis constante (quae in locis A, B, D, E,
+διε. tantum agat) oriundam, corpus vero e resis-
+
+li, in locis tantum a, b, d, &c- reagente ortam ;
+in spatiis verb intermediis A B et a b, B D et
+b d, ὅτε. nullum sit motibus obstaculum3 dum
+corpora perveniunt in A et a, aequalem habent
+velocitatem, et deinde victis aequalibus in A et a
+obstaculis, pari adhuc velocitate per spatia mi-
+nime resistentia A B et a b, feruntur3 et simili
+modo, ob aequales resistentias in locis B et b per
+spatia B D et b d simul moventur, et ita dein-
+ceps eandem semper velocitatem in locis aeque
+altis habent. Minuantur jam aequalia illa spatia
+A B et a b, Β D et b d, ἃς. et eorum numerus
+augeatur in infinitum, ut vis gravitatis et resis-
+tentiae actio vel reactio continua reddatur, et cor-
+pora duo eandem ubique resistentiam patientur,
+et in locis aeque altis eandem velocitatem habe-
+bunt. Quare resistentia quoe ex fluidi tenacitate
+ortum ducit, potest cum vi gravitatis uniformis
+comparari, licet medii tenacitas in corpus quies-
+cens (quod quidem vi gravitatis semper urgere·
+tur) agere nullo modo possit.
+
+lo. In fluidis igitur tenacitate aliqua praeditis,
+resistentia est partim uniformis, partim velocita-
+tis quadrato proportionalis (8. 9.)
+
+11. Lemma. .In quacunque resistentiae hypo-
+thesi, corporis tam in medio resistente quam in
+vacuo moti velocitas finita in singulis locis est ut
+elementum spatii descripti directe et momentum
+temporis quo describitur inverse. Velocitas
+enim uniformis est ut spatium quodcunque des-
+criptum directe et tempus quo id spatium descri-
+bitur inverse. In medio autem sive resistente
+sive vacuo velocitas per spatium infinite par-
+vum aequabilis est (6.)
+
+12. Corol. 1. Hinc temporis momentum est
+ut momentum seu elementum spatii directe et
+velocitas inverse3 momentum vero spatii ut ve-
+locitas et momentum temporis conjunctim.
+
+15. Corol. 2. Si igitur velocitas dicatur v,
+spatium descriptum s, tempus quo descriptum
+
+est t eritvaeg—{‚ vdt = dsetdt = EIVS,
+
+surgptisque fluentibus S. v d t = s, et t =
+s
+
+s. Τ·
+
+14. Cor-ol. 5. Si ita descripta fuerit curva
+B P C ut ejus applicatae M P, m p, axi A D»
+normaleS, exponant velocitatem ν, et abscissae a
+
+P Ρ C
+
+Α , Μ '11¹ 15
+puncto fixo A sumptae A M, A m tempus t,
+erectumque sit perpendiculum A B cu rvae occur-
+
+rens in B, area A B P M exponit spatium tem-
+

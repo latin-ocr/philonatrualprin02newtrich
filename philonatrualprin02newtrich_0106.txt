@@ -1,0 +1,64 @@
+94 PHILOSOPHIAE NATURALIS [Mor. Coacon.-
+
+SECTIO ΠΙ.
+
+De motu corporum quibus resistitur partimin ratione velocitatis,
+partim in ejusdem ratione dchlz’cata.
+
+PROPOSITIO XI. THEOREMA VIII.
+
+Si corpori resistitur partim in ratione velocitatis, partim in velocitatis ra· ν
+tione duplicata, et idem sold vi insita in medio similari movetur.- suman-
+tur autem tempora in progressione arithmetica ; quantitates velocitatibus Ι
+reciproce* proportionales, datc‘z' quddam quantitate amtoe, erunt in progres-
+sione geometrica.
+
+Centro C, asymptotis rectangulis C A D d et C H, describatur hyper-
+bola B E e, et asymptoto C H parallelae sint A B, D E, d e. In asymp-
+toto C D dentur puncta A, G‘: et si
+
+tempus exponatur per aream hyper-
+
+bolicam A B E D uniformiter cres· Q
+
+H
+
+centem3 dico quod velocitas exponi
+
+potest per longitudinem D F, cujus N
+
+reciproca G D unii cum data ,C G Q
+
+componat longitudinem C D in pro· =
+
+gressione geometrica crescentem.
+Sit enim areola D E e d datum C GT—*B <l
+
+temporis incrementum queim mini· F
+
+mum, (ὃ) et erit D d reelproce ut
+
+D E, ideoque directe ut C D. Ipsius autem &15 decrementum, quod
+
+Dd , eritut CD seu &fid
+GDq GDq GDq
+
+Igitur tempore A B E D per additionem data·-
+
+ 
+
+ 
+
+ 
+
+(b) (per hujus Lem. II.) est
+
+est, ut GLD -ι- „G--CDG .
+
+(²) ⁶ Et erit D d reciproce ut D E. Est enim proce ut D E; sed (per Theor. IV. de Hyperb.)
+areola evanescens D E e d aequalis rectangulo datum est rectangulum C D >< D E„ promde
+D E χ D d, quod, ob datum temporis incre· C D, est reciproce ut D E3 quare εἴη D d di-
+
+mentum, erit ut quantitas data, et ideo D d, est recte ut C DL
+ut quantitas data divisa per D E, id est, reci- (ὓ) {Per hujus Lemma II. Cas. 4.
+

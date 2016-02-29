@@ -1,0 +1,219 @@
+met Samma] PRINCIPIA MATHEMATICA.
+
+aequalem rationi F G ad G X, est ergo T S ut
+I P M, sive ut velocitas puncti Β, et cum per-
+pendicula inter ordinatas T S sint aequalia mo-
+mentis temporis in linea I Psumptis, area F T S
+erit ut spatium a puncto B percursum.
+
+Eodem modo constabit, quod si vis elastica
+ageret more gravitatis tempore a, velocitas quam
+
+eo tempore generaret, designaretur per subtan-
+
+gentem s, et spatium descriptum foret a—os, dica-
+
+a
+
+' tur vero m velocitas data puncti A, data erit ra-
+tio s ad m, intervallum particularum A B erit
+m a, et spatium A a velocitate data per-cursum
+est m x, notandum vero est quod ea velocitas s
+sit plusquam *dupla velocitatis globi tormentarii,
+unde liquet quod in casibus sequentibus ubi ve-
+locitas puncti A longe minor velocitate globi
+
+m
+
+tormentarii est intelligenda 3 quantitas -Ξ est
+
+fractio satis parva.
+
+Ad calculum vero facile revocatur linea F T S
+et area T S3 1. enim cum subtungens sit s, or-
+dinatarum F G, S Y differentia sit x, area tota
+F G Y S (e'x nat. log.) est s x, intervallum R S
+
+x 2
+
+ests >< -Ξ- -ᾆ- 28224- —x—-, ἃς. Rectang. R G
+
+5a³
+
+ 
+
+X3
+
+><RS='a-x><sss>< (-}÷2az÷5as,
+&c.)etquoniam estF G(a) : G X(s)=F R (x)
+
+:RTestRT={-'-‘ettriang.FRT.—.=
+sx2
+
+a
+2 a .
+ct triang. F R T ex area F G S Y remanet area
+
+x x² x³
+FTS=sx-sa—sx><—a- 282 5—{3’
+
+2
+=SXX(l÷—}÷5}a-2÷}}³’
+x² sx2
+
+&c.)-sx>< (¹÷‡1÷ff'&⁰’)- ι
+
+Ἠ
+
+x2
+
+ 
+
+ 
+
+ 
+
+. Detrahantur ergo rectang. R G >< R S
+
+ 
+
+ 
+
+ 
+
+812
+2a
+
+&c. —
+
+ 
+
+‚51²⁹ x x² x³
+ΤΧ (exsa’l’sx 4a5‘l'4x 5a3†>&0·)
+
+sx2
+
+ 
+
+ 
+
+ 
+
+erit itaque A a ad B b, ut m x, ad
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+vel ut m ad ⁵—x
+
+X
+a χ (2xaa'l‘5X4a2'
+eritversrectaTs=Rs-RT=23>«1÷
+
+ 
+
+ 
+
+SX SX
+
+2 2
+52÷512÷›&0·>—;-=1;>«‡÷2¹22’
+
+&c.) ideoquss velocitas data puncti A erit ad ve-
+x 2
+
+3a2
+
+ 
+
+ 
+
+loc-itatem puncti Β utm ad ⁵—x Χ (ἐ -ξ-
+x 3 a a
+÷ 4 a 3).
+Ουτοι. Si quaeratur in hac hypothesi quo tem-
+pore et spatio descripto punctum B velocitatem
+s
+
+puncti A obtineat, fiat m = -Ξ Χ (ΞΣ-(ἶ 'l- ἔα
+
+ 
+
+277
+
+-Ι- ἔᾶ-ἒ, ἃς.) sed cum spatium A a sit ad B b ut
+
+sx x²
+
+mad—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&c. cumque primus
+
+43><4a2÷4><5a³’
+terminus, primae seriei sit accurate triplus primi
+termini alterius seriei, reliqui vero plusquam
+tripli; punctum A totam suam celeritatem
+puncto Β communicat antequam id punctum B
+tertiam partem ejus spatii descripserit quod de·
+scripsit punctum A.
+
+ 
+
+Tempus vero x exprimetur per radices hujus
+
+ 
+
+ 
+
+. . m a x 2 x 3 x 4
+aequatioms o= -ζ -2—-3-3222-4 as,
+8ιο. Ubi liquet quod quando ἒ est fractio, tunc
+
+x est minus quam a, et series est convergens, ideo-
+que ex pnmo termino et proximo assumptis erit
+x = a 4! ἐξ] ; rem accuratius expendere isto in
+casu, qui mere fictitius est, nihil est necesse.
+Casus secundus. Si A moveatur uniformiter
+et acceleret punctum B quod etiam acceleret
+punctum C (nulla habita ratione motus puncti
+D) erit in hoc casu vis repulsiva A ad vim re-
+pulsivamCutA B-Bb÷Cc adAB—
+A a -l- B b et differentia virium sive vis motrix
+puncti B ad vim repulsivam puncti C, ut A a --
+2 Β b -†- C c ad· A B
+— A a -Ι- Β b; est
+praeterea vis repulsiva Α ὲ 1¹3 b& cl.) &a
+puncti C ad vim elaterii '
+utABadAB—-Bb
+-}- C c ; et denique vis elas-tica est ad vim mo·
+ventem punctum B in primo casu ut A B·-
+A a ad A a; ideoque ex aequo vis vera motrix
+puncti B ad ejus vim in primo casu ut
+
+Aa-QBb-st-Cc AB—Aa÷Bb
+}ad {ABA-zxssb÷cc}
+
+ 
+
+AB
+AB-Aa
+
+83
+

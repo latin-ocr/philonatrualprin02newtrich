@@ -1,0 +1,166 @@
+90
+
+erit S. -R d p ac per consequens aequalis y, ergo
+
+latis curvarum A C P O, et Α Ρ Q quadratu-
+ris datur ratio x ad y, et ex earum ordinatis ratio
+d x ad d y: sed ut habeatur origo a quii sumi
+debent illarum arearum portiones, sumendum
+est id punctum in quo P O est ad P Q ut cosi-
+nus anguli jactus cum horizonte sub quo corpus
+
+ 
+
+ 
+
+C
+
+moveri inocepit ad ejus anguli sinum, quippe ea
+fuit ipso motus initio ratio elementorum d x et
+*d y; sique ille cosinus dicatur c, et sinus s, erit
+
+in ea origine c ι s = -1- .· Β, unde si sumatur
+
+q q
+s
+
+A R sive p = -ἶ erit ejus extremitas R origo
+
+arearum quarum valor rationem quaesitarum x et
+y exhibebit. †
+
+128. Corol. 1. Quoniam invenimus v 2 =
+—gdsz ds2=dx2 (1-{-P p), et ddy
+
+ddy
+=dxdp3eritv2= Ϊ-ἕ-ἀ-Χ-ἀζὲψρρ)
+
+- g (¹ -1--1- p).
+‘l
+Praeterea (18) d t = dg: dLZ-ss-ss-E? =
+
+V
+‘U’ «ΧΠ-’ΤΡ
+
+ 
+
+ 
+
+; sed
+
+dp=qu;qua1eeritv2=
+
+ 
+
+,etv=4l'.—.-g.(l—'†—P..E23
+
+ 
+
+ 
+
+. qv q
+quare eritdt= Qett=s dp .
+· «s—gq xl-gq
+
+ 
+
+Invenietur itaque turn velocitas corporis in loco
+P trajectoriae V P p, tum tempus t quo arcus
+V P describitur.
+
+129. Corol. 2. Si in aequatione generali supra
+g n .-.- 1 d S 2 n -ξ
+
+reperta,ad³y= ddy”—2
+
+, ponatur
+
+PHILOSOPHJAE NATURALIS [Mo'r. CoRPoR. ,
+
+n = 1, seu resistentia velocitatis quadrato pro-
+portionalis3 aequatio in hanc migrabit a d ³ y =
+dsddy3 et ponendo dy=pdx, acdx=
+
+§.I-³, invenietur aq --. S. d p 4! l -1- Ρ P» ¹‘=·=
+
+q adp pdp*
+
+dp ——....,y=S.-——--
+
+sTl“—‘S's.dp4l1-l-1›i³ q
+apdp —³g(1-l·PP)
+
+S.———-÷÷=÷-=-:‚vv= „- -,
+S·dpoes1-l-pp ,ι- ὃ-ᾶΡνΗ-ΡΡ
+
+et t = S· ——f-Lfi-E-——ffi Est au-
+v(—g δόρυ Ι-ψ-ιψ)
+tem S. d Ρ 4! l -1- p p area hyperbolae aequila.
+terae, cujus abscissa est Ρ et ordinata ducta-,per-
+
+pendiculariter ad axem conjugatum μ l -0- p p,
+semiaxis vero unitas. Unde invenietur q in p
+per hujus hyperbolae aream3 at abscissa x obti„
+nebitur per aream curvae cujus est abscissa p et
+
+ 
+
+ 
+
+ 
+
+ 
+
+ordinata -1—; et correspondens ordinata y desi·
+
+nietur perqaream curvae, cujus abscissa est p et
+ordinata Β. Ex quibus manifestum sit verae
+
+trajectoriae V P Z descriptionem adeo perplexam
+esse, ut ex illa vix quidquam ad usus philosophi.
+cos aut mechanicos accommodatum possit deduci.
+
+130. Cor-ol. 3. Qzuoniam posito n = 1, resis-
+
+tentia medii est ἑ-ἷι (127), et ubi resistentia sit
+
+gravitati aequalis, id est, ubi v aequalis est veloci-
+tati terminali, habetur g = g, et v ² = 2 a g,
+ide& (30. Lib. Ι.) a est altitudo ex qua corpus
+in medio non resistente vi constante g sollicita-
+
+tum caderet ut velocitatem terminalem acquirat.
+
+151. Corol. 4. Si in hypothesi Corollarii se-
+cundi resistentia parva fuerit qualem fere expe-
+ritur globus ferreus non parvus magna satis ve-
+locitate per a‘e'ra projectu5‚ trajectoria V P B,
+quam globus ille in medio resistente describit,
+non 'multum aberrat a parabola conica V p b,
+quam eadem urgente vi gravitatis uniformi g seu
+1 describeret. Quia tamen resistentia velocita-
+tem projectionis minuit, ordinata C P, ad trajec-
+toriam V P B, in medio resistente paule> minor
+erit quam ordinata C p ad parabolam conicam
+V p b. Porro si abscissa V C dicatur x ordina-
+ta C p dicatur z, amplitudo V b, h et proinde
+C b, h — x, erit (ex natura parabolae) rectangu-
+lum sub abscissis V C χ C b, seu h x - x x,
+
+aequale rectangulo ordinatae C p, vel z in l:iatam
+x
+
+——-
+
+quantitatem l, et ideo aequatio erit z = l
+
+xl-—x cnm igitur ordinata C P (quoe dicatur y)
+lpaulo minor sit quam C p, seu z, ponatur y =
+x x x
+
+-l— — —l- — e x 3, et aequatio ista in qua est e
+
+quantitas exigua, naturam trajectoriae V P B ex-
+
+ponere poterit quam proxime5 loco 3¹¹0, et -ι-,’
+

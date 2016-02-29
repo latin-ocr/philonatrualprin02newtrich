@@ -1,0 +1,116 @@
+10
+
+Corol. 3. Datis logarithmis cujusvis speciei,
+logarithmi alius speciei eisdem numeris respon-
+dentes invenirt‘ possunt, si dentur suhtangentes
+utriusque speciei ; Hinc si dentur logarithmi
+quorum subtangens est unitas (qui hyperbolici
+dicuntur), sitque data subt-angens alius speciei
+‚4349944 multiplicentur logarithmi dati per hunc
+numerum, habebunturque eorumdem numero-
+rum logarithmi in hac altera specie, ut liquet ex
+hoc Theor. Ideoque in posterum per hanc ex·
+pressionem L. x, intelligemus logarithmum hy-
+perbolicum quantitatis x, qui si multiplicetur per
+quantitatem quamlibet ut a, a L. x exprimet
+logarithmum x ex ea specie depromptum quoe
+habet a pro subtangente, est enim l ε a = L. x
+ad eum logarithmum qui ergo erit a L. x.
+
+39. Probl. II. Datc‘i ordinant logaritkmicae et
+ejus abscissa, invenire ejus subtangentem, dum-
+modo alterius cujuslibet logariclzmicae subcangens
+sit-data.
+
+ 
+
+    
+
+Τ c ‘1 0. 0
+
+'Data sit subtangens logarithmicae P Β, loga..
+rithmicae vero R D data sit abscissa C Q et 01·-
+dinata Q R, quaeritur hujus logarithmicae sub-
+tangens: Quaeratur primum abscissa quae in lo-
+garithmica P B responderet ordinatae aequali
+Q R, per Probl. I. sitque ea A Μ, fiatque ut
+A M ad C Q ita subtangens data ad quaesitam.
+
+Exempl. In tabulis logarithmorum, logarith-
+mus numeri 2. est .8010300. si ergo concipiatur
+logarithmica cujus abscissae sint logarithmis ta-
+
+PHILOSOPH 1AE NATURALIS
+
+[Mor. CORPOR.
+
+bularum aequales, et cujus ordinatae sint aequales
+numeris eis logarithmis correspondentibus, quae-
+raturque ejus logarithmicae subtangens3 invenia-
+tur in altera logarithmica cujus subtangens est
+unitas abscissa respondens ordinatae quae sit uni—
+tatis dupla (per Cor. 2. Prob. Ι.) quae est
+.6931472. fiatque ut ‚6951472 ad .3010300. ⁵
+ita unitas ad subtangentem logarithmicae tabu-
+larum quae invenietur .4542944.
+
+Corol. Hinc dato logarithmo alicujus numeri
+desumpto ex logarithmica cujus subtangens data
+est, habebitur ejus numeri logarithmus in tabu-
+lis, dicendo ut subtangens data ad .4542944. ita
+logarithmus datus ad ejusdem numeri logarith-
+mum in tabulis.
+
+40. Probl. III. Sit quantitas variabilis, cu·
+jus logarithmus etiam variabilis est, ex ejus quan-
+titatis variabilis fluxione, fluxionem qy‘us logarithmi
+determinare. Concipiatur logarithmica ad quam
+pertinet species logarithmi quae assumitur-3 sit a
+ejus subtangens‚ sitque y variabilis proposita,
+quae consideretur ut ejus logaritbmicae ordinata,
+sitque x ejusdem logarithmicae abscissa ei ordi-
+natae y respondens, erit per naturam logarithmi-
+
+ady,sedx
+
+est logarithmus ordinatae y& ergo d x est ejus dif-
+a Y
+
+ 
+
+cae (n36.)ydx=adyetdx=
+
+ferentiag ergo d L. y= hoc est, differentia
+
+ 
+
+logarithmi est differentia variabilis proposita> di-
+visa per ipsam variabilem, et ducta in constantem
+quae sit subtangens logarithmicae ad quam perti-
+net species logarithmi assumpti.
+
+Et e converso, si habeatur haec fluxio a ξ y,
+
+ejus fluens est logarithmus ipsius quantitatis y ex
+ea logarithmica desumptus cujus subtangens est a.
+
+ 
+
+   
+
+l
+
+41. Tlteor. V. Spatium logaritkmicumAB PM
+duabus ordinatis A B, P M arcu B P et abscissa
+A M comprehensum, aequale est rectangulo sub-
+tangentis et dg'fferemiae ordinatarum.
+
+Ducat enim per punctum P tangente P T,
+compleatur rectangulum T F P M, agatur per
+B recta E Q, parallela T M, secans T F in E
+et M P in Ως per m ordinata m p alteri M P
+infinite propinqua, et per p recta fr parallela
+T M, occurrens T F in f et M P in r3 His po-
+
+...Μκ
+

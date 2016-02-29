@@ -1,0 +1,211 @@
+ἐἷς elm÷e nl†emn)—x³· (d ÷·e
+
+Lama Samma] PRINCIPIA MATHEMATICA.
+
+ 
+
+ 
+
+v. αἱ-τςῑῼεε-Β-Ει-Εηι-Εη
+2 d = 2tcjsslf=-D—E1-Em-En-Et
+
+Harum tandem aequationum differentia per
+intervallum quatuor ordinatarum H M divisa
+dicamne, et erit
+
+- τ)
+
+V10e=d t“d=E.
+
+Si plura fuissent puncta data, pluresque ide&
+fuissent aequationes, eodem modo pergendum
+esset usque ad differentiam ultimam: quae hic
+est differentia quarta, et sic tandem pervenitur
+ad valorem co'efficientis 'ultimi termini aequa-
+tionis generalis assumptoe, et delude retrogre-
+diendo inveniuntur valores aliarum co’efficientium
+1), C, Β, et A hoc modo.
+
+VII. Quoniam e = E, et (V) d = —
+D—-El—Em—En,leritD=—d—-
+el—-em—en3 et quia (IV.) estc= C 4-
+D1÷Dm÷E12÷ ΕΙῐινι-Ι--Εῐιπι2
+ide6que (ἶπο- Dl— Dm—El2—
+E l m —- E m2 si loco E et D substituantur
+corum valores modo inventi, habebitur C = c
+÷dl÷dm÷elm÷enl÷emm Et
+simili modo si i'n aequatIOne (111.) b = — B
+-- C 1- 1) 12 — E 1³, substituantur co’eSffi-
+cientium E, D, C valores‚ invenietur B = —
+b—cl—dlm—elnin.‚
+
+VIII. Cum igitur sit (ΙΙ.) A =a‚ aeq
+tioassumptay=A÷ Bx-1- Cx²4D
+4Ex4‚ inhancabity=a—x. (δή-’01
+dlm÷elmn)-{-x²· (c÷dl÷ d m
+
+ 
+
+ἓ
+
+ψψψῑ
+
+em en)÷ex4=a-bx-clx÷cx2
+—*d mx÷dlx2 dmx2—dx3-
+elmnx÷elmx²÷enlx2÷emnx2
+—elx2—em13—enx34ex4, seu
+
+“2¹ y=a÷b.-(—-—-—3)÷c—.-(2x><1:“i) -ι-
+
+d. (—-x ><l—-x>-<—m—:-x) ÷e.(—x)<
+l—x><1n—-⁴x><n-'-—x) ψ, &c. In qua
+
+aequatione patet terminorum progressuS‚ et
+
+ 
+
+ 
+
+· quomodo data abscissa H S seu x inveniri
+
+compendiose possit correspondens ordinata S P.
+seu y. Nam si dicantur — x seu —- H S =
+
+p;—IS><p,seu—x><l—x=q;÷
+SK><q‚seu-x><1—x><m—x=r;
+÷sLxr,seu-x><1-x><m-x><
+
+n -·—-·x = s, ita scilicet pergendo ad usque per-
+pendiculum penultimum, quod hic est D L;
+
+Ξτέι-ξέσῗω y=a4= bp†cq-}-dr÷
+
+IX. Atque haec Ipsa est regula quam New-
+tonus casu secundo Lemmatis V. Lib. 111.
+εἰσ tradit: collige perpendiculorum A H, B I,
+C- K, Bac. differentias primas per intervalla
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, 'fferpendiculorum divisas b, 2 b, 3 b, 4 b, ἃς. ;
+
+secundas per intervalla bina divisas c, 2 c, 3 c,
+4 c, &c.; tertias per intervalla terna divisas d,
+22⁶2ss d, Sco-3 quartas per intervalla quaterna
+
+35
+
+divisas e, 2 e, &c. Et sic deinceps. Inventis
+differentiis, dic A H Ξ a, — H S = p, p
+in--IS=q, qin÷SK=r,rin-}- SL
+= s, pergendo scilicet ad usque perpendicu-
+lum penultimum. Et erit ordinatim applica-
+ta RS=a4bp -f-cq †dr-}-es-{·-,
+ἃς. ubi observandum est, praeponenda esso sig-
+na negatIva terminis H S, I S, &c. qui jacent
+ad partes puncti S versus A, et signa affirmativa
+terminis S K, S L, &c. qui jacent ad alteras
+partes puncti S.
+
+X. Per hanc igitur regulam, assumpta quii-
+libet abscissa H S, invenietur valor o'rdinatae
+correspondentis S R, singulaque parabolae punc-
+ta determinabuntur. Si vero in aequatione po-
+natur y = o, et deinde quaeratur valor abscissae
+x, cognoscetur punctum X quo parabola rectam
+H N intersecat.
+
+77. XI. Si perpendiculorum H A, I B,
+K C, L D, &c. aequalia sunt intervalla H 1,
+I K, K L. &c. ; caeteris ut supra (I) nomini-
+bus servatis, positoque intervallo H I = l= l,
+erunt H K=m=2‚ HL=n=5‚ HM
+=t = 4, &c. et perpendiculorum differentiae per
+intervalla, per intervalla bina, terna, quaterna,
+et divisae erunt (HL, IV., V.‚ VI.) quae se-
+cuntur.
+
+Differentiae primae per intervalla divisae, b =
+a—f, 2 b = f— g‚3b = g-h‚4b=.‚
+h -Ι- k.
+
+Differentiae secundae per intervalla bina divi-
+
+sae,c=a—29f÷g‚ 2c :hay—ha
+
+g--2hd-k
+2
+
+Differentiae tertiae per intervalla terna di-
+
+a—{f-l-ssg—h, 2d=
+6
+
+ 
+
+ 
+
+30=
+
+visae, d =
+
+f-zg-1- 3ιι-ι-ι;ο
+6
+
+ 
+
+ 
+
+Differentiae quartae per intervalla quaterna di-
+a--4f46g--4h-—k
+
+24
+
+XII. Ponantur a -— f= β, 3-2 f÷
+g=x,a—3f-}-8g-—h=3,a—4f-}-
+
+visae, e =
+
+63—4h—k=e; et eritb=ss‚ εει-ἓ,
+d= -ΞΤ, e=-.' ἐξ. Quare si hi valores sub-
+
+stituantur in aequatione supra (VIII.) inventa,
+5=²÷b;L:X)÷.-⁰·-(-1 ΧΓ-ῖῖ) -ι-
+d(-x><l—-x Χ m—x) -1- e. (— x χ
+l—xxm—-x >< n—x) -Ι-, δια, illa
+in hanc. mutabitur y == a 4- β (- x) -Ι-
+x(-,x><l-——{)÷3.(·—x>(l—x>(2—x
+2 2><3x¹
+s.(—x><l--x)<2—x><3—x)
+2>< W
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-†-, ἃς.
+
+C2
+

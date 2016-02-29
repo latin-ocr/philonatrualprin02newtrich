@@ -1,0 +1,134 @@
+LIBER SECUND.] PRINCIPIA MATHEMATICA.
+
+57
+
+Corol. 6. Hinc ex dato tempore datur spatium ascensu vel descensu
+
+descriptum.
+
+Nam corporis in infinitum descendentis datur velocitas ma-
+
+xima (per Corol. 2. et 3. Theor. VI. Lib. II.) (Π) indeque datur tempus quo
+corpus velocitatem illam in spatio non resistente cadendo posset acqui-
+
+rere.
+
+Et sumendo sectorem A D T vel A D t ad triangulum A D C in
+
+ratione temporis dati ad tempus modo inventum3 (Χ) dabitur tum veloci-
+
+tas A P vel A p, (5) tum area A B N K vel A B n k, (Ζ) quae est ad
+sectorem A D T vel A D t ut spatium quaesitum ad spatium, quod tem-
+
+resistente tempore A t D extinguenda, est ad
+velocitatem eodem tempore in spatio non resis-
+tente extinguendam ut triangulum A p D ad
+sectorem' A t D; et etiam ut tempus quo velo-
+citas A p in spatio non resistente extingueretur
+ad tempus A t D quo altera velocitas in spatio
+non resistente extinguitur quod idem est curn eo
+quo velocitas A p in spatio resistente extingui-
+tur. Quare tempus quo velocitas A p, in spatio
+non resistente evanesceret est ad tempus A t D
+quo in spatio resistente extingueretur ut trian-
+gulum A p D, ad sectorem A t D, sive tangens
+A p ad ejus arcum A t. Patet ergo proposi-
+tum.
+
+95. Hinc tempus quo corpus velocitatem A p
+in medio resistente ascendendo amittere potest,
+est ad tempus quo velocitatem maximam A C
+in spatio non resistente ascendendo amitteret
+vel descendendo acquireret ut sector circularis
+A t D, ad triangulum A'D C, seu ut arcus A t
+ad radium A D. Nam in medio non resistente
+velocitas A p est ad velocitatem A C, ut tempus
+A p D, quo generatur vel extinguitur velocitas
+A p, ad tempus quo generatur vel extinguitur ve-
+A C >< A p D
+
+A p '
+{UD-{C A D >< A C, hoc est, triangulum
+
+Cum igitur tempus quo velocitas A p, in me.
+dio resistente extinguitur, exponatur per secto-
+rem A t D, patet propositum.
+
+locitas A C, quod proinde erit
+
+94. Tempus quo corpus in medio resistente
+descendendo acquirit velocitatem A P, vel ascen-
+dendo amittit velocitatem A p, est ad tempus
+quo eandem velocitatem in medio non resistente
+acquirit vel amittit, ut sector A D T, vel A D t,
+ad triangulum A D P, vel A D p, respective.
+Etenim (per Cor. 5. et not. 93.) tempus quo in
+medio resistente generatur velocitas A P, vel ex-
+tinguitur velocitas A p, est ad tempus quo in
+spatio non resistente generatur vel extinguitur
+velocitas maxima A C, ut A D T vel A D t,
+ad A D C; et tempus quo in spatio non resis-
+tente generatur vel extinguitur velocitas A C,
+est ad tempus quo generatur vel extinguitur in
+eodem spatio non resistente, velocitas A P vel
+
+A p, ut A C ad A P vel A p, et sumpta com-
+muni altitudine D A ut A D C ad A P D vel
+A p D. Quare (ex aequo) tempus quo in me-
+dio resistente generatur velocitas A P, vel ex-
+tinguitur velocitas A p, est ad tempus quo velo-
+citas eadem in spatio non resistente producitur
+
+EI amgttitur, ut A D T ad A D P, vel A D p.
+. e. .
+
+95. Si celeritas A p corporis in medio resis-
+tente ascendentis maximae A C aequalis fuerit,
+erit A D p = A D C, et sector A D t, circuli
+octans. Quare tempus quo corpus in medio re-
+sistente ascendendo amittere potest velocitatem
+maximam A C est ad tempus quo eandem in
+spatio non resistente amitteret, ut circuli octans
+ad triangulum A D C, hoc est, ut area circuli
+ad quadratum circumscriptum, seu etiam ut 8²·
+pars peripheriae ad radium.
+
+(¹¹) 96. Indeque datur tempus. Cum enim
+vires acceleratrices uniformes, sint ut velocitates
+quas generant oirecte et tempora quibus illas
+generant inverse (13. Lib. I.) data vi accelera-
+trice uniformi qua corpus in medio quovis solli-
+citatur, seu data vis illius ratione ad notam quam-
+libet aliam vim v. gr. ad corporum terrestrium
+gravitatem, danique simul velocitate quam vis
+illa acceleratrix produxit, dabitur tempus quo
+velocitas illa data genita est. Sit enim vis ac-
+celerati-ix data ad vim notam gravitatis, ut a ad
+b, velocitas data vi illa acceleratrice tempore x
+
+genita c, et velocitas quam vis gravitatis tempore
+
+quovis dato t generat C, erit a: b = -Ξ : C ⁵
+
+ΧᾺῐι
+bct
+
+a C'
+(Χ) * Dabitur tum velocitas A. P. vel Ap.
+(Per Cor. 5. et not 92.)
+
+(y) ¹² Tum area A B NKvel A B η lc. Est
+enim (ex dem. Prop. VIII.) A C ε Α Ρ
+=AP: AK,etA C: Ap=Apt Ak‚et
+ideo datis A C et A P vel A p dabuntur A K
+vel A k, et areae correspondentes A B N K,
+A B n k, quae per tabulas logarithmorum inve-
+niri possunt. (584. Lib. 1.)
+
+(²) * Qua· est ad sectorem A D Τ, vel A D t.
+(Per Cor. 1. et 2.)
+
+—
+
+Unde invepitur tempus x =
+

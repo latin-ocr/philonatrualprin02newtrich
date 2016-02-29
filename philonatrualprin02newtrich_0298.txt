@@ -1,0 +1,169 @@
+286
+
+PHILOSOPHIAE NATURALIS
+
+[MoT. CORPOR.
+
+Corol. Hinc patet quod numerus pulsuum propagatorum idem sit cum
+numero vibrationum corporis tremuli, neque multiplicatur in eorum pro-
+
+tionis tempus, sive totum tempus quo pulsus sor-
+matur ad omnes particulas quae pulsum consti-
+tuunt, ita, portio quaevis ejus temporis ad nume-
+rum particularum quae ea temporis portione
+motum receperunt.
+
+53. Ut melius horum curn Newtonianis nexus
+pateat, hic adjungere lubet Prop. XLIX. de-
+monstrationem ex XLVII. desumptam, quam.
+vis vix diversa sit ab iis quae in ipso textu legun-
+tur, et primo quidem, sit P S spatium quod
+fibra una vibratione eundo percurrit, ex ejus
+medio O ut centro describatur circulus P K S k
+ejus circumferentia repraesentet totum vibrzstionis
+ex itu et reditu compositae tempuS, partes ejus
+circumferentia-2 ut K H repraesentabunt tempora
+quibus fibra per spatium correspondens N L
+movebitur; H L, K N repraesentabunt veloci-
+tates filprae in punctis N et L, et H L — K N
+velocitatum incrementa vel decrementa, actioni
+elaterii fibrae proportionalia, haec omnia patent
+
+ex I'rop. XXXVIII. et LI. Lib. Ι.
+
+· 2. Sit B C longitudo pulsus, et dicatur V ra-
+dius circuli cujus circumferentia> illa longitudo
+B C aqualis foret, dico quod vis naturalis ela-
+terii medii erat ad vim acceleratricem fibrae ut.
+
+v-KNadHL—KN.
+
+Sint enim duo puncta E et G in suo naturali Ω
+
+situ in medio elastico‚ quae post aliquod tempus
+in locis ε et oy occurrant, suscepto nempe motu
+fibrae secundum leges a nobis expositas, singula
+seorsim eumdem motum ac fibra habebunt, ideo·
+que si sumptum fuerit E ι = P L erit P H
+tempus elapsum a momento quo punctum E
+motum fibrae suscepit et erit H L ejus velocitas
+in ι, pariter sit G y = P N erit P K tempus
+elapsum a momento q'uo G motum fibrae susce-
+pit, et erit K N ejus velocitas in ιγ, sint ver& E
+et G puncta proxima; compressio spatii E G
+ubi iu ε ey pervenit oritur ex eo quod plus pro-
+cessit ε quam γ, itaque diminutio ejus spatii erit
+aequalis spatio L N, ideoque ε ιγ erit aequalis
+E G ·- L N, utque vires quibus urgentur
+puncta medii, eorum densitati est proportionalis,
+vis tota qua urgetur punctum »y cst ad earn qua
+urgebatur punctum G (quae erat vis naturalis
+elaterii) inverse ut spatium ε 7 ad E G seu ut
+
+§lb-:ffiad Esso· Sed est LNadKH
+ut I M ad radium P Ο, et cum K H designet
+intervallum temporis quo pulsus a puncto E ad
+punctum G pervenit, est (per n. 32.) K H ad
+E G ut tota circumferentia P K S k ad B C.
+sive ut P Ο ad V; ergo ex aequo est L N ad
+E G ut Ι M ad V et convertendo E G —- L N
+
+adE θυιν-ῙΜαᾱνῑᾱεόςυεΕιθῑ-ῖῆ
+ι 1 1
+
+ε E—G- r: V — l M ι -V- ac per consequens vis
+
+ 
+
+ 
+
+tota qua urgetur punctum ιγ est ad vim natura-
+
+lem elaterii ut l ad —l—.
+
+ 
+
+V — I M V
+Vis illa tota qua urgetur punctum ry est vis
+naturalis elaterii medii cui superaddita est tota
+vis motrix flbrae quae ad id punctum pervenit,
+ergo dividendo et reducendo ad communem de—
+nominatorem‚ vis motrix fibrae in puncto N, est
+
+llll!
+
+ad vim naturalem elaterii ut
+I Mad v-IM, sive in-
+vertendo‚ vis naturalis elate-
+rii ad vim totam motricem fi-
+brae in puncto N ut V— I M
+ad I M, vel quia I Μ et K N
+pro se mutuo sumi possunt
+ubi puncta N et L sunt prox-
+ima est vis naturalis elate-
+rii ad vim totam motricem
+fibraeut v-KNad K N; sed
+vis tota mou-ix fibrae est ad vim
+ejus acceleratricem durante
+
+tempusculo K H ut K N ad
+
+ 
+
+κ ll 111le
+
+ 
+
+H L — K N, ergo ex aequo, ι.
+est vis naturalis elaterii ad
+vim acceleratricem fibrae ut:
+
+V— K Nad HL‚—KN.
+Q. e. d.
+
+5. In ipso motfis fibrae
+initio, vis elaterii fluidi in sta-
+tu suo naturali est ad vim
+acceleratricem fibrae ut V ad
+H K; nam ipso motus initio
+si P H sit infinite parvum, ac
+per consequens etiam E ι ἰη-
+finite parvum nullus adhuc
+motus ad particulam proxi-
+mam G communicatur (per Η Ι Ι ι 1 Ι
+n. 4.) ergo omnino evanescit
+KNideoque V—K N= ”“
+V, et H L - K N = H L sed arcus infinite
+parvus et ejus sinus aequantur, ergo H L =
+H K; ergo vis* elaterii fluidi ir. ,statu naturali
+est ad vim acceleratricem fibrae ipso ejus motus
+initio ut V ad H K.
+
+Ex quibus fluit demonstratio Prop. XLIX.
+
+Q. e. i.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'ll'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

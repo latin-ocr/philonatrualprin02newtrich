@@ -1,0 +1,183 @@
+Lmnn Summa] PRINCIPIA MATHEMATICA.
+
+141
+
+Scholium.
+
+(²) Simili argumentatione probari potest, quod si gravitas particularum
+fluidi diminuatur in triplicata ratione distantiarum a centro, et quadrato-
+
+(z) 177. * Simili argumentatione probari po-
+test, &c. Sit vis centripeta particularum fluidi
+reciproce ut distantiae dignitas, cujus index est
+n; designet S centrum, et S A, S B, S C, S D,
+S E distantias in progressione geometrica.
+Erigantur perpendicula A H, B Ι, C K, διο.
+quae sint ut fluidi densitates in locis A, B, C,
+D, Ε, &c. Et ipsius gravitates specificae in
+
+iisdem locis erunt A H ⁷ Β I C K ἃς.
+
+ 
+
+ 
+
+8·Α“’ S Bss’ SC¹¹'
+Finge has gravitates uniformiter continuari pri-
+mam ab A ad Β, secundam a B ad C, tertiam
+a,C ad 12, &c. Et hae ductae in altitudines
+A B, B C, C D, D E, &c. vel quod perinde
+est, in distantias S A, S B, S C, διε. altitudini-
+bus illis proportionales, conficient exponentes
+
+ΑΗ BI CK,-
+
+ 
+
+ 
+
+ 
+
+pressionum SA¹¹—1’ SBn-l' scu—,2
+
+διε. Quare cnm densitates sint ut harum pressio.
+num summae, differentiae densitatum A H -— B Ι,
+
+Β Ι - C K, &eq erunt ut summarum differen-
+
+. A H„ B Ι C K
+nae -S--A—ff—:p S-ffn-I, -S—-ff-fi-J--w διε. fiat
+
+eaoem constructio, quae supra in Prop. XXI 1.,
+et dAenfslitatum ‹ligici-entiae t v, u w, &c. erunt ut
+
+ 
+
+διο. et rectangula t v ><
+A H >< t h
+
+ 
+
+ 
+
+th‚uw><ui,&c·‚seutp,uq‚&c,uts A n—x,
+ξὲἕ-Βῖμῖισ. idest,utAa¹²-1‚ an-x,
+
+&c. Est enim (per Theor. IV. de Hyp.) A H
+>< t h aequale S A >< A a, et A a reciproce ut
+
+1 “’ ·’ ’ A H >< th
+S A S A ¹¹ — ¹
+utsA>< Aa>< Aan—1,siveutAa¹¹—1
+cum sit S A Χ A a = 1, et simili argumento
+B I >< ui
+S B n — 1
+B b, C c, &c. ideoque A a ¹¹-¹‚ Β b ¹¹- ¹,
+C c ¹² — ¹, &c. continue‘proportionales, et prop-
+terea differentiis suis A a ¹¹ -· ¹ — Β b ¹² — ¹,
+B b ¹¹ - ¹ — C c ¹¹ ··- ¹, &c- proportionales, ide60
+que differentiis hisce proportionalia sunt rectan-
+gula t p, u q, διο. ut et summis differentiarum
+A a ¹¹¹·-¹—C c 2—1, vel A au—1—
+D d ¹¹ - ¹ summae rectangulorum t p -Ι- u q,
+yel t p -Ι- u q -Ι- w r. Sunto ejusmodi termini
+quarn plurimi, et summa omnium differentiarum;
+puta A a ¹¹- 1 -- F ffl-1‚ erit summae om-
+nium rectangulorum, puta z t h n, proportiona-
+lis. Augeatur numerus terminorum et minuan-
+tur distantiae punctorum A, B, C, &a in infini-
+tum‚ et rectangula illa evadent nequalia areae hy..
+
+S A, seu directe ut , ideoque
+
+ 
+
+ 
+
+est
+
+ 
+
+ut B b ’¹ ·- ¹, 8ος, sunt autem A a,
+
+perbolicae z t h n, ideoque huic areae proportio-
+nalis est differentia A a ¹¹ — ¹ — F f ¹¹ -- ¹.
+Sumantur jam distantiarum quarumlibet, puta
+S A, S D, S FdignitatesS A ¹¹—¹‚ S D”—¹‚
+S F ¹¹—1 in progressione musica, ideoque ea-
+SA ¹¹—1' SDn-1’ sF¹¹—1'
+seu Aan—1, D dn-1, an-1inprogres-
+sione arithmetica, et differentiae A a ¹¹ -1 —
+Ῐ) d¹²·-· ¹, D d ¹¹-1 —an-1 erunt aequa-
+les3 et propterea differentiis hisce proportionales
+areae t h l x, x l n z aequales erunt inter se, et
+densitates S t, S x, S z, id est, A H, D L, F N
+continue proportionales. Quare si gravitas par-
+tIcularum ssuidi diminuatur in ratione qudcum-
+que multiplicata distantiarum, cujus exponens
+sit n, et dignitatum S A ¹¹ - ¹, S B ¹¹ - ¹,
+S A ¹¹
+S A ¹² — ¹'
+
+διο. in quibus S A data
+
+ 
+
+ 
+
+ 
+
+rum reciprocae
+
+ 
+
+S C ¹²*- 1, ἃς. reciproca (nempe
+
+S A ¹² S A ¹¹
+S B ¹²-1’ S C ¹²·-¹'
+est) sumantur in progressione arithmetica; den-
+sitates A H, B l, C K, ἃς. erunt in progres-
+sione geometrica.
+
+Si itaque loco n scribantur numeri 5, 4, 5, 6,
+&c. in infinitum; et rursus scribantur o, — 1,
+— 2, — 3, &c. in infinitum, patet veritas scho-
+lii in hypothesi densitatis vi comprimenti propor-
+tionalis. Quando autem n = o, seu quando
+gravitas particularum fluidi in omnibus distantiis
+
+S A ¹¹ , S A ¹¹ -
+§TU-“1²⁶ A’ ssu-¹-
+S B, ideoque si distantiae sumantur in progres-
+sione arithmetica, densitates erunt in progres-
+sione geometrica, ide6que distantiae sunt ut den-
+sitatum logarithmi, quia crescentibus distantiis
+in progressione arithmetica, decrescunt densita-
+tes in progressione geometrica. Quia vero per
+experimenta constat, quod densitas aeris, caeteris
+paribus ac potissimum manente eodem caloris
+gradu, sit ut vis comprimens vel accurat& vel sal-
+tem quam proxime in a‘ejre quem experimentis
+possumus subjicere, vis autem a‘e'rem inferiorem
+comprimens, caeteris etiam paribus, aequalis sit
+ponderi a'e'ris totius incumbentis, ideoque pro-
+portionalis altitudini mercurii in barometro‚ et
+praeterea particularum a'eris gravitas, in minori-
+bus saltem a telluris superficie distantiia con-
+stans censeri possit, patet, quod, caeteris paribus,
+a‘elris densitatem, ad hujusmooi distantias rni-
+nores, metiri ossimus per logarithmos. Sed
+de his plura vi ene est in Elementis Ae'rometriae
+clar. Wolfii, in Libro ΙΙ. Phoronomiae‚ et in
+sgctionemlo. Hydrodynamicae claxis. Danielis
+
+erum .
+
+ 
+
+ 
+
+eadem est. est
+
+3
+

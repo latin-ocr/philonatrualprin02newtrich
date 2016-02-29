@@ -1,0 +1,75 @@
+58
+
+PHILOSOPHIAE NATURALIS Ἴ [Mor. Conposs.
+
+pore dam, cum velocitate illa maxim& jam ante inventii, uniformiter de· ῃ
+
+scribi potest.
+
+ 
+
+E
+
+Cwol. 7. (²) Et regrediend0‚ ex dato ascensus vel descensus spatio
+A B n k vel A B N K, dabitur tempus A D t vel A D T.
+
+(²) 97. Et regrediendo. Nimirum capienda
+est area A B n k, vel A B N K ad triangulum
+A D C in data ratione spatii dati ascensus vel
+descensus ad duplum spatii, quod corpus in me-
+dio non resistente cadendo describit ut velocita-
+tem maximam A C acquirat, atque ita dabitur
+A k vel A K. Et hinc dabitur A p vel A P,
+seu velocitas3 ex his autem dabitur sector A D t
+vel A D T, seu tempus (per Cor. 5.). Nam
+spatium quod corpus in medio non resistente ca-
+dendo describit ut velocitatem maximam A C
+acquirat dicatur A, tempus quo s atium illud
+describitur T, spatium quod in medio resistente
+
+describit ut acquirat velocitatem A P, vel amit· ’
+
+tat velocitatem A p dicatur s, tempus t, et spa-
+tium quod corpus tempore illo t et velocitate ma·
+xima} A C uniformiter progrediendo describit sit
+S, et quia (29. Lib. 1.) corpus velocitate maxi-
+ma A C uniformiter progrediendo, tempore T,
+describit spatium 2 A, erit (5. Lib. 1.) S ι 2 A
+= t: T. Sed (per Cor. 5. et not. 93.) t: T =
+A DTvelA Dt: ADc,ide6queS:2A==
+A D Tvel A Dt: A D C, et (per Cor. 1. ac
+2.)s:S=ABNKvel ABnszDT
+v l
+
+c A D t, respective. Quare (ex aequo) s :
+
+2A=A BNKvelABnszDC.
+Q. e. d.
+
+98. Si corpus cum velocitate quae aequalis sit
+maximae A C, verticaliter projiciatur deorsum,
+aequabili motu descendet, ob resistentiam gravi-
+tati aequalem et contrariam (per Cor. 9. Prop.
+VIII.) si minori cum velocitate projiciatur, ex-
+ponatur velocitas illa per lineae A C partem A P,
+et motus corporis projecti idem erit ac si e quiete
+descendendo velocitatem datam A P, jam acqui-
+sivisset et deinde pergeret moveri3 quare motus
+projecti in hoc casu ex superioribus facile deter-
+minabitur.
+
+99. Verum si projectionis velocitas terminali
+
+· A C major est, constructiones PropositIOnum
+
+VIII. et IX. mutandae erunt. Et quidem con--
+structio Propositionis 8⁸⁸· sic mutanda. Descrip-
+ta inter asymptotos orthogonales A C, C H hy-
+perbol& qualibet S O N B, producatur asympto-
+tus A C in a, et exponatur vis gravitatis per da.-
+tam lineam a C, resistentia initio motus per li.
+neam a A, resistentia elapso quovis tempore per
+lineam indefinitam a K. Velocitas corporis per
+lineam a P quae sit media proportionalis inter
+a K et a C, ideoque in subduplicata ratione rc-
+

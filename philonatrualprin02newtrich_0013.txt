@@ -1,0 +1,102 @@
+DE
+
+MoTU CORPORUM
+
+LIBER SECUNDUS.
+
+SECTIO Ι.
+
+(⁴⁸) De motu corporum quibus resistitur in ratione velocitatis.
+
+ι (⁹¹¹) LEMMA
+Gener-ales resistentia> notiones exywnens.
+
+1, Non potest corpus in medio fluido moveri
+atque in illud agere, quin ex fluidi reactione vim
+seu resistentiam aliquam patiatur. Vis illa re-
+sistentiae‚ proportionalis est decremento motfis
+quod dato tempore generat, et illius directio di.
+rectioni mobilis semper opposita est (per Μυῒ.
+Leg. 2. et 3.) Quapropter data corporis massa,
+resistentia est ut velocitatis· decrementum quod
+dato tempore producit3 data enim mobilis massa,
+motfis decrementum est ut decrementum veloci-
+tatis (6. Lib. 1.)
+
+2. Vis resistentiae quam momento quolibet
+temporis experitur corpus est ut motus decre-
+mentum directe et temporis momentum inverse.
+Nam resistentia dato temporis momento est ut
+motus decrementum directe (1) et dato motus
+decremento est inverse ut momentum temporis
+quo motus decrementum generatur. Si enim
+subduplo vel subtriplo temporis momento, idem
+motus incrementum vel decrementum generetur,
+vis generans dupla· aut tripla est.
+
+5. Hinc data corporis massa, resistentia est ut
+velocitatis decrementum directe et momentum
+temporis inverse.
+
+4. Quoniam directio vis resistentiae, directioni
+mobilis contraria est (1), corpus sola vi insita in
+medio resistente motum, per rectam lineam con-
+tinuo fertur, quod etiam evenire debere manifes-
+tum est, si eorpus vi qualibet acceleratrice vel
+retardatrice‚ secundum vel contra directionem
+motus insiti urgeatur. · 4 “
+
+5. Resistentia considerari potest tanquam vis
+retardans et cum vi gravitatis ‘qua corporum
+ascendentium motus perpetuo minuitur conferri.
+ι Vis enim resistentiae sicut vis gravitatis infinite
+
+vox.. ΙΙ. A
+
+parva est, si conferatur cum vi illa qua corpus ,
+
+motu finito cietur, seu qua spatium finitum finito
+tempore describit. Nam si resistentiae· quam
+omni temporis momento patitur corpus, v1s esset
+finita, sive ejusdem generis cum vi finita corporis
+motu finito acti, infinita multitudo resistentiarum
+momentanearum finito quovis tempore producta,
+totum corporis motum finito quolibet exiguo
+tempore extingueret, quod est contra hyp„ qua
+supponimus corporis motum tempore aliquo fini-
+to in medio resistente perseverare.
+
+6. Hinc corporis in medio resistente moti ve-
+locitas finita per spatium infinite parvum, atque
+etiam tempore infinite parvo aequabilis censeri
+potest, neglecto nimirum infinite parvo velocita-
+tis decremento.
+
+7. Jam vero resistentia corporum in fluidis,
+caeteris paribus, oritur partim ex tenacitate, par-
+tim ex frictione, et 'partim ex reactione partium
+medii, tresque sunt celebriores circa hujus re-
+sistentiae legem hypotheses, quarum mathemati-
+cas consequentias Newtonus hoc libro exponlt.
+1²². Hypothesis resistentiam ponit velocitati
+corporis dati proportionalem, secunda velocitatis
+
+, quadrato, et tertia partim velocitati, et partim
+
+velocitatis quadrato. Praeterea cum experimen-
+tis sit cognitum partem quamdam resistentlae
+fluidorum uniformem esse, considerandae sunt
+quatuor aliae hypotheseS‚ in quarum prIma re-
+sistentia fingatur uniformis; in secunda partim
+uniformis et partim velocitati proportionalis; m
+tertia partim uniformis et partim ut quadratum
+velocitatis, et in quarta denique partim unifor-
+mis, partim ut velocitas, et partim ut velocitans
+quadratum. Prima ex his quatuor hypothesibus
+
+*nihil habet difficultatis, cum uniformis resisten-
+
+tia considerari possit tanquam gravitas constans
+ciim motum ascendentis corporis retardat3 quii
+de re satis actum est Lib. 1. tres vero quae se-
+

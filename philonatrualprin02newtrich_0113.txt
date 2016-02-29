@@ -1,0 +1,131 @@
+ 
+
+met saeuitia] PRINCIPIA MATHEMATICA.
+
+101
+
+Scleolz'um.
+
+(†) Demonstrari etiam posset casus in ascensu corporis, ubi vis gravi-
+tatis minor est quam quae exponi possit per D A q seu A B q -Ι- Β D q,
+et major quam quae exponi possit per A B q — Β D q, et exponi debet
+
+per A B q. Sed propero ad alia.
+
+angulum a D T, velocitas a P, in medio resis-
+tente tempore E D T, extincta, erit ad velocita-
+tem quam corpus eodem tempore in spatio non
+resistente e quiete descendendo acquirere posset,
+ut area trianguli D a P, ad aream sectorIS D a t,
+
+Si itaque resistentia ponatur esse ut A P 2
+2 B A P, vis autem gravitatis ut A B 2; tein-
+A P
+B P'
+Nam triangulum D T A, ob altitudinem con-
+
+pus ascensus totius erit ut A T et etiam ut
+
+ 
+
+ide6que ex dato tempffl'e datur, et hinc datur stantem D F, est ut basis A T et propter trian-
+
+quoque velocitas residua A P.
+in medio non resistente acquisita tempori, atque
+ideo sectori D E T, et proinde sectori simili
+D a t proportionalis est ; velocitas in medio re-
+sistente extincta, est ut triangulum D a P, et in
+medio utroque ubi quam minima est, accedit ad
+rationem aequalitatis pro more sectoris D a t, et
+trianguli D a P.
+
+(†) 141. Demonstrari posset casus in ascensu
+corporis, ubi vis gravitatis . . . . . exponi debet per
+A B q. ¹* velocitas in ascensu exponatur per
+A ‘P ut prius, sit resistentia ut A P q†2 B A P,
+exponatur vis gravitatis per A B q capiatur B D
+et D F = B A erectoque perpendiculo F T A
+
+ 
+
+erit tempus ascensus totius ut sector sive trian-
+gulum D T A, agatur enim D V Q abscindens
+et velocitatis momentum P Q et sectoris D T A
+{nomentum D T V, velocitatis decrementum
+P Q est ut summa resistentiae et gravitatis sive
+utA Pq÷2BAP÷Aqud est (per
+4. 2²· Elem.) ut Β Ρ q; est autem area D T V
+adaream D P QutD Tq ad DPq, sive ob
+triangula similia D T F, D P B, ut D F q ad
+B P q, est ergo area D T V ut datum D F Q.
+‚Decrescic igitur area D TA admodum temporis
+futuri per subductiotwm-partzcularmn D T V, et
+
+ξζῖρεενεα tempori ascensus totius proportionatzs
+
+Nam velocitas
+
+gula similia D T F, A T P est D F : T F =
+A P : A T3 et jungendo terminos secundae ra-
+tionis cum terminis primae est l) F 4- A P (sive
+BP): ΤΡ-Ι-Α T(siveBD)=AP:AT,
+
+⁷ A P >< Β D
+
+est ergo A T = sive ob datum
+
+ 
+
+BP
+
+B D, A T est ut ἓ-ἷ.
+
+142. In isto casu velocitas A P est ad veloci-
+
+tatem quam corpus tempore D A T sive ’ἑ-Ρ
+
+in spatio non resistente ascendendo amittere vel
+descendendo acquirere posset, ut. B P ad A B.
+Nam velocitas in medio non resistente tempori
+atque ideo areae D A T sive rectae A T propor-
+tionalis est3 in medio resistente est ut A P, et in
+medio utroque ubi quam minima est, accedit ad
+rationem aequalitatis3 narn cum capiatur B D =
+A B, ratio linearum A P, A T, in puncto A ubi
+quam minima est, accedit ad rationem linearum
+A F, F D quae est aequalitatis. Quare velocitas
+A P, in medio resistente erit ad velocitatem in
+medio non resistente eodem tempore D A T
+amissam acquisitam ut A P ad A T, hoc est ob
+
+triangula similia A P T, B P D ut B P ad B D
+vel A B. Q. e. d.
+
+143. Ex formulis quas (19) dedimus ficii&
+intelligitur quomodo ad hoc Theorcma X. de-
+veniatur. Nam si dicatur gravitas g, veloci-
+tas v, resistentia 2 a v -l- v v, et tempus t;
+corpore ascendente erit (16. 17) g (l t -ξ- 2 a v d t
+
+÷vvdt=—dv, etideodoess.
+vv-j-Aav-l-g·
+Ponaturv-l-a=x‚etide6dv=dx‚ etvv
+
+42av=xx-—aa‚fietdt= -dx
+
+ 
+
+ 
+
+g—-aa=bb‚ eritdt=
+
+ 
+
+g--aa=—bberitdt=
+
+quantitatis -- ἓ-Ξ, est -ἒ, fluens quantitatis
+
+xx—-bb’
+
+Gs
+
